@@ -1,0 +1,100 @@
+﻿@using BackgroundStockChecker.Models
+@{
+    Layout = "_Layout";
+    var products = (IReadOnlyList<Product>)ViewData["Products"];
+    var initialLastCheck = (string)ViewData["LastCheckTime"];
+    ViewData["Title"] = "Logs";
+}
+
+<h2>Background Stock Checker</h2>
+
+<div>
+    <strong>Last stock check (UTC):</strong> <span id="lastCheck">@initialLastCheck</span>
+</div>
+
+<table class="table">
+    <thead>
+        <tr><th>Id</th><th>Name</th><th>Stock</th></tr>
+    </thead>
+    <tbody id="productsBody">
+        @foreach (var p in products)
+        {
+            <tr data-id="@p.Id">
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td class="stock">@p.Stock</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div>
+    @if (TempData["StatusMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["StatusMessage"]
+    </div>
+}
+
+
+</div>
+
+
+<div>
+    @if (Context.Session.GetString("LastCheckTime") != null)
+{
+    <p>Last Stock Check: @Context.Session.GetString("LastCheckTime")</p>
+}
+else
+{
+    <p>No stock check has been performed yet.</p>
+}
+
+
+
+</div>
+
+@* 
+<h2>Application Logs</h2>
+
+<pre style="background:#222; color:#0f0; padding:15px; white-space:pre-wrap;">
+@ViewBag.Logs
+</pre> *@
+
+
+
+<script>
+    async function refreshStatus() {
+        try {
+            const resp = await fetch('@Url.Action("GetStatus", "Home")');
+            if (!resp.ok) return;
+            const data = await resp.json();
+
+            document.getElementById('lastCheck').innerText = data.lastCheckTimeUtc ?? "Never";
+
+            const tbody = document.getElementById('productsBody');
+            const rowMap = {};
+            for (const row of tbody.querySelectorAll('tr')) {
+                rowMap[row.getAttribute('data-id')] = row;
+            }
+
+            data.products.forEach(p => {
+                const id = p.id.toString();
+                if (id in rowMap) {
+                    rowMap[id].querySelector('.stock').innerText = p.stock;
+                } else {
+                    const tr = document.createElement('tr');
+                    tr.setAttribute('data-id', id);
+                    tr.innerHTML = `<td>${p.id}</td><td>${p.name}</td><td class="stock">${p.stock}</td>`;
+                    tbody.appendChild(tr);
+                }
+            });
+        } catch (e) {
+            console.error('Failed to refresh status', e);
+        }
+    }
+
+    // Start polling every 5 seconds
+    setInterval(refreshStatus, 5000);
+</script>

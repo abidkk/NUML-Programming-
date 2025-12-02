@@ -1,0 +1,4918 @@
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:20:50 pm
+LOW STOCK → Orange: 0
+[STATE] LastCheckTime updated to 02/12/2025 4:20:50 pm
+[ALERT] Low stock: Orange ? 0
+[THREAD] Stock check ended at 02/12/2025 4:20:50 pm
+[THREAD] Stock check started at 02/12/2025 4:20:55 pm
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 02/12/2025 4:20:55 pm
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 02/12/2025 4:20:55 pm
+[THREAD] Stock check started at 02/12/2025 4:21:00 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:21:00 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:21:00 pm
+[THREAD] Stock check started at 02/12/2025 4:21:05 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -7
+[STATE] LastCheckTime updated to 02/12/2025 4:21:05 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -7
+[THREAD] Stock check ended at 02/12/2025 4:21:05 pm
+[THREAD] Stock check started at 02/12/2025 4:21:10 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:21:10 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:21:10 pm
+[THREAD] Stock check started at 02/12/2025 4:21:15 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:21:15 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:21:15 pm
+[THREAD] Stock check started at 02/12/2025 4:21:20 pm
+LOW STOCK → Apple: -4
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 4:21:20 pm
+[ALERT] Low stock: Apple ? -4
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 4:21:20 pm
+[THREAD] Stock check started at 02/12/2025 4:21:25 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:21:25 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:21:25 pm
+[THREAD] Stock check started at 02/12/2025 4:21:30 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:21:30 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:21:30 pm
+[THREAD] Stock check started at 02/12/2025 4:21:35 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 02/12/2025 4:21:35 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 02/12/2025 4:21:35 pm
+[THREAD] Stock check started at 02/12/2025 4:21:40 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -15
+LOW STOCK → Orange: -28
+[STATE] LastCheckTime updated to 02/12/2025 4:21:40 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -15
+[ALERT] Low stock: Orange ? -28
+[THREAD] Stock check ended at 02/12/2025 4:21:40 pm
+[THREAD] Stock check started at 02/12/2025 4:21:45 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -30
+[STATE] LastCheckTime updated to 02/12/2025 4:21:45 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -30
+[THREAD] Stock check ended at 02/12/2025 4:21:45 pm
+[THREAD] Stock check started at 02/12/2025 4:21:50 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -19
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 4:21:50 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -19
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 4:21:50 pm
+[THREAD] Stock check started at 02/12/2025 4:21:55 pm
+LOW STOCK → Apple: -19
+LOW STOCK → Banana: -21
+LOW STOCK → Orange: -34
+[STATE] LastCheckTime updated to 02/12/2025 4:21:55 pm
+[ALERT] Low stock: Apple ? -19
+[ALERT] Low stock: Banana ? -21
+[ALERT] Low stock: Orange ? -34
+[THREAD] Stock check ended at 02/12/2025 4:21:55 pm
+[THREAD] Stock check started at 02/12/2025 4:22:00 pm
+LOW STOCK → Apple: -21
+LOW STOCK → Banana: -25
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 02/12/2025 4:22:00 pm
+[ALERT] Low stock: Apple ? -21
+[ALERT] Low stock: Banana ? -25
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 02/12/2025 4:22:00 pm
+[THREAD] Stock check started at 02/12/2025 4:22:05 pm
+LOW STOCK → Apple: -22
+LOW STOCK → Banana: -26
+LOW STOCK → Orange: -38
+[STATE] LastCheckTime updated to 02/12/2025 4:22:05 pm
+[ALERT] Low stock: Apple ? -22
+[ALERT] Low stock: Banana ? -26
+[ALERT] Low stock: Orange ? -38
+[THREAD] Stock check ended at 02/12/2025 4:22:05 pm
+[THREAD] Stock check started at 02/12/2025 4:22:10 pm
+LOW STOCK → Apple: -24
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -40
+[STATE] LastCheckTime updated to 02/12/2025 4:22:10 pm
+[ALERT] Low stock: Apple ? -24
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -40
+[THREAD] Stock check ended at 02/12/2025 4:22:10 pm
+[THREAD] Stock check started at 02/12/2025 4:22:15 pm
+LOW STOCK → Apple: -26
+LOW STOCK → Banana: -30
+LOW STOCK → Orange: -43
+[STATE] LastCheckTime updated to 02/12/2025 4:22:15 pm
+[ALERT] Low stock: Apple ? -26
+[ALERT] Low stock: Banana ? -30
+[ALERT] Low stock: Orange ? -43
+[THREAD] Stock check ended at 02/12/2025 4:22:15 pm
+[THREAD] Stock check started at 02/12/2025 4:22:20 pm
+LOW STOCK → Apple: -27
+LOW STOCK → Banana: -31
+LOW STOCK → Orange: -44
+[STATE] LastCheckTime updated to 02/12/2025 4:22:20 pm
+[ALERT] Low stock: Apple ? -27
+[ALERT] Low stock: Banana ? -31
+[ALERT] Low stock: Orange ? -44
+[THREAD] Stock check ended at 02/12/2025 4:22:20 pm
+[THREAD] Stock check started at 02/12/2025 4:22:25 pm
+LOW STOCK → Apple: -29
+LOW STOCK → Banana: -33
+LOW STOCK → Orange: -48
+[STATE] LastCheckTime updated to 02/12/2025 4:22:25 pm
+[ALERT] Low stock: Apple ? -29
+[ALERT] Low stock: Banana ? -33
+[ALERT] Low stock: Orange ? -48
+[THREAD] Stock check ended at 02/12/2025 4:22:25 pm
+[THREAD] Stock check started at 02/12/2025 4:22:30 pm
+LOW STOCK → Apple: -32
+LOW STOCK → Banana: -36
+LOW STOCK → Orange: -52
+[STATE] LastCheckTime updated to 02/12/2025 4:22:30 pm
+[ALERT] Low stock: Apple ? -32
+[ALERT] Low stock: Banana ? -36
+[ALERT] Low stock: Orange ? -52
+[THREAD] Stock check ended at 02/12/2025 4:22:30 pm
+[THREAD] Stock check started at 02/12/2025 4:22:35 pm
+LOW STOCK → Apple: -33
+LOW STOCK → Banana: -40
+LOW STOCK → Orange: -55
+[STATE] LastCheckTime updated to 02/12/2025 4:22:35 pm
+[ALERT] Low stock: Apple ? -33
+[ALERT] Low stock: Banana ? -40
+[ALERT] Low stock: Orange ? -55
+[THREAD] Stock check ended at 02/12/2025 4:22:35 pm
+[THREAD] Stock check started at 02/12/2025 4:22:40 pm
+LOW STOCK → Apple: -36
+LOW STOCK → Banana: -42
+LOW STOCK → Orange: -56
+[STATE] LastCheckTime updated to 02/12/2025 4:22:40 pm
+[ALERT] Low stock: Apple ? -36
+[ALERT] Low stock: Banana ? -42
+[ALERT] Low stock: Orange ? -56
+[THREAD] Stock check ended at 02/12/2025 4:22:40 pm
+[THREAD] Stock check started at 02/12/2025 4:22:45 pm
+LOW STOCK → Apple: -40
+LOW STOCK → Banana: -44
+LOW STOCK → Orange: -60
+[STATE] LastCheckTime updated to 02/12/2025 4:22:45 pm
+[ALERT] Low stock: Apple ? -40
+[ALERT] Low stock: Banana ? -44
+[ALERT] Low stock: Orange ? -60
+[THREAD] Stock check ended at 02/12/2025 4:22:45 pm
+[THREAD] Stock check started at 02/12/2025 4:22:50 pm
+LOW STOCK → Apple: -42
+LOW STOCK → Banana: -46
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 4:22:50 pm
+[ALERT] Low stock: Apple ? -42
+[ALERT] Low stock: Banana ? -46
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 4:22:50 pm
+[THREAD] Stock check started at 02/12/2025 4:22:55 pm
+LOW STOCK → Apple: -45
+LOW STOCK → Banana: -49
+LOW STOCK → Orange: -66
+[STATE] LastCheckTime updated to 02/12/2025 4:22:55 pm
+[ALERT] Low stock: Apple ? -45
+[ALERT] Low stock: Banana ? -49
+[ALERT] Low stock: Orange ? -66
+[THREAD] Stock check ended at 02/12/2025 4:22:55 pm
+[THREAD] Stock check started at 02/12/2025 4:23:00 pm
+LOW STOCK → Apple: -48
+LOW STOCK → Banana: -53
+LOW STOCK → Orange: -69
+[STATE] LastCheckTime updated to 02/12/2025 4:23:00 pm
+[ALERT] Low stock: Apple ? -48
+[ALERT] Low stock: Banana ? -53
+[ALERT] Low stock: Orange ? -69
+[THREAD] Stock check ended at 02/12/2025 4:23:00 pm
+[THREAD] Stock check started at 02/12/2025 4:23:05 pm
+LOW STOCK → Apple: -49
+LOW STOCK → Banana: -57
+LOW STOCK → Orange: -70
+[STATE] LastCheckTime updated to 02/12/2025 4:23:05 pm
+[ALERT] Low stock: Apple ? -49
+[ALERT] Low stock: Banana ? -57
+[ALERT] Low stock: Orange ? -70
+[THREAD] Stock check ended at 02/12/2025 4:23:05 pm
+[THREAD] Stock check started at 02/12/2025 4:23:10 pm
+LOW STOCK → Apple: -50
+LOW STOCK → Banana: -58
+LOW STOCK → Orange: -72
+[STATE] LastCheckTime updated to 02/12/2025 4:23:10 pm
+[ALERT] Low stock: Apple ? -50
+[ALERT] Low stock: Banana ? -58
+[ALERT] Low stock: Orange ? -72
+[THREAD] Stock check ended at 02/12/2025 4:23:10 pm
+[THREAD] Stock check started at 02/12/2025 4:23:15 pm
+LOW STOCK → Apple: -52
+LOW STOCK → Banana: -61
+LOW STOCK → Orange: -73
+[STATE] LastCheckTime updated to 02/12/2025 4:23:15 pm
+[ALERT] Low stock: Apple ? -52
+[ALERT] Low stock: Banana ? -61
+[ALERT] Low stock: Orange ? -73
+[THREAD] Stock check ended at 02/12/2025 4:23:15 pm
+[THREAD] Stock check started at 02/12/2025 4:23:20 pm
+LOW STOCK → Apple: -54
+LOW STOCK → Banana: -64
+LOW STOCK → Orange: -76
+[STATE] LastCheckTime updated to 02/12/2025 4:23:20 pm
+[ALERT] Low stock: Apple ? -54
+[ALERT] Low stock: Banana ? -64
+[ALERT] Low stock: Orange ? -76
+[THREAD] Stock check ended at 02/12/2025 4:23:20 pm
+[THREAD] Stock check started at 02/12/2025 4:23:26 pm
+LOW STOCK → Apple: -58
+LOW STOCK → Banana: -66
+LOW STOCK → Orange: -77
+[STATE] LastCheckTime updated to 02/12/2025 4:23:26 pm
+[ALERT] Low stock: Apple ? -58
+[ALERT] Low stock: Banana ? -66
+[ALERT] Low stock: Orange ? -77
+[THREAD] Stock check ended at 02/12/2025 4:23:26 pm
+[THREAD] Stock check started at 02/12/2025 4:23:31 pm
+LOW STOCK → Apple: -61
+LOW STOCK → Banana: -67
+LOW STOCK → Orange: -81
+[STATE] LastCheckTime updated to 02/12/2025 4:23:31 pm
+[ALERT] Low stock: Apple ? -61
+[ALERT] Low stock: Banana ? -67
+[ALERT] Low stock: Orange ? -81
+[THREAD] Stock check ended at 02/12/2025 4:23:31 pm
+[THREAD] Stock check started at 02/12/2025 4:23:36 pm
+LOW STOCK → Apple: -65
+LOW STOCK → Banana: -68
+LOW STOCK → Orange: -84
+[STATE] LastCheckTime updated to 02/12/2025 4:23:36 pm
+[ALERT] Low stock: Apple ? -65
+[ALERT] Low stock: Banana ? -68
+[ALERT] Low stock: Orange ? -84
+[THREAD] Stock check ended at 02/12/2025 4:23:36 pm
+[THREAD] Stock check started at 02/12/2025 4:23:41 pm
+LOW STOCK → Apple: -69
+LOW STOCK → Banana: -69
+LOW STOCK → Orange: -88
+[STATE] LastCheckTime updated to 02/12/2025 4:23:41 pm
+[ALERT] Low stock: Apple ? -69
+[ALERT] Low stock: Banana ? -69
+[ALERT] Low stock: Orange ? -88
+[THREAD] Stock check ended at 02/12/2025 4:23:41 pm
+[THREAD] Stock check started at 02/12/2025 4:23:46 pm
+LOW STOCK → Apple: -70
+LOW STOCK → Banana: -71
+LOW STOCK → Orange: -92
+[STATE] LastCheckTime updated to 02/12/2025 4:23:46 pm
+[ALERT] Low stock: Apple ? -70
+[ALERT] Low stock: Banana ? -71
+[ALERT] Low stock: Orange ? -92
+[THREAD] Stock check ended at 02/12/2025 4:23:46 pm
+[THREAD] Stock check started at 02/12/2025 4:23:51 pm
+LOW STOCK → Apple: -73
+LOW STOCK → Banana: -74
+LOW STOCK → Orange: -95
+[STATE] LastCheckTime updated to 02/12/2025 4:23:51 pm
+[ALERT] Low stock: Apple ? -73
+[ALERT] Low stock: Banana ? -74
+[ALERT] Low stock: Orange ? -95
+[THREAD] Stock check ended at 02/12/2025 4:23:51 pm
+[THREAD] Stock check started at 02/12/2025 4:23:56 pm
+LOW STOCK → Apple: -77
+LOW STOCK → Banana: -77
+LOW STOCK → Orange: -97
+[STATE] LastCheckTime updated to 02/12/2025 4:23:56 pm
+[ALERT] Low stock: Apple ? -77
+[ALERT] Low stock: Banana ? -77
+[ALERT] Low stock: Orange ? -97
+[THREAD] Stock check ended at 02/12/2025 4:23:56 pm
+[THREAD] Stock check started at 02/12/2025 4:24:01 pm
+LOW STOCK → Apple: -79
+LOW STOCK → Banana: -81
+LOW STOCK → Orange: -99
+[STATE] LastCheckTime updated to 02/12/2025 4:24:01 pm
+[ALERT] Low stock: Apple ? -79
+[ALERT] Low stock: Banana ? -81
+[ALERT] Low stock: Orange ? -99
+[THREAD] Stock check ended at 02/12/2025 4:24:01 pm
+[THREAD] Stock check started at 02/12/2025 4:24:06 pm
+LOW STOCK → Apple: -81
+LOW STOCK → Banana: -85
+LOW STOCK → Orange: -100
+[STATE] LastCheckTime updated to 02/12/2025 4:24:06 pm
+[ALERT] Low stock: Apple ? -81
+[ALERT] Low stock: Banana ? -85
+[ALERT] Low stock: Orange ? -100
+[THREAD] Stock check ended at 02/12/2025 4:24:06 pm
+[THREAD] Stock check started at 02/12/2025 4:24:11 pm
+LOW STOCK → Apple: -85
+LOW STOCK → Banana: -87
+LOW STOCK → Orange: -103
+[STATE] LastCheckTime updated to 02/12/2025 4:24:11 pm
+[ALERT] Low stock: Apple ? -85
+[ALERT] Low stock: Banana ? -87
+[ALERT] Low stock: Orange ? -103
+[THREAD] Stock check ended at 02/12/2025 4:24:11 pm
+[THREAD] Stock check started at 02/12/2025 4:24:16 pm
+LOW STOCK → Apple: -89
+LOW STOCK → Banana: -90
+LOW STOCK → Orange: -105
+[STATE] LastCheckTime updated to 02/12/2025 4:24:16 pm
+[ALERT] Low stock: Apple ? -89
+[ALERT] Low stock: Banana ? -90
+[ALERT] Low stock: Orange ? -105
+[THREAD] Stock check ended at 02/12/2025 4:24:16 pm
+[THREAD] Stock check started at 02/12/2025 4:24:21 pm
+LOW STOCK → Apple: -93
+LOW STOCK → Banana: -94
+LOW STOCK → Orange: -109
+[STATE] LastCheckTime updated to 02/12/2025 4:24:21 pm
+[ALERT] Low stock: Apple ? -93
+[ALERT] Low stock: Banana ? -94
+[ALERT] Low stock: Orange ? -109
+[THREAD] Stock check ended at 02/12/2025 4:24:21 pm
+[THREAD] Stock check started at 02/12/2025 4:24:26 pm
+LOW STOCK → Apple: -97
+LOW STOCK → Banana: -97
+LOW STOCK → Orange: -112
+[STATE] LastCheckTime updated to 02/12/2025 4:24:26 pm
+[ALERT] Low stock: Apple ? -97
+[ALERT] Low stock: Banana ? -97
+[ALERT] Low stock: Orange ? -112
+[THREAD] Stock check ended at 02/12/2025 4:24:26 pm
+[THREAD] Stock check started at 02/12/2025 4:24:31 pm
+LOW STOCK → Apple: -100
+LOW STOCK → Banana: -98
+LOW STOCK → Orange: -114
+[STATE] LastCheckTime updated to 02/12/2025 4:24:31 pm
+[ALERT] Low stock: Apple ? -100
+[ALERT] Low stock: Banana ? -98
+[ALERT] Low stock: Orange ? -114
+[THREAD] Stock check ended at 02/12/2025 4:24:31 pm
+[THREAD] Stock check started at 02/12/2025 4:24:36 pm
+LOW STOCK → Apple: -104
+LOW STOCK → Banana: -101
+LOW STOCK → Orange: -118
+[STATE] LastCheckTime updated to 02/12/2025 4:24:36 pm
+[ALERT] Low stock: Apple ? -104
+[ALERT] Low stock: Banana ? -101
+[ALERT] Low stock: Orange ? -118
+[THREAD] Stock check ended at 02/12/2025 4:24:36 pm
+[THREAD] Stock check started at 02/12/2025 4:24:41 pm
+LOW STOCK → Apple: -108
+LOW STOCK → Banana: -105
+LOW STOCK → Orange: -121
+[STATE] LastCheckTime updated to 02/12/2025 4:24:41 pm
+[ALERT] Low stock: Apple ? -108
+[ALERT] Low stock: Banana ? -105
+[ALERT] Low stock: Orange ? -121
+[THREAD] Stock check ended at 02/12/2025 4:24:41 pm
+[THREAD] Stock check started at 02/12/2025 4:24:46 pm
+LOW STOCK → Apple: -112
+LOW STOCK → Banana: -108
+LOW STOCK → Orange: -122
+[STATE] LastCheckTime updated to 02/12/2025 4:24:46 pm
+[ALERT] Low stock: Apple ? -112
+[ALERT] Low stock: Banana ? -108
+[ALERT] Low stock: Orange ? -122
+[THREAD] Stock check ended at 02/12/2025 4:24:46 pm
+[THREAD] Stock check started at 02/12/2025 4:24:51 pm
+LOW STOCK → Apple: -116
+LOW STOCK → Banana: -110
+LOW STOCK → Orange: -124
+[STATE] LastCheckTime updated to 02/12/2025 4:24:51 pm
+[ALERT] Low stock: Apple ? -116
+[ALERT] Low stock: Banana ? -110
+[ALERT] Low stock: Orange ? -124
+[THREAD] Stock check ended at 02/12/2025 4:24:51 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:24:56 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:24:56 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:24:56 pm
+[THREAD] Stock check started at 02/12/2025 4:25:01 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -2
+[STATE] LastCheckTime updated to 02/12/2025 4:25:01 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -2
+[THREAD] Stock check ended at 02/12/2025 4:25:01 pm
+[THREAD] Stock check started at 02/12/2025 4:25:06 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:25:06 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:25:06 pm
+[THREAD] Stock check started at 02/12/2025 4:25:11 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:25:11 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:25:11 pm
+[THREAD] Stock check started at 02/12/2025 4:25:16 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -8
+[STATE] LastCheckTime updated to 02/12/2025 4:25:16 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -8
+[THREAD] Stock check ended at 02/12/2025 4:25:16 pm
+[THREAD] Stock check started at 02/12/2025 4:25:21 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 1
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:25:21 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 1
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:25:21 pm
+[THREAD] Stock check started at 02/12/2025 4:25:26 pm
+LOW STOCK → Apple: -7
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:25:26 pm
+[ALERT] Low stock: Apple ? -7
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:25:26 pm
+[THREAD] Stock check started at 02/12/2025 4:25:31 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: -2
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:25:31 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? -2
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:25:31 pm
+[THREAD] Stock check started at 02/12/2025 4:25:36 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:25:36 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:25:36 pm
+[THREAD] Stock check started at 02/12/2025 4:25:41 pm
+LOW STOCK → Apple: -12
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:25:41 pm
+[ALERT] Low stock: Apple ? -12
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:25:41 pm
+[THREAD] Stock check started at 02/12/2025 4:25:46 pm
+LOW STOCK → Apple: -13
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:25:46 pm
+[ALERT] Low stock: Apple ? -13
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:25:46 pm
+[THREAD] Stock check started at 02/12/2025 4:25:51 pm
+LOW STOCK → Apple: -15
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 02/12/2025 4:25:51 pm
+[ALERT] Low stock: Apple ? -15
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 02/12/2025 4:25:51 pm
+[THREAD] Stock check started at 02/12/2025 4:25:56 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -17
+LOW STOCK → Orange: -25
+[STATE] LastCheckTime updated to 02/12/2025 4:25:56 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -17
+[ALERT] Low stock: Orange ? -25
+[THREAD] Stock check ended at 02/12/2025 4:25:56 pm
+[THREAD] Stock check started at 02/12/2025 4:26:01 pm
+LOW STOCK → Apple: -20
+LOW STOCK → Banana: -19
+LOW STOCK → Orange: -28
+[STATE] LastCheckTime updated to 02/12/2025 4:26:01 pm
+[ALERT] Low stock: Apple ? -20
+[ALERT] Low stock: Banana ? -19
+[ALERT] Low stock: Orange ? -28
+[THREAD] Stock check ended at 02/12/2025 4:26:01 pm
+[THREAD] Stock check started at 02/12/2025 4:26:06 pm
+LOW STOCK → Apple: -24
+LOW STOCK → Banana: -22
+LOW STOCK → Orange: -30
+[STATE] LastCheckTime updated to 02/12/2025 4:26:06 pm
+[ALERT] Low stock: Apple ? -24
+[ALERT] Low stock: Banana ? -22
+[ALERT] Low stock: Orange ? -30
+[THREAD] Stock check ended at 02/12/2025 4:26:06 pm
+[THREAD] Stock check started at 02/12/2025 4:26:11 pm
+LOW STOCK → Apple: -28
+LOW STOCK → Banana: -23
+LOW STOCK → Orange: -31
+[STATE] LastCheckTime updated to 02/12/2025 4:26:11 pm
+[ALERT] Low stock: Apple ? -28
+[ALERT] Low stock: Banana ? -23
+[ALERT] Low stock: Orange ? -31
+[THREAD] Stock check ended at 02/12/2025 4:26:11 pm
+[THREAD] Stock check started at 02/12/2025 4:26:16 pm
+LOW STOCK → Apple: -30
+LOW STOCK → Banana: -24
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 4:26:16 pm
+[ALERT] Low stock: Apple ? -30
+[ALERT] Low stock: Banana ? -24
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 4:26:16 pm
+[THREAD] Stock check started at 02/12/2025 4:26:21 pm
+LOW STOCK → Apple: -32
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -37
+[STATE] LastCheckTime updated to 02/12/2025 4:26:21 pm
+[ALERT] Low stock: Apple ? -32
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -37
+[THREAD] Stock check ended at 02/12/2025 4:26:21 pm
+[THREAD] Stock check started at 02/12/2025 4:26:26 pm
+LOW STOCK → Apple: -33
+LOW STOCK → Banana: -31
+LOW STOCK → Orange: -38
+[STATE] LastCheckTime updated to 02/12/2025 4:26:26 pm
+[ALERT] Low stock: Apple ? -33
+[ALERT] Low stock: Banana ? -31
+[ALERT] Low stock: Orange ? -38
+[THREAD] Stock check ended at 02/12/2025 4:26:26 pm
+[THREAD] Stock check started at 02/12/2025 4:26:31 pm
+LOW STOCK → Apple: -34
+LOW STOCK → Banana: -35
+LOW STOCK → Orange: -39
+[STATE] LastCheckTime updated to 02/12/2025 4:26:32 pm
+[ALERT] Low stock: Apple ? -34
+[ALERT] Low stock: Banana ? -35
+[ALERT] Low stock: Orange ? -39
+[THREAD] Stock check ended at 02/12/2025 4:26:32 pm
+[THREAD] Stock check started at 02/12/2025 4:26:37 pm
+LOW STOCK → Apple: -37
+LOW STOCK → Banana: -37
+LOW STOCK → Orange: -42
+[STATE] LastCheckTime updated to 02/12/2025 4:26:37 pm
+[ALERT] Low stock: Apple ? -37
+[ALERT] Low stock: Banana ? -37
+[ALERT] Low stock: Orange ? -42
+[THREAD] Stock check ended at 02/12/2025 4:26:37 pm
+[THREAD] Stock check started at 02/12/2025 4:26:42 pm
+LOW STOCK → Apple: -40
+LOW STOCK → Banana: -41
+LOW STOCK → Orange: -46
+[STATE] LastCheckTime updated to 02/12/2025 4:26:42 pm
+[ALERT] Low stock: Apple ? -40
+[ALERT] Low stock: Banana ? -41
+[ALERT] Low stock: Orange ? -46
+[THREAD] Stock check ended at 02/12/2025 4:26:42 pm
+[THREAD] Stock check started at 02/12/2025 4:26:47 pm
+LOW STOCK → Apple: -42
+LOW STOCK → Banana: -43
+LOW STOCK → Orange: -47
+[STATE] LastCheckTime updated to 02/12/2025 4:26:47 pm
+[ALERT] Low stock: Apple ? -42
+[ALERT] Low stock: Banana ? -43
+[ALERT] Low stock: Orange ? -47
+[THREAD] Stock check ended at 02/12/2025 4:26:47 pm
+[THREAD] Stock check started at 02/12/2025 4:26:52 pm
+LOW STOCK → Apple: -44
+LOW STOCK → Banana: -44
+LOW STOCK → Orange: -50
+[STATE] LastCheckTime updated to 02/12/2025 4:26:52 pm
+[ALERT] Low stock: Apple ? -44
+[ALERT] Low stock: Banana ? -44
+[ALERT] Low stock: Orange ? -50
+[THREAD] Stock check ended at 02/12/2025 4:26:52 pm
+[THREAD] Stock check started at 02/12/2025 4:26:57 pm
+LOW STOCK → Apple: -48
+LOW STOCK → Banana: -47
+LOW STOCK → Orange: -51
+[STATE] LastCheckTime updated to 02/12/2025 4:26:57 pm
+[ALERT] Low stock: Apple ? -48
+[ALERT] Low stock: Banana ? -47
+[ALERT] Low stock: Orange ? -51
+[THREAD] Stock check ended at 02/12/2025 4:26:57 pm
+[THREAD] Stock check started at 02/12/2025 4:27:02 pm
+LOW STOCK → Apple: -49
+LOW STOCK → Banana: -51
+LOW STOCK → Orange: -55
+[STATE] LastCheckTime updated to 02/12/2025 4:27:02 pm
+[ALERT] Low stock: Apple ? -49
+[ALERT] Low stock: Banana ? -51
+[ALERT] Low stock: Orange ? -55
+[THREAD] Stock check ended at 02/12/2025 4:27:02 pm
+[THREAD] Stock check started at 02/12/2025 4:27:07 pm
+LOW STOCK → Apple: -50
+LOW STOCK → Banana: -54
+LOW STOCK → Orange: -57
+[STATE] LastCheckTime updated to 02/12/2025 4:27:07 pm
+[ALERT] Low stock: Apple ? -50
+[ALERT] Low stock: Banana ? -54
+[ALERT] Low stock: Orange ? -57
+[THREAD] Stock check ended at 02/12/2025 4:27:07 pm
+[THREAD] Stock check started at 02/12/2025 4:27:12 pm
+LOW STOCK → Apple: -51
+LOW STOCK → Banana: -55
+LOW STOCK → Orange: -60
+[STATE] LastCheckTime updated to 02/12/2025 4:27:12 pm
+[ALERT] Low stock: Apple ? -51
+[ALERT] Low stock: Banana ? -55
+[ALERT] Low stock: Orange ? -60
+[THREAD] Stock check ended at 02/12/2025 4:27:12 pm
+[THREAD] Stock check started at 02/12/2025 4:27:17 pm
+LOW STOCK → Apple: -54
+LOW STOCK → Banana: -57
+LOW STOCK → Orange: -63
+[STATE] LastCheckTime updated to 02/12/2025 4:27:17 pm
+[ALERT] Low stock: Apple ? -54
+[ALERT] Low stock: Banana ? -57
+[ALERT] Low stock: Orange ? -63
+[THREAD] Stock check ended at 02/12/2025 4:27:17 pm
+[THREAD] Stock check started at 02/12/2025 4:27:22 pm
+LOW STOCK → Apple: -58
+LOW STOCK → Banana: -60
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 4:27:22 pm
+[ALERT] Low stock: Apple ? -58
+[ALERT] Low stock: Banana ? -60
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 4:27:22 pm
+[THREAD] Stock check started at 02/12/2025 4:27:27 pm
+LOW STOCK → Apple: -60
+LOW STOCK → Banana: -61
+LOW STOCK → Orange: -68
+[STATE] LastCheckTime updated to 02/12/2025 4:27:27 pm
+[ALERT] Low stock: Apple ? -60
+[ALERT] Low stock: Banana ? -61
+[ALERT] Low stock: Orange ? -68
+[THREAD] Stock check ended at 02/12/2025 4:27:27 pm
+[THREAD] Stock check started at 02/12/2025 4:27:32 pm
+LOW STOCK → Apple: -61
+LOW STOCK → Banana: -63
+LOW STOCK → Orange: -70
+[STATE] LastCheckTime updated to 02/12/2025 4:27:32 pm
+[ALERT] Low stock: Apple ? -61
+[ALERT] Low stock: Banana ? -63
+[ALERT] Low stock: Orange ? -70
+[THREAD] Stock check ended at 02/12/2025 4:27:32 pm
+[THREAD] Stock check started at 02/12/2025 4:27:37 pm
+LOW STOCK → Apple: -62
+LOW STOCK → Banana: -66
+LOW STOCK → Orange: -72
+[STATE] LastCheckTime updated to 02/12/2025 4:27:37 pm
+[ALERT] Low stock: Apple ? -62
+[ALERT] Low stock: Banana ? -66
+[ALERT] Low stock: Orange ? -72
+[THREAD] Stock check ended at 02/12/2025 4:27:37 pm
+[THREAD] Stock check started at 02/12/2025 4:27:42 pm
+LOW STOCK → Apple: -66
+LOW STOCK → Banana: -70
+LOW STOCK → Orange: -75
+[STATE] LastCheckTime updated to 02/12/2025 4:27:42 pm
+[ALERT] Low stock: Apple ? -66
+[ALERT] Low stock: Banana ? -70
+[ALERT] Low stock: Orange ? -75
+[THREAD] Stock check ended at 02/12/2025 4:27:42 pm
+[THREAD] Stock check started at 02/12/2025 4:27:47 pm
+LOW STOCK → Apple: -69
+LOW STOCK → Banana: -73
+LOW STOCK → Orange: -78
+[STATE] LastCheckTime updated to 02/12/2025 4:27:47 pm
+[ALERT] Low stock: Apple ? -69
+[ALERT] Low stock: Banana ? -73
+[ALERT] Low stock: Orange ? -78
+[THREAD] Stock check ended at 02/12/2025 4:27:47 pm
+[THREAD] Stock check started at 02/12/2025 4:27:52 pm
+LOW STOCK → Apple: -73
+LOW STOCK → Banana: -76
+LOW STOCK → Orange: -82
+[STATE] LastCheckTime updated to 02/12/2025 4:27:52 pm
+[ALERT] Low stock: Apple ? -73
+[ALERT] Low stock: Banana ? -76
+[ALERT] Low stock: Orange ? -82
+[THREAD] Stock check ended at 02/12/2025 4:27:52 pm
+[THREAD] Stock check started at 02/12/2025 4:27:57 pm
+LOW STOCK → Apple: -76
+LOW STOCK → Banana: -77
+LOW STOCK → Orange: -85
+[STATE] LastCheckTime updated to 02/12/2025 4:27:57 pm
+[ALERT] Low stock: Apple ? -76
+[ALERT] Low stock: Banana ? -77
+[ALERT] Low stock: Orange ? -85
+[THREAD] Stock check ended at 02/12/2025 4:27:57 pm
+[THREAD] Stock check started at 02/12/2025 4:28:02 pm
+LOW STOCK → Apple: -80
+LOW STOCK → Banana: -78
+LOW STOCK → Orange: -89
+[STATE] LastCheckTime updated to 02/12/2025 4:28:02 pm
+[ALERT] Low stock: Apple ? -80
+[ALERT] Low stock: Banana ? -78
+[ALERT] Low stock: Orange ? -89
+[THREAD] Stock check ended at 02/12/2025 4:28:02 pm
+[THREAD] Stock check started at 02/12/2025 4:28:07 pm
+LOW STOCK → Apple: -83
+LOW STOCK → Banana: -80
+LOW STOCK → Orange: -93
+[STATE] LastCheckTime updated to 02/12/2025 4:28:07 pm
+[ALERT] Low stock: Apple ? -83
+[ALERT] Low stock: Banana ? -80
+[ALERT] Low stock: Orange ? -93
+[THREAD] Stock check ended at 02/12/2025 4:28:07 pm
+[THREAD] Stock check started at 02/12/2025 4:28:12 pm
+LOW STOCK → Apple: -85
+LOW STOCK → Banana: -81
+LOW STOCK → Orange: -94
+[STATE] LastCheckTime updated to 02/12/2025 4:28:12 pm
+[ALERT] Low stock: Apple ? -85
+[ALERT] Low stock: Banana ? -81
+[ALERT] Low stock: Orange ? -94
+[THREAD] Stock check ended at 02/12/2025 4:28:12 pm
+[THREAD] Stock check started at 02/12/2025 4:28:17 pm
+LOW STOCK → Apple: -87
+LOW STOCK → Banana: -85
+LOW STOCK → Orange: -97
+[STATE] LastCheckTime updated to 02/12/2025 4:28:17 pm
+[ALERT] Low stock: Apple ? -87
+[ALERT] Low stock: Banana ? -85
+[ALERT] Low stock: Orange ? -97
+[THREAD] Stock check ended at 02/12/2025 4:28:17 pm
+[THREAD] Stock check started at 02/12/2025 4:28:22 pm
+LOW STOCK → Apple: -89
+LOW STOCK → Banana: -88
+LOW STOCK → Orange: -98
+[STATE] LastCheckTime updated to 02/12/2025 4:28:22 pm
+[ALERT] Low stock: Apple ? -89
+[ALERT] Low stock: Banana ? -88
+[ALERT] Low stock: Orange ? -98
+[THREAD] Stock check ended at 02/12/2025 4:28:22 pm
+[THREAD] Stock check started at 02/12/2025 4:28:27 pm
+LOW STOCK → Apple: -92
+LOW STOCK → Banana: -92
+LOW STOCK → Orange: -102
+[STATE] LastCheckTime updated to 02/12/2025 4:28:27 pm
+[ALERT] Low stock: Apple ? -92
+[ALERT] Low stock: Banana ? -92
+[ALERT] Low stock: Orange ? -102
+[THREAD] Stock check ended at 02/12/2025 4:28:27 pm
+[THREAD] Stock check started at 02/12/2025 4:28:32 pm
+LOW STOCK → Apple: -96
+LOW STOCK → Banana: -94
+LOW STOCK → Orange: -103
+[STATE] LastCheckTime updated to 02/12/2025 4:28:32 pm
+[ALERT] Low stock: Apple ? -96
+[ALERT] Low stock: Banana ? -94
+[ALERT] Low stock: Orange ? -103
+[THREAD] Stock check ended at 02/12/2025 4:28:32 pm
+[THREAD] Stock check started at 02/12/2025 4:28:37 pm
+LOW STOCK → Apple: -97
+LOW STOCK → Banana: -96
+LOW STOCK → Orange: -105
+[STATE] LastCheckTime updated to 02/12/2025 4:28:37 pm
+[ALERT] Low stock: Apple ? -97
+[ALERT] Low stock: Banana ? -96
+[ALERT] Low stock: Orange ? -105
+[THREAD] Stock check ended at 02/12/2025 4:28:37 pm
+[THREAD] Stock check started at 02/12/2025 4:28:42 pm
+LOW STOCK → Apple: -99
+LOW STOCK → Banana: -99
+LOW STOCK → Orange: -109
+[STATE] LastCheckTime updated to 02/12/2025 4:28:42 pm
+[ALERT] Low stock: Apple ? -99
+[ALERT] Low stock: Banana ? -99
+[ALERT] Low stock: Orange ? -109
+[THREAD] Stock check ended at 02/12/2025 4:28:42 pm
+[THREAD] Stock check started at 02/12/2025 4:28:47 pm
+LOW STOCK → Apple: -103
+LOW STOCK → Banana: -102
+LOW STOCK → Orange: -110
+[STATE] LastCheckTime updated to 02/12/2025 4:28:47 pm
+[ALERT] Low stock: Apple ? -103
+[ALERT] Low stock: Banana ? -102
+[ALERT] Low stock: Orange ? -110
+[THREAD] Stock check ended at 02/12/2025 4:28:47 pm
+[THREAD] Stock check started at 02/12/2025 4:28:52 pm
+LOW STOCK → Apple: -106
+LOW STOCK → Banana: -104
+LOW STOCK → Orange: -111
+[STATE] LastCheckTime updated to 02/12/2025 4:28:52 pm
+[ALERT] Low stock: Apple ? -106
+[ALERT] Low stock: Banana ? -104
+[ALERT] Low stock: Orange ? -111
+[THREAD] Stock check ended at 02/12/2025 4:28:52 pm
+[THREAD] Stock check started at 02/12/2025 4:28:57 pm
+LOW STOCK → Apple: -110
+LOW STOCK → Banana: -106
+LOW STOCK → Orange: -115
+[STATE] LastCheckTime updated to 02/12/2025 4:28:57 pm
+[ALERT] Low stock: Apple ? -110
+[ALERT] Low stock: Banana ? -106
+[ALERT] Low stock: Orange ? -115
+[THREAD] Stock check ended at 02/12/2025 4:28:57 pm
+[THREAD] Stock check started at 02/12/2025 4:29:02 pm
+LOW STOCK → Apple: -113
+LOW STOCK → Banana: -109
+LOW STOCK → Orange: -117
+[STATE] LastCheckTime updated to 02/12/2025 4:29:02 pm
+[ALERT] Low stock: Apple ? -113
+[ALERT] Low stock: Banana ? -109
+[ALERT] Low stock: Orange ? -117
+[THREAD] Stock check ended at 02/12/2025 4:29:02 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:29:12 pm
+LOW STOCK → Orange: -2
+[STATE] LastCheckTime updated to 02/12/2025 4:29:12 pm
+[ALERT] Low stock: Orange ? -2
+[THREAD] Stock check ended at 02/12/2025 4:29:12 pm
+[THREAD] Stock check started at 02/12/2025 4:29:17 pm
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:29:17 pm
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:29:17 pm
+[THREAD] Stock check started at 02/12/2025 4:29:22 pm
+LOW STOCK → Orange: -8
+[STATE] LastCheckTime updated to 02/12/2025 4:29:22 pm
+[ALERT] Low stock: Orange ? -8
+[THREAD] Stock check ended at 02/12/2025 4:29:22 pm
+[THREAD] Stock check started at 02/12/2025 4:29:27 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 4:29:27 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 4:29:27 pm
+[THREAD] Stock check started at 02/12/2025 4:29:32 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 4:29:32 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 4:29:32 pm
+[THREAD] Stock check started at 02/12/2025 4:29:37 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:29:37 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:29:37 pm
+[THREAD] Stock check started at 02/12/2025 4:29:42 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:29:43 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:29:43 pm
+[THREAD] Stock check started at 02/12/2025 4:29:48 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:29:48 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:29:48 pm
+[THREAD] Stock check started at 02/12/2025 4:29:53 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:29:53 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:29:53 pm
+[THREAD] Stock check started at 02/12/2025 4:29:58 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: -6
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:29:58 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? -6
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:29:58 pm
+[THREAD] Stock check started at 02/12/2025 4:30:03 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 02/12/2025 4:30:03 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 02/12/2025 4:30:03 pm
+[THREAD] Stock check started at 02/12/2025 4:30:08 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -12
+LOW STOCK → Orange: -25
+[STATE] LastCheckTime updated to 02/12/2025 4:30:08 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -12
+[ALERT] Low stock: Orange ? -25
+[THREAD] Stock check ended at 02/12/2025 4:30:08 pm
+[THREAD] Stock check started at 02/12/2025 4:30:13 pm
+LOW STOCK → Apple: -16
+LOW STOCK → Banana: -15
+LOW STOCK → Orange: -28
+[STATE] LastCheckTime updated to 02/12/2025 4:30:13 pm
+[ALERT] Low stock: Apple ? -16
+[ALERT] Low stock: Banana ? -15
+[ALERT] Low stock: Orange ? -28
+[THREAD] Stock check ended at 02/12/2025 4:30:13 pm
+[THREAD] Stock check started at 02/12/2025 4:30:18 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -19
+LOW STOCK → Orange: -29
+[STATE] LastCheckTime updated to 02/12/2025 4:30:18 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -19
+[ALERT] Low stock: Orange ? -29
+[THREAD] Stock check ended at 02/12/2025 4:30:18 pm
+[THREAD] Stock check started at 02/12/2025 4:30:23 pm
+LOW STOCK → Apple: -21
+LOW STOCK → Banana: -22
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 4:30:23 pm
+[ALERT] Low stock: Apple ? -21
+[ALERT] Low stock: Banana ? -22
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 4:30:23 pm
+[THREAD] Stock check started at 02/12/2025 4:30:28 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -25
+LOW STOCK → Orange: -35
+[STATE] LastCheckTime updated to 02/12/2025 4:30:28 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -25
+[ALERT] Low stock: Orange ? -35
+[THREAD] Stock check ended at 02/12/2025 4:30:28 pm
+[THREAD] Stock check started at 02/12/2025 4:30:33 pm
+LOW STOCK → Apple: -29
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 02/12/2025 4:30:33 pm
+[ALERT] Low stock: Apple ? -29
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 02/12/2025 4:30:33 pm
+[THREAD] Stock check started at 02/12/2025 4:30:38 pm
+LOW STOCK → Apple: -33
+LOW STOCK → Banana: -31
+LOW STOCK → Orange: -38
+[STATE] LastCheckTime updated to 02/12/2025 4:30:38 pm
+[ALERT] Low stock: Apple ? -33
+[ALERT] Low stock: Banana ? -31
+[ALERT] Low stock: Orange ? -38
+[THREAD] Stock check ended at 02/12/2025 4:30:38 pm
+[THREAD] Stock check started at 02/12/2025 4:30:43 pm
+LOW STOCK → Apple: -35
+LOW STOCK → Banana: -34
+LOW STOCK → Orange: -39
+[STATE] LastCheckTime updated to 02/12/2025 4:30:43 pm
+[ALERT] Low stock: Apple ? -35
+[ALERT] Low stock: Banana ? -34
+[ALERT] Low stock: Orange ? -39
+[THREAD] Stock check ended at 02/12/2025 4:30:43 pm
+[THREAD] Stock check started at 02/12/2025 4:30:48 pm
+LOW STOCK → Apple: -36
+LOW STOCK → Banana: -38
+LOW STOCK → Orange: -40
+[STATE] LastCheckTime updated to 02/12/2025 4:30:48 pm
+[ALERT] Low stock: Apple ? -36
+[ALERT] Low stock: Banana ? -38
+[ALERT] Low stock: Orange ? -40
+[THREAD] Stock check ended at 02/12/2025 4:30:48 pm
+[THREAD] Stock check started at 02/12/2025 4:30:53 pm
+LOW STOCK → Apple: -38
+LOW STOCK → Banana: -40
+LOW STOCK → Orange: -41
+[STATE] LastCheckTime updated to 02/12/2025 4:30:53 pm
+[ALERT] Low stock: Apple ? -38
+[ALERT] Low stock: Banana ? -40
+[ALERT] Low stock: Orange ? -41
+[THREAD] Stock check ended at 02/12/2025 4:30:53 pm
+[THREAD] Stock check started at 02/12/2025 4:30:58 pm
+LOW STOCK → Apple: -40
+LOW STOCK → Banana: -43
+LOW STOCK → Orange: -42
+[STATE] LastCheckTime updated to 02/12/2025 4:30:58 pm
+[ALERT] Low stock: Apple ? -40
+[ALERT] Low stock: Banana ? -43
+[ALERT] Low stock: Orange ? -42
+[THREAD] Stock check ended at 02/12/2025 4:30:58 pm
+[THREAD] Stock check started at 02/12/2025 4:31:03 pm
+LOW STOCK → Apple: -42
+LOW STOCK → Banana: -46
+LOW STOCK → Orange: -45
+[STATE] LastCheckTime updated to 02/12/2025 4:31:03 pm
+[ALERT] Low stock: Apple ? -42
+[ALERT] Low stock: Banana ? -46
+[ALERT] Low stock: Orange ? -45
+[THREAD] Stock check ended at 02/12/2025 4:31:03 pm
+[THREAD] Stock check started at 02/12/2025 4:31:08 pm
+LOW STOCK → Apple: -45
+LOW STOCK → Banana: -48
+LOW STOCK → Orange: -47
+[STATE] LastCheckTime updated to 02/12/2025 4:31:08 pm
+[ALERT] Low stock: Apple ? -45
+[ALERT] Low stock: Banana ? -48
+[ALERT] Low stock: Orange ? -47
+[THREAD] Stock check ended at 02/12/2025 4:31:08 pm
+[THREAD] Stock check started at 02/12/2025 4:31:13 pm
+LOW STOCK → Apple: -46
+LOW STOCK → Banana: -52
+LOW STOCK → Orange: -50
+[STATE] LastCheckTime updated to 02/12/2025 4:31:13 pm
+[ALERT] Low stock: Apple ? -46
+[ALERT] Low stock: Banana ? -52
+[ALERT] Low stock: Orange ? -50
+[THREAD] Stock check ended at 02/12/2025 4:31:13 pm
+[THREAD] Stock check started at 02/12/2025 4:31:18 pm
+LOW STOCK → Apple: -47
+LOW STOCK → Banana: -56
+LOW STOCK → Orange: -54
+[STATE] LastCheckTime updated to 02/12/2025 4:31:18 pm
+[ALERT] Low stock: Apple ? -47
+[ALERT] Low stock: Banana ? -56
+[ALERT] Low stock: Orange ? -54
+[THREAD] Stock check ended at 02/12/2025 4:31:18 pm
+[THREAD] Stock check started at 02/12/2025 4:31:23 pm
+LOW STOCK → Apple: -51
+LOW STOCK → Banana: -57
+LOW STOCK → Orange: -58
+[STATE] LastCheckTime updated to 02/12/2025 4:31:23 pm
+[ALERT] Low stock: Apple ? -51
+[ALERT] Low stock: Banana ? -57
+[ALERT] Low stock: Orange ? -58
+[THREAD] Stock check ended at 02/12/2025 4:31:23 pm
+[THREAD] Stock check started at 02/12/2025 4:31:28 pm
+LOW STOCK → Apple: -53
+LOW STOCK → Banana: -58
+LOW STOCK → Orange: -62
+[STATE] LastCheckTime updated to 02/12/2025 4:31:28 pm
+[ALERT] Low stock: Apple ? -53
+[ALERT] Low stock: Banana ? -58
+[ALERT] Low stock: Orange ? -62
+[THREAD] Stock check ended at 02/12/2025 4:31:28 pm
+[THREAD] Stock check started at 02/12/2025 4:31:33 pm
+LOW STOCK → Apple: -54
+LOW STOCK → Banana: -60
+LOW STOCK → Orange: -66
+[STATE] LastCheckTime updated to 02/12/2025 4:31:33 pm
+[ALERT] Low stock: Apple ? -54
+[ALERT] Low stock: Banana ? -60
+[ALERT] Low stock: Orange ? -66
+[THREAD] Stock check ended at 02/12/2025 4:31:33 pm
+[THREAD] Stock check started at 02/12/2025 4:31:38 pm
+LOW STOCK → Apple: -56
+LOW STOCK → Banana: -63
+LOW STOCK → Orange: -70
+[STATE] LastCheckTime updated to 02/12/2025 4:31:38 pm
+[ALERT] Low stock: Apple ? -56
+[ALERT] Low stock: Banana ? -63
+[ALERT] Low stock: Orange ? -70
+[THREAD] Stock check ended at 02/12/2025 4:31:38 pm
+[THREAD] Stock check started at 02/12/2025 4:31:43 pm
+LOW STOCK → Apple: -58
+LOW STOCK → Banana: -66
+LOW STOCK → Orange: -72
+[STATE] LastCheckTime updated to 02/12/2025 4:31:43 pm
+[ALERT] Low stock: Apple ? -58
+[ALERT] Low stock: Banana ? -66
+[ALERT] Low stock: Orange ? -72
+[THREAD] Stock check ended at 02/12/2025 4:31:43 pm
+[THREAD] Stock check started at 02/12/2025 4:31:48 pm
+LOW STOCK → Apple: -59
+LOW STOCK → Banana: -70
+LOW STOCK → Orange: -76
+[STATE] LastCheckTime updated to 02/12/2025 4:31:48 pm
+[ALERT] Low stock: Apple ? -59
+[ALERT] Low stock: Banana ? -70
+[ALERT] Low stock: Orange ? -76
+[THREAD] Stock check ended at 02/12/2025 4:31:48 pm
+[THREAD] Stock check started at 02/12/2025 4:31:53 pm
+LOW STOCK → Apple: -61
+LOW STOCK → Banana: -73
+LOW STOCK → Orange: -77
+[STATE] LastCheckTime updated to 02/12/2025 4:31:53 pm
+[ALERT] Low stock: Apple ? -61
+[ALERT] Low stock: Banana ? -73
+[ALERT] Low stock: Orange ? -77
+[THREAD] Stock check ended at 02/12/2025 4:31:53 pm
+[THREAD] Stock check started at 02/12/2025 4:31:58 pm
+LOW STOCK → Apple: -63
+LOW STOCK → Banana: -77
+LOW STOCK → Orange: -81
+[STATE] LastCheckTime updated to 02/12/2025 4:31:58 pm
+[ALERT] Low stock: Apple ? -63
+[ALERT] Low stock: Banana ? -77
+[ALERT] Low stock: Orange ? -81
+[THREAD] Stock check ended at 02/12/2025 4:31:58 pm
+[THREAD] Stock check started at 02/12/2025 4:32:03 pm
+LOW STOCK → Apple: -67
+LOW STOCK → Banana: -79
+LOW STOCK → Orange: -84
+[STATE] LastCheckTime updated to 02/12/2025 4:32:03 pm
+[ALERT] Low stock: Apple ? -67
+[ALERT] Low stock: Banana ? -79
+[ALERT] Low stock: Orange ? -84
+[THREAD] Stock check ended at 02/12/2025 4:32:03 pm
+[THREAD] Stock check started at 02/12/2025 4:32:08 pm
+LOW STOCK → Apple: -71
+LOW STOCK → Banana: -83
+LOW STOCK → Orange: -86
+[STATE] LastCheckTime updated to 02/12/2025 4:32:08 pm
+[ALERT] Low stock: Apple ? -71
+[ALERT] Low stock: Banana ? -83
+[ALERT] Low stock: Orange ? -86
+[THREAD] Stock check ended at 02/12/2025 4:32:08 pm
+[THREAD] Stock check started at 02/12/2025 4:32:13 pm
+LOW STOCK → Apple: -75
+LOW STOCK → Banana: -87
+LOW STOCK → Orange: -88
+[STATE] LastCheckTime updated to 02/12/2025 4:32:13 pm
+[ALERT] Low stock: Apple ? -75
+[ALERT] Low stock: Banana ? -87
+[ALERT] Low stock: Orange ? -88
+[THREAD] Stock check ended at 02/12/2025 4:32:13 pm
+[THREAD] Stock check started at 02/12/2025 4:32:18 pm
+LOW STOCK → Apple: -79
+LOW STOCK → Banana: -88
+LOW STOCK → Orange: -91
+[STATE] LastCheckTime updated to 02/12/2025 4:32:18 pm
+[ALERT] Low stock: Apple ? -79
+[ALERT] Low stock: Banana ? -88
+[ALERT] Low stock: Orange ? -91
+[THREAD] Stock check ended at 02/12/2025 4:32:18 pm
+[THREAD] Stock check started at 02/12/2025 4:32:23 pm
+LOW STOCK → Apple: -83
+LOW STOCK → Banana: -92
+LOW STOCK → Orange: -95
+[STATE] LastCheckTime updated to 02/12/2025 4:32:23 pm
+[ALERT] Low stock: Apple ? -83
+[ALERT] Low stock: Banana ? -92
+[ALERT] Low stock: Orange ? -95
+[THREAD] Stock check ended at 02/12/2025 4:32:23 pm
+[THREAD] Stock check started at 02/12/2025 4:32:28 pm
+LOW STOCK → Apple: -87
+LOW STOCK → Banana: -93
+LOW STOCK → Orange: -96
+[STATE] LastCheckTime updated to 02/12/2025 4:32:28 pm
+[ALERT] Low stock: Apple ? -87
+[ALERT] Low stock: Banana ? -93
+[ALERT] Low stock: Orange ? -96
+[THREAD] Stock check ended at 02/12/2025 4:32:28 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:32:35 pm
+LOW STOCK → Orange: -2
+[STATE] LastCheckTime updated to 02/12/2025 4:32:35 pm
+[ALERT] Low stock: Orange ? -2
+[THREAD] Stock check ended at 02/12/2025 4:32:35 pm
+[THREAD] Stock check started at 02/12/2025 4:32:40 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:32:40 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:32:40 pm
+[THREAD] Stock check started at 02/12/2025 4:32:45 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:32:45 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:32:45 pm
+[THREAD] Stock check started at 02/12/2025 4:32:50 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 4:32:50 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 4:32:50 pm
+[THREAD] Stock check started at 02/12/2025 4:32:55 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:32:55 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:32:55 pm
+[THREAD] Stock check started at 02/12/2025 4:33:00 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 4:33:00 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 4:33:00 pm
+[THREAD] Stock check started at 02/12/2025 4:33:05 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:33:05 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:33:05 pm
+[THREAD] Stock check started at 02/12/2025 4:33:10 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -8
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:33:10 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -8
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:33:10 pm
+[THREAD] Stock check started at 02/12/2025 4:33:15 pm
+LOW STOCK → Apple: -13
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -17
+[STATE] LastCheckTime updated to 02/12/2025 4:33:15 pm
+[ALERT] Low stock: Apple ? -13
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -17
+[THREAD] Stock check ended at 02/12/2025 4:33:15 pm
+[THREAD] Stock check started at 02/12/2025 4:33:20 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -12
+LOW STOCK → Orange: -21
+[STATE] LastCheckTime updated to 02/12/2025 4:33:20 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -12
+[ALERT] Low stock: Orange ? -21
+[THREAD] Stock check ended at 02/12/2025 4:33:20 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:33:24 pm
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 02/12/2025 4:33:24 pm
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 02/12/2025 4:33:24 pm
+[THREAD] Stock check started at 02/12/2025 4:33:29 pm
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:33:29 pm
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:33:29 pm
+[THREAD] Stock check started at 02/12/2025 4:33:34 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:33:34 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:33:34 pm
+[THREAD] Stock check started at 02/12/2025 4:33:39 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:33:39 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:33:39 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:33:42 pm
+LOW STOCK → Orange: -2
+[STATE] LastCheckTime updated to 02/12/2025 4:33:42 pm
+[ALERT] Low stock: Orange ? -2
+[THREAD] Stock check ended at 02/12/2025 4:33:42 pm
+[THREAD] Stock check started at 02/12/2025 4:33:47 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:33:48 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:33:48 pm
+[THREAD] Stock check started at 02/12/2025 4:33:53 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 4:33:53 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 4:33:53 pm
+[THREAD] Stock check started at 02/12/2025 4:33:58 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 4:33:58 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 4:33:58 pm
+[THREAD] Stock check started at 02/12/2025 4:34:03 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 4:34:03 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 4:34:03 pm
+[THREAD] Stock check started at 02/12/2025 4:34:08 pm
+LOW STOCK → Apple: -4
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:34:08 pm
+[ALERT] Low stock: Apple ? -4
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:34:08 pm
+[THREAD] Stock check started at 02/12/2025 4:34:13 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:34:13 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:34:13 pm
+[THREAD] Stock check started at 02/12/2025 4:34:18 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -8
+LOW STOCK → Orange: -20
+[STATE] LastCheckTime updated to 02/12/2025 4:34:18 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -8
+[ALERT] Low stock: Orange ? -20
+[THREAD] Stock check ended at 02/12/2025 4:34:18 pm
+[THREAD] Stock check started at 02/12/2025 4:34:23 pm
+LOW STOCK → Apple: -15
+LOW STOCK → Banana: -12
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 02/12/2025 4:34:23 pm
+[ALERT] Low stock: Apple ? -15
+[ALERT] Low stock: Banana ? -12
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 02/12/2025 4:34:23 pm
+[THREAD] Stock check started at 02/12/2025 4:34:28 pm
+LOW STOCK → Apple: -16
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -28
+[STATE] LastCheckTime updated to 02/12/2025 4:34:28 pm
+[ALERT] Low stock: Apple ? -16
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -28
+[THREAD] Stock check ended at 02/12/2025 4:34:28 pm
+[THREAD] Stock check started at 02/12/2025 4:34:33 pm
+LOW STOCK → Apple: -18
+LOW STOCK → Banana: -17
+LOW STOCK → Orange: -32
+[STATE] LastCheckTime updated to 02/12/2025 4:34:33 pm
+[ALERT] Low stock: Apple ? -18
+[ALERT] Low stock: Banana ? -17
+[ALERT] Low stock: Orange ? -32
+[THREAD] Stock check ended at 02/12/2025 4:34:33 pm
+[THREAD] Stock check started at 02/12/2025 4:34:38 pm
+LOW STOCK → Apple: -22
+LOW STOCK → Banana: -20
+LOW STOCK → Orange: -35
+[STATE] LastCheckTime updated to 02/12/2025 4:34:38 pm
+[ALERT] Low stock: Apple ? -22
+[ALERT] Low stock: Banana ? -20
+[ALERT] Low stock: Orange ? -35
+[THREAD] Stock check ended at 02/12/2025 4:34:38 pm
+[THREAD] Stock check started at 02/12/2025 4:34:43 pm
+LOW STOCK → Apple: -23
+LOW STOCK → Banana: -24
+LOW STOCK → Orange: -39
+[STATE] LastCheckTime updated to 02/12/2025 4:34:43 pm
+[ALERT] Low stock: Apple ? -23
+[ALERT] Low stock: Banana ? -24
+[ALERT] Low stock: Orange ? -39
+[THREAD] Stock check ended at 02/12/2025 4:34:43 pm
+[THREAD] Stock check started at 02/12/2025 4:34:48 pm
+LOW STOCK → Apple: -26
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -42
+[STATE] LastCheckTime updated to 02/12/2025 4:34:48 pm
+[ALERT] Low stock: Apple ? -26
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -42
+[THREAD] Stock check ended at 02/12/2025 4:34:48 pm
+[THREAD] Stock check started at 02/12/2025 4:34:53 pm
+LOW STOCK → Apple: -29
+LOW STOCK → Banana: -28
+LOW STOCK → Orange: -44
+[STATE] LastCheckTime updated to 02/12/2025 4:34:53 pm
+[ALERT] Low stock: Apple ? -29
+[ALERT] Low stock: Banana ? -28
+[ALERT] Low stock: Orange ? -44
+[THREAD] Stock check ended at 02/12/2025 4:34:53 pm
+[THREAD] Stock check started at 02/12/2025 4:34:58 pm
+LOW STOCK → Apple: -33
+LOW STOCK → Banana: -31
+LOW STOCK → Orange: -47
+[STATE] LastCheckTime updated to 02/12/2025 4:34:58 pm
+[ALERT] Low stock: Apple ? -33
+[ALERT] Low stock: Banana ? -31
+[ALERT] Low stock: Orange ? -47
+[THREAD] Stock check ended at 02/12/2025 4:34:58 pm
+[THREAD] Stock check started at 02/12/2025 4:35:03 pm
+LOW STOCK → Apple: -36
+LOW STOCK → Banana: -33
+LOW STOCK → Orange: -51
+[STATE] LastCheckTime updated to 02/12/2025 4:35:03 pm
+[ALERT] Low stock: Apple ? -36
+[ALERT] Low stock: Banana ? -33
+[ALERT] Low stock: Orange ? -51
+[THREAD] Stock check ended at 02/12/2025 4:35:03 pm
+[THREAD] Stock check started at 02/12/2025 4:35:08 pm
+LOW STOCK → Apple: -38
+LOW STOCK → Banana: -34
+LOW STOCK → Orange: -53
+[STATE] LastCheckTime updated to 02/12/2025 4:35:08 pm
+[ALERT] Low stock: Apple ? -38
+[ALERT] Low stock: Banana ? -34
+[ALERT] Low stock: Orange ? -53
+[THREAD] Stock check ended at 02/12/2025 4:35:08 pm
+[THREAD] Stock check started at 02/12/2025 4:35:13 pm
+LOW STOCK → Apple: -40
+LOW STOCK → Banana: -37
+LOW STOCK → Orange: -57
+[STATE] LastCheckTime updated to 02/12/2025 4:35:13 pm
+[ALERT] Low stock: Apple ? -40
+[ALERT] Low stock: Banana ? -37
+[ALERT] Low stock: Orange ? -57
+[THREAD] Stock check ended at 02/12/2025 4:35:13 pm
+[THREAD] Stock check started at 02/12/2025 4:35:18 pm
+LOW STOCK → Apple: -42
+LOW STOCK → Banana: -39
+LOW STOCK → Orange: -60
+[STATE] LastCheckTime updated to 02/12/2025 4:35:18 pm
+[ALERT] Low stock: Apple ? -42
+[ALERT] Low stock: Banana ? -39
+[ALERT] Low stock: Orange ? -60
+[THREAD] Stock check ended at 02/12/2025 4:35:18 pm
+[THREAD] Stock check started at 02/12/2025 4:35:23 pm
+LOW STOCK → Apple: -46
+LOW STOCK → Banana: -42
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 4:35:23 pm
+[ALERT] Low stock: Apple ? -46
+[ALERT] Low stock: Banana ? -42
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 4:35:23 pm
+[THREAD] Stock check started at 02/12/2025 4:35:28 pm
+LOW STOCK → Apple: -47
+LOW STOCK → Banana: -46
+LOW STOCK → Orange: -68
+[STATE] LastCheckTime updated to 02/12/2025 4:35:28 pm
+[ALERT] Low stock: Apple ? -47
+[ALERT] Low stock: Banana ? -46
+[ALERT] Low stock: Orange ? -68
+[THREAD] Stock check ended at 02/12/2025 4:35:28 pm
+[THREAD] Stock check started at 02/12/2025 4:35:33 pm
+LOW STOCK → Apple: -51
+LOW STOCK → Banana: -47
+LOW STOCK → Orange: -71
+[STATE] LastCheckTime updated to 02/12/2025 4:35:33 pm
+[ALERT] Low stock: Apple ? -51
+[ALERT] Low stock: Banana ? -47
+[ALERT] Low stock: Orange ? -71
+[THREAD] Stock check ended at 02/12/2025 4:35:33 pm
+[THREAD] Stock check started at 02/12/2025 4:35:38 pm
+LOW STOCK → Apple: -54
+LOW STOCK → Banana: -51
+LOW STOCK → Orange: -73
+[STATE] LastCheckTime updated to 02/12/2025 4:35:38 pm
+[ALERT] Low stock: Apple ? -54
+[ALERT] Low stock: Banana ? -51
+[ALERT] Low stock: Orange ? -73
+[THREAD] Stock check ended at 02/12/2025 4:35:38 pm
+[THREAD] Stock check started at 02/12/2025 4:35:43 pm
+LOW STOCK → Apple: -58
+LOW STOCK → Banana: -55
+LOW STOCK → Orange: -75
+[STATE] LastCheckTime updated to 02/12/2025 4:35:43 pm
+[ALERT] Low stock: Apple ? -58
+[ALERT] Low stock: Banana ? -55
+[ALERT] Low stock: Orange ? -75
+[THREAD] Stock check ended at 02/12/2025 4:35:43 pm
+[THREAD] Stock check started at 02/12/2025 4:35:48 pm
+LOW STOCK → Apple: -61
+LOW STOCK → Banana: -59
+LOW STOCK → Orange: -76
+[STATE] LastCheckTime updated to 02/12/2025 4:35:48 pm
+[ALERT] Low stock: Apple ? -61
+[ALERT] Low stock: Banana ? -59
+[ALERT] Low stock: Orange ? -76
+[THREAD] Stock check ended at 02/12/2025 4:35:48 pm
+[THREAD] Stock check started at 02/12/2025 4:35:53 pm
+LOW STOCK → Apple: -65
+LOW STOCK → Banana: -63
+LOW STOCK → Orange: -78
+[STATE] LastCheckTime updated to 02/12/2025 4:35:53 pm
+[ALERT] Low stock: Apple ? -65
+[ALERT] Low stock: Banana ? -63
+[ALERT] Low stock: Orange ? -78
+[THREAD] Stock check ended at 02/12/2025 4:35:53 pm
+[THREAD] Stock check started at 02/12/2025 4:35:58 pm
+LOW STOCK → Apple: -66
+LOW STOCK → Banana: -64
+LOW STOCK → Orange: -80
+[STATE] LastCheckTime updated to 02/12/2025 4:35:58 pm
+[ALERT] Low stock: Apple ? -66
+[ALERT] Low stock: Banana ? -64
+[ALERT] Low stock: Orange ? -80
+[THREAD] Stock check ended at 02/12/2025 4:35:58 pm
+[THREAD] Stock check started at 02/12/2025 4:36:03 pm
+LOW STOCK → Apple: -67
+LOW STOCK → Banana: -67
+LOW STOCK → Orange: -82
+[STATE] LastCheckTime updated to 02/12/2025 4:36:03 pm
+[ALERT] Low stock: Apple ? -67
+[ALERT] Low stock: Banana ? -67
+[ALERT] Low stock: Orange ? -82
+[THREAD] Stock check ended at 02/12/2025 4:36:03 pm
+[THREAD] Stock check started at 02/12/2025 4:36:08 pm
+LOW STOCK → Apple: -70
+LOW STOCK → Banana: -70
+LOW STOCK → Orange: -85
+[STATE] LastCheckTime updated to 02/12/2025 4:36:08 pm
+[ALERT] Low stock: Apple ? -70
+[ALERT] Low stock: Banana ? -70
+[ALERT] Low stock: Orange ? -85
+[THREAD] Stock check ended at 02/12/2025 4:36:08 pm
+[THREAD] Stock check started at 02/12/2025 4:36:13 pm
+LOW STOCK → Apple: -71
+LOW STOCK → Banana: -74
+LOW STOCK → Orange: -88
+[STATE] LastCheckTime updated to 02/12/2025 4:36:13 pm
+[ALERT] Low stock: Apple ? -71
+[ALERT] Low stock: Banana ? -74
+[ALERT] Low stock: Orange ? -88
+[THREAD] Stock check ended at 02/12/2025 4:36:13 pm
+[THREAD] Stock check started at 02/12/2025 4:36:18 pm
+LOW STOCK → Apple: -72
+LOW STOCK → Banana: -77
+LOW STOCK → Orange: -90
+[STATE] LastCheckTime updated to 02/12/2025 4:36:18 pm
+[ALERT] Low stock: Apple ? -72
+[ALERT] Low stock: Banana ? -77
+[ALERT] Low stock: Orange ? -90
+[THREAD] Stock check ended at 02/12/2025 4:36:18 pm
+[THREAD] Stock check started at 02/12/2025 4:36:23 pm
+LOW STOCK → Apple: -75
+LOW STOCK → Banana: -80
+LOW STOCK → Orange: -92
+[STATE] LastCheckTime updated to 02/12/2025 4:36:23 pm
+[ALERT] Low stock: Apple ? -75
+[ALERT] Low stock: Banana ? -80
+[ALERT] Low stock: Orange ? -92
+[THREAD] Stock check ended at 02/12/2025 4:36:23 pm
+[THREAD] Stock check started at 02/12/2025 4:36:28 pm
+LOW STOCK → Apple: -76
+LOW STOCK → Banana: -81
+LOW STOCK → Orange: -93
+[STATE] LastCheckTime updated to 02/12/2025 4:36:28 pm
+[ALERT] Low stock: Apple ? -76
+[ALERT] Low stock: Banana ? -81
+[ALERT] Low stock: Orange ? -93
+[THREAD] Stock check ended at 02/12/2025 4:36:28 pm
+[THREAD] Stock check started at 02/12/2025 4:36:33 pm
+LOW STOCK → Apple: -78
+LOW STOCK → Banana: -82
+LOW STOCK → Orange: -97
+[STATE] LastCheckTime updated to 02/12/2025 4:36:33 pm
+[ALERT] Low stock: Apple ? -78
+[ALERT] Low stock: Banana ? -82
+[ALERT] Low stock: Orange ? -97
+[THREAD] Stock check ended at 02/12/2025 4:36:33 pm
+[THREAD] Stock check started at 02/12/2025 4:36:38 pm
+LOW STOCK → Apple: -82
+LOW STOCK → Banana: -86
+LOW STOCK → Orange: -99
+[STATE] LastCheckTime updated to 02/12/2025 4:36:38 pm
+[ALERT] Low stock: Apple ? -82
+[ALERT] Low stock: Banana ? -86
+[ALERT] Low stock: Orange ? -99
+[THREAD] Stock check ended at 02/12/2025 4:36:38 pm
+[THREAD] Stock check started at 02/12/2025 4:36:43 pm
+LOW STOCK → Apple: -86
+LOW STOCK → Banana: -87
+LOW STOCK → Orange: -103
+[STATE] LastCheckTime updated to 02/12/2025 4:36:43 pm
+[ALERT] Low stock: Apple ? -86
+[ALERT] Low stock: Banana ? -87
+[ALERT] Low stock: Orange ? -103
+[THREAD] Stock check ended at 02/12/2025 4:36:43 pm
+[THREAD] Stock check started at 02/12/2025 4:36:48 pm
+LOW STOCK → Apple: -88
+LOW STOCK → Banana: -90
+LOW STOCK → Orange: -106
+[STATE] LastCheckTime updated to 02/12/2025 4:36:48 pm
+[ALERT] Low stock: Apple ? -88
+[ALERT] Low stock: Banana ? -90
+[ALERT] Low stock: Orange ? -106
+[THREAD] Stock check ended at 02/12/2025 4:36:48 pm
+[THREAD] Stock check started at 02/12/2025 4:36:53 pm
+LOW STOCK → Apple: -90
+LOW STOCK → Banana: -92
+LOW STOCK → Orange: -110
+[STATE] LastCheckTime updated to 02/12/2025 4:36:53 pm
+[ALERT] Low stock: Apple ? -90
+[ALERT] Low stock: Banana ? -92
+[ALERT] Low stock: Orange ? -110
+[THREAD] Stock check ended at 02/12/2025 4:36:53 pm
+[THREAD] Stock check started at 02/12/2025 4:36:58 pm
+LOW STOCK → Apple: -92
+LOW STOCK → Banana: -93
+LOW STOCK → Orange: -112
+[STATE] LastCheckTime updated to 02/12/2025 4:36:58 pm
+[ALERT] Low stock: Apple ? -92
+[ALERT] Low stock: Banana ? -93
+[ALERT] Low stock: Orange ? -112
+[THREAD] Stock check ended at 02/12/2025 4:36:58 pm
+[THREAD] Stock check started at 02/12/2025 4:37:03 pm
+LOW STOCK → Apple: -95
+LOW STOCK → Banana: -95
+LOW STOCK → Orange: -113
+[STATE] LastCheckTime updated to 02/12/2025 4:37:03 pm
+[ALERT] Low stock: Apple ? -95
+[ALERT] Low stock: Banana ? -95
+[ALERT] Low stock: Orange ? -113
+[THREAD] Stock check ended at 02/12/2025 4:37:03 pm
+[THREAD] Stock check started at 02/12/2025 4:37:08 pm
+LOW STOCK → Apple: -96
+LOW STOCK → Banana: -98
+LOW STOCK → Orange: -115
+[STATE] LastCheckTime updated to 02/12/2025 4:37:08 pm
+[ALERT] Low stock: Apple ? -96
+[ALERT] Low stock: Banana ? -98
+[ALERT] Low stock: Orange ? -115
+[THREAD] Stock check ended at 02/12/2025 4:37:08 pm
+[THREAD] Stock check started at 02/12/2025 4:37:14 pm
+LOW STOCK → Apple: -100
+LOW STOCK → Banana: -99
+LOW STOCK → Orange: -116
+[STATE] LastCheckTime updated to 02/12/2025 4:37:14 pm
+[ALERT] Low stock: Apple ? -100
+[ALERT] Low stock: Banana ? -99
+[ALERT] Low stock: Orange ? -116
+[THREAD] Stock check ended at 02/12/2025 4:37:14 pm
+[THREAD] Stock check started at 02/12/2025 4:37:19 pm
+LOW STOCK → Apple: -102
+LOW STOCK → Banana: -100
+LOW STOCK → Orange: -119
+[STATE] LastCheckTime updated to 02/12/2025 4:37:19 pm
+[ALERT] Low stock: Apple ? -102
+[ALERT] Low stock: Banana ? -100
+[ALERT] Low stock: Orange ? -119
+[THREAD] Stock check ended at 02/12/2025 4:37:19 pm
+[THREAD] Stock check started at 02/12/2025 4:37:24 pm
+LOW STOCK → Apple: -104
+LOW STOCK → Banana: -102
+LOW STOCK → Orange: -120
+[STATE] LastCheckTime updated to 02/12/2025 4:37:24 pm
+[ALERT] Low stock: Apple ? -104
+[ALERT] Low stock: Banana ? -102
+[ALERT] Low stock: Orange ? -120
+[THREAD] Stock check ended at 02/12/2025 4:37:24 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:37:31 pm
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 02/12/2025 4:37:31 pm
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 02/12/2025 4:37:31 pm
+[THREAD] Stock check started at 02/12/2025 4:37:36 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:37:36 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:37:36 pm
+[THREAD] Stock check started at 02/12/2025 4:37:41 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Orange: -7
+[STATE] LastCheckTime updated to 02/12/2025 4:37:41 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Orange ? -7
+[THREAD] Stock check ended at 02/12/2025 4:37:41 pm
+[THREAD] Stock check started at 02/12/2025 4:37:46 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Orange: -8
+[STATE] LastCheckTime updated to 02/12/2025 4:37:46 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Orange ? -8
+[THREAD] Stock check ended at 02/12/2025 4:37:46 pm
+[THREAD] Stock check started at 02/12/2025 4:37:51 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:37:51 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:37:51 pm
+[THREAD] Stock check started at 02/12/2025 4:37:56 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:37:56 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:37:56 pm
+[THREAD] Stock check started at 02/12/2025 4:38:01 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:38:01 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:38:01 pm
+[THREAD] Stock check started at 02/12/2025 4:38:06 pm
+LOW STOCK → Apple: -7
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 4:38:06 pm
+[ALERT] Low stock: Apple ? -7
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 4:38:06 pm
+[THREAD] Stock check started at 02/12/2025 4:38:11 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:38:11 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:38:11 pm
+[THREAD] Stock check started at 02/12/2025 4:38:16 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 02/12/2025 4:38:16 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 02/12/2025 4:38:16 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:38:24 pm
+LOW STOCK → Orange: -2
+[STATE] LastCheckTime updated to 02/12/2025 4:38:24 pm
+[ALERT] Low stock: Orange ? -2
+[THREAD] Stock check ended at 02/12/2025 4:38:24 pm
+[THREAD] Stock check started at 02/12/2025 4:38:29 pm
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:38:29 pm
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:38:29 pm
+[THREAD] Stock check started at 02/12/2025 4:38:34 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:38:34 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:38:34 pm
+[THREAD] Stock check started at 02/12/2025 4:38:39 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 4:38:39 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 4:38:39 pm
+[THREAD] Stock check started at 02/12/2025 4:38:44 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 4:38:44 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 4:38:45 pm
+[THREAD] Stock check started at 02/12/2025 4:38:50 pm
+LOW STOCK → Apple: -4
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:38:50 pm
+[ALERT] Low stock: Apple ? -4
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:38:50 pm
+[THREAD] Stock check started at 02/12/2025 4:38:55 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 4:38:55 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 4:38:55 pm
+[THREAD] Stock check started at 02/12/2025 4:39:00 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:39:00 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:39:00 pm
+[THREAD] Stock check started at 02/12/2025 4:39:05 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:39:05 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:39:05 pm
+[THREAD] Stock check started at 02/12/2025 4:39:10 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -3
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 02/12/2025 4:39:10 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -3
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 02/12/2025 4:39:10 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:39:15 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:39:15 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:39:15 pm
+[THREAD] Stock check started at 02/12/2025 4:39:20 pm
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:39:20 pm
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:39:20 pm
+[THREAD] Stock check started at 02/12/2025 4:39:25 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -7
+[STATE] LastCheckTime updated to 02/12/2025 4:39:25 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -7
+[THREAD] Stock check ended at 02/12/2025 4:39:25 pm
+[THREAD] Stock check started at 02/12/2025 4:39:30 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:39:30 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:39:30 pm
+[THREAD] Stock check started at 02/12/2025 4:39:35 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: 1
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:39:35 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? 1
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:39:35 pm
+[THREAD] Stock check started at 02/12/2025 4:39:40 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:39:40 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:39:40 pm
+[THREAD] Stock check started at 02/12/2025 4:39:45 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:39:45 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:39:45 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:39:51 pm
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 02/12/2025 4:39:51 pm
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 02/12/2025 4:39:51 pm
+[THREAD] Stock check started at 02/12/2025 4:39:56 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:39:56 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:39:56 pm
+[THREAD] Stock check started at 02/12/2025 4:40:01 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:40:01 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:40:01 pm
+[THREAD] Stock check started at 02/12/2025 4:40:06 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:40:06 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:40:06 pm
+[THREAD] Stock check started at 02/12/2025 4:40:11 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:40:11 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:40:11 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:40:18 pm
+LOW STOCK → Orange: 0
+[STATE] LastCheckTime updated to 02/12/2025 4:40:18 pm
+[ALERT] Low stock: Orange ? 0
+[THREAD] Stock check ended at 02/12/2025 4:40:18 pm
+[THREAD] Stock check started at 02/12/2025 4:40:23 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:40:23 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:40:23 pm
+[THREAD] Stock check started at 02/12/2025 4:40:28 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:40:28 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:40:28 pm
+[THREAD] Stock check started at 02/12/2025 4:40:33 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:40:33 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:40:33 pm
+[THREAD] Stock check started at 02/12/2025 4:40:38 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:40:38 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:40:38 pm
+[THREAD] Stock check started at 02/12/2025 4:40:43 pm
+LOW STOCK → Apple: -7
+LOW STOCK → Banana: 1
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 4:40:43 pm
+[ALERT] Low stock: Apple ? -7
+[ALERT] Low stock: Banana ? 1
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 4:40:43 pm
+[THREAD] Stock check started at 02/12/2025 4:40:48 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:40:48 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:40:48 pm
+[THREAD] Stock check started at 02/12/2025 4:40:53 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:40:53 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:40:53 pm
+[THREAD] Stock check started at 02/12/2025 4:40:58 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -8
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 02/12/2025 4:40:58 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -8
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 02/12/2025 4:40:58 pm
+[THREAD] Stock check started at 02/12/2025 4:41:03 pm
+LOW STOCK → Apple: -13
+LOW STOCK → Banana: -11
+LOW STOCK → Orange: -26
+[STATE] LastCheckTime updated to 02/12/2025 4:41:03 pm
+[ALERT] Low stock: Apple ? -13
+[ALERT] Low stock: Banana ? -11
+[ALERT] Low stock: Orange ? -26
+[THREAD] Stock check ended at 02/12/2025 4:41:03 pm
+[THREAD] Stock check started at 02/12/2025 4:41:08 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -14
+LOW STOCK → Orange: -27
+[STATE] LastCheckTime updated to 02/12/2025 4:41:08 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -14
+[ALERT] Low stock: Orange ? -27
+[THREAD] Stock check ended at 02/12/2025 4:41:08 pm
+[THREAD] Stock check started at 02/12/2025 4:41:13 pm
+LOW STOCK → Apple: -21
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -31
+[STATE] LastCheckTime updated to 02/12/2025 4:41:13 pm
+[ALERT] Low stock: Apple ? -21
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -31
+[THREAD] Stock check ended at 02/12/2025 4:41:13 pm
+[THREAD] Stock check started at 02/12/2025 4:41:18 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -18
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 4:41:18 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -18
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 4:41:18 pm
+[THREAD] Stock check started at 02/12/2025 4:41:23 pm
+LOW STOCK → Apple: -29
+LOW STOCK → Banana: -22
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 02/12/2025 4:41:23 pm
+[ALERT] Low stock: Apple ? -29
+[ALERT] Low stock: Banana ? -22
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 02/12/2025 4:41:23 pm
+[THREAD] Stock check started at 02/12/2025 4:41:28 pm
+LOW STOCK → Apple: -31
+LOW STOCK → Banana: -24
+LOW STOCK → Orange: -38
+[STATE] LastCheckTime updated to 02/12/2025 4:41:28 pm
+[ALERT] Low stock: Apple ? -31
+[ALERT] Low stock: Banana ? -24
+[ALERT] Low stock: Orange ? -38
+[THREAD] Stock check ended at 02/12/2025 4:41:28 pm
+[THREAD] Stock check started at 02/12/2025 4:41:33 pm
+LOW STOCK → Apple: -34
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -42
+[STATE] LastCheckTime updated to 02/12/2025 4:41:33 pm
+[ALERT] Low stock: Apple ? -34
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -42
+[THREAD] Stock check ended at 02/12/2025 4:41:33 pm
+[THREAD] Stock check started at 02/12/2025 4:41:38 pm
+LOW STOCK → Apple: -35
+LOW STOCK → Banana: -28
+LOW STOCK → Orange: -45
+[STATE] LastCheckTime updated to 02/12/2025 4:41:38 pm
+[ALERT] Low stock: Apple ? -35
+[ALERT] Low stock: Banana ? -28
+[ALERT] Low stock: Orange ? -45
+[THREAD] Stock check ended at 02/12/2025 4:41:38 pm
+[THREAD] Stock check started at 02/12/2025 4:41:43 pm
+LOW STOCK → Apple: -39
+LOW STOCK → Banana: -31
+LOW STOCK → Orange: -47
+[STATE] LastCheckTime updated to 02/12/2025 4:41:43 pm
+[ALERT] Low stock: Apple ? -39
+[ALERT] Low stock: Banana ? -31
+[ALERT] Low stock: Orange ? -47
+[THREAD] Stock check ended at 02/12/2025 4:41:43 pm
+[THREAD] Stock check started at 02/12/2025 4:41:48 pm
+LOW STOCK → Apple: -42
+LOW STOCK → Banana: -35
+LOW STOCK → Orange: -48
+[STATE] LastCheckTime updated to 02/12/2025 4:41:48 pm
+[ALERT] Low stock: Apple ? -42
+[ALERT] Low stock: Banana ? -35
+[ALERT] Low stock: Orange ? -48
+[THREAD] Stock check ended at 02/12/2025 4:41:48 pm
+[THREAD] Stock check started at 02/12/2025 4:41:53 pm
+LOW STOCK → Apple: -46
+LOW STOCK → Banana: -36
+LOW STOCK → Orange: -51
+[STATE] LastCheckTime updated to 02/12/2025 4:41:53 pm
+[ALERT] Low stock: Apple ? -46
+[ALERT] Low stock: Banana ? -36
+[ALERT] Low stock: Orange ? -51
+[THREAD] Stock check ended at 02/12/2025 4:41:53 pm
+[THREAD] Stock check started at 02/12/2025 4:41:58 pm
+LOW STOCK → Apple: -48
+LOW STOCK → Banana: -40
+LOW STOCK → Orange: -53
+[STATE] LastCheckTime updated to 02/12/2025 4:41:58 pm
+[ALERT] Low stock: Apple ? -48
+[ALERT] Low stock: Banana ? -40
+[ALERT] Low stock: Orange ? -53
+[THREAD] Stock check ended at 02/12/2025 4:41:58 pm
+[THREAD] Stock check started at 02/12/2025 4:42:03 pm
+LOW STOCK → Apple: -49
+LOW STOCK → Banana: -42
+LOW STOCK → Orange: -54
+[STATE] LastCheckTime updated to 02/12/2025 4:42:03 pm
+[ALERT] Low stock: Apple ? -49
+[ALERT] Low stock: Banana ? -42
+[ALERT] Low stock: Orange ? -54
+[THREAD] Stock check ended at 02/12/2025 4:42:03 pm
+[THREAD] Stock check started at 02/12/2025 4:42:08 pm
+LOW STOCK → Apple: -52
+LOW STOCK → Banana: -45
+LOW STOCK → Orange: -58
+[STATE] LastCheckTime updated to 02/12/2025 4:42:08 pm
+[ALERT] Low stock: Apple ? -52
+[ALERT] Low stock: Banana ? -45
+[ALERT] Low stock: Orange ? -58
+[THREAD] Stock check ended at 02/12/2025 4:42:08 pm
+[THREAD] Stock check started at 02/12/2025 4:42:13 pm
+LOW STOCK → Apple: -53
+LOW STOCK → Banana: -49
+LOW STOCK → Orange: -59
+[STATE] LastCheckTime updated to 02/12/2025 4:42:13 pm
+[ALERT] Low stock: Apple ? -53
+[ALERT] Low stock: Banana ? -49
+[ALERT] Low stock: Orange ? -59
+[THREAD] Stock check ended at 02/12/2025 4:42:13 pm
+[THREAD] Stock check started at 02/12/2025 4:42:18 pm
+LOW STOCK → Apple: -57
+LOW STOCK → Banana: -53
+LOW STOCK → Orange: -62
+[STATE] LastCheckTime updated to 02/12/2025 4:42:19 pm
+[ALERT] Low stock: Apple ? -57
+[ALERT] Low stock: Banana ? -53
+[ALERT] Low stock: Orange ? -62
+[THREAD] Stock check ended at 02/12/2025 4:42:19 pm
+[THREAD] Stock check started at 02/12/2025 4:42:24 pm
+LOW STOCK → Apple: -61
+LOW STOCK → Banana: -56
+LOW STOCK → Orange: -63
+[STATE] LastCheckTime updated to 02/12/2025 4:42:24 pm
+[ALERT] Low stock: Apple ? -61
+[ALERT] Low stock: Banana ? -56
+[ALERT] Low stock: Orange ? -63
+[THREAD] Stock check ended at 02/12/2025 4:42:24 pm
+[THREAD] Stock check started at 02/12/2025 4:42:29 pm
+LOW STOCK → Apple: -65
+LOW STOCK → Banana: -59
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 4:42:29 pm
+[ALERT] Low stock: Apple ? -65
+[ALERT] Low stock: Banana ? -59
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 4:42:29 pm
+[THREAD] Stock check started at 02/12/2025 4:42:34 pm
+LOW STOCK → Apple: -68
+LOW STOCK → Banana: -61
+LOW STOCK → Orange: -65
+[STATE] LastCheckTime updated to 02/12/2025 4:42:34 pm
+[ALERT] Low stock: Apple ? -68
+[ALERT] Low stock: Banana ? -61
+[ALERT] Low stock: Orange ? -65
+[THREAD] Stock check ended at 02/12/2025 4:42:34 pm
+[THREAD] Stock check started at 02/12/2025 4:42:39 pm
+LOW STOCK → Apple: -69
+LOW STOCK → Banana: -63
+LOW STOCK → Orange: -67
+[STATE] LastCheckTime updated to 02/12/2025 4:42:39 pm
+[ALERT] Low stock: Apple ? -69
+[ALERT] Low stock: Banana ? -63
+[ALERT] Low stock: Orange ? -67
+[THREAD] Stock check ended at 02/12/2025 4:42:39 pm
+[THREAD] Stock check started at 02/12/2025 4:42:44 pm
+LOW STOCK → Apple: -73
+LOW STOCK → Banana: -66
+LOW STOCK → Orange: -71
+[STATE] LastCheckTime updated to 02/12/2025 4:42:44 pm
+[ALERT] Low stock: Apple ? -73
+[ALERT] Low stock: Banana ? -66
+[ALERT] Low stock: Orange ? -71
+[THREAD] Stock check ended at 02/12/2025 4:42:44 pm
+[THREAD] Stock check started at 02/12/2025 4:42:49 pm
+LOW STOCK → Apple: -74
+LOW STOCK → Banana: -67
+LOW STOCK → Orange: -72
+[STATE] LastCheckTime updated to 02/12/2025 4:42:49 pm
+[ALERT] Low stock: Apple ? -74
+[ALERT] Low stock: Banana ? -67
+[ALERT] Low stock: Orange ? -72
+[THREAD] Stock check ended at 02/12/2025 4:42:49 pm
+[THREAD] Stock check started at 02/12/2025 4:42:54 pm
+LOW STOCK → Apple: -77
+LOW STOCK → Banana: -71
+LOW STOCK → Orange: -73
+[STATE] LastCheckTime updated to 02/12/2025 4:42:54 pm
+[ALERT] Low stock: Apple ? -77
+[ALERT] Low stock: Banana ? -71
+[ALERT] Low stock: Orange ? -73
+[THREAD] Stock check ended at 02/12/2025 4:42:54 pm
+[THREAD] Stock check started at 02/12/2025 4:42:59 pm
+LOW STOCK → Apple: -80
+LOW STOCK → Banana: -73
+LOW STOCK → Orange: -76
+[STATE] LastCheckTime updated to 02/12/2025 4:42:59 pm
+[ALERT] Low stock: Apple ? -80
+[ALERT] Low stock: Banana ? -73
+[ALERT] Low stock: Orange ? -76
+[THREAD] Stock check ended at 02/12/2025 4:42:59 pm
+[THREAD] Stock check started at 02/12/2025 4:43:04 pm
+LOW STOCK → Apple: -81
+LOW STOCK → Banana: -76
+LOW STOCK → Orange: -77
+[STATE] LastCheckTime updated to 02/12/2025 4:43:04 pm
+[ALERT] Low stock: Apple ? -81
+[ALERT] Low stock: Banana ? -76
+[ALERT] Low stock: Orange ? -77
+[THREAD] Stock check ended at 02/12/2025 4:43:04 pm
+[THREAD] Stock check started at 02/12/2025 4:43:09 pm
+LOW STOCK → Apple: -83
+LOW STOCK → Banana: -78
+LOW STOCK → Orange: -80
+[STATE] LastCheckTime updated to 02/12/2025 4:43:09 pm
+[ALERT] Low stock: Apple ? -83
+[ALERT] Low stock: Banana ? -78
+[ALERT] Low stock: Orange ? -80
+[THREAD] Stock check ended at 02/12/2025 4:43:09 pm
+[THREAD] Stock check started at 02/12/2025 4:43:14 pm
+LOW STOCK → Apple: -85
+LOW STOCK → Banana: -80
+LOW STOCK → Orange: -84
+[STATE] LastCheckTime updated to 02/12/2025 4:43:14 pm
+[ALERT] Low stock: Apple ? -85
+[ALERT] Low stock: Banana ? -80
+[ALERT] Low stock: Orange ? -84
+[THREAD] Stock check ended at 02/12/2025 4:43:14 pm
+[THREAD] Stock check started at 02/12/2025 4:43:19 pm
+LOW STOCK → Apple: -86
+LOW STOCK → Banana: -82
+LOW STOCK → Orange: -88
+[STATE] LastCheckTime updated to 02/12/2025 4:43:19 pm
+[ALERT] Low stock: Apple ? -86
+[ALERT] Low stock: Banana ? -82
+[ALERT] Low stock: Orange ? -88
+[THREAD] Stock check ended at 02/12/2025 4:43:19 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:43:23 pm
+LOW STOCK → Orange: 0
+[STATE] LastCheckTime updated to 02/12/2025 4:43:23 pm
+[ALERT] Low stock: Orange ? 0
+[THREAD] Stock check ended at 02/12/2025 4:43:23 pm
+[THREAD] Stock check started at 02/12/2025 4:43:28 pm
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:43:28 pm
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:43:28 pm
+[THREAD] Stock check started at 02/12/2025 4:43:33 pm
+LOW STOCK → Orange: -7
+[STATE] LastCheckTime updated to 02/12/2025 4:43:33 pm
+[ALERT] Low stock: Orange ? -7
+[THREAD] Stock check ended at 02/12/2025 4:43:33 pm
+[THREAD] Stock check started at 02/12/2025 4:43:38 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 4:43:38 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 4:43:38 pm
+[THREAD] Stock check started at 02/12/2025 4:43:43 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:43:43 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:43:43 pm
+[THREAD] Stock check started at 02/12/2025 4:43:48 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Banana: 1
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 4:43:48 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Banana ? 1
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 4:43:48 pm
+[THREAD] Stock check started at 02/12/2025 4:43:53 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:43:53 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:43:53 pm
+[THREAD] Stock check started at 02/12/2025 4:43:58 pm
+LOW STOCK → Apple: -7
+LOW STOCK → Banana: -2
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:43:58 pm
+[ALERT] Low stock: Apple ? -7
+[ALERT] Low stock: Banana ? -2
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:43:58 pm
+[THREAD] Stock check started at 02/12/2025 4:44:03 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -6
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:44:03 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -6
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:44:03 pm
+[THREAD] Stock check started at 02/12/2025 4:44:08 pm
+LOW STOCK → Apple: -12
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 02/12/2025 4:44:08 pm
+[ALERT] Low stock: Apple ? -12
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 02/12/2025 4:44:08 pm
+[THREAD] Stock check started at 02/12/2025 4:44:13 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -11
+LOW STOCK → Orange: -27
+[STATE] LastCheckTime updated to 02/12/2025 4:44:13 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -11
+[ALERT] Low stock: Orange ? -27
+[THREAD] Stock check ended at 02/12/2025 4:44:13 pm
+[THREAD] Stock check started at 02/12/2025 4:44:18 pm
+LOW STOCK → Apple: -15
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -29
+[STATE] LastCheckTime updated to 02/12/2025 4:44:18 pm
+[ALERT] Low stock: Apple ? -15
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -29
+[THREAD] Stock check ended at 02/12/2025 4:44:18 pm
+[THREAD] Stock check started at 02/12/2025 4:44:23 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -30
+[STATE] LastCheckTime updated to 02/12/2025 4:44:23 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -30
+[THREAD] Stock check ended at 02/12/2025 4:44:23 pm
+[THREAD] Stock check started at 02/12/2025 4:44:28 pm
+LOW STOCK → Apple: -21
+LOW STOCK → Banana: -18
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 4:44:28 pm
+[ALERT] Low stock: Apple ? -21
+[ALERT] Low stock: Banana ? -18
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 4:44:28 pm
+[THREAD] Stock check started at 02/12/2025 4:44:33 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -21
+LOW STOCK → Orange: -35
+[STATE] LastCheckTime updated to 02/12/2025 4:44:33 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -21
+[ALERT] Low stock: Orange ? -35
+[THREAD] Stock check ended at 02/12/2025 4:44:33 pm
+[THREAD] Stock check started at 02/12/2025 4:44:38 pm
+LOW STOCK → Apple: -28
+LOW STOCK → Banana: -23
+LOW STOCK → Orange: -39
+[STATE] LastCheckTime updated to 02/12/2025 4:44:38 pm
+[ALERT] Low stock: Apple ? -28
+[ALERT] Low stock: Banana ? -23
+[ALERT] Low stock: Orange ? -39
+[THREAD] Stock check ended at 02/12/2025 4:44:38 pm
+[THREAD] Stock check started at 02/12/2025 4:44:43 pm
+LOW STOCK → Apple: -32
+LOW STOCK → Banana: -25
+LOW STOCK → Orange: -43
+[STATE] LastCheckTime updated to 02/12/2025 4:44:43 pm
+[ALERT] Low stock: Apple ? -32
+[ALERT] Low stock: Banana ? -25
+[ALERT] Low stock: Orange ? -43
+[THREAD] Stock check ended at 02/12/2025 4:44:44 pm
+[THREAD] Stock check started at 02/12/2025 4:44:49 pm
+LOW STOCK → Apple: -35
+LOW STOCK → Banana: -26
+LOW STOCK → Orange: -45
+[STATE] LastCheckTime updated to 02/12/2025 4:44:49 pm
+[ALERT] Low stock: Apple ? -35
+[ALERT] Low stock: Banana ? -26
+[ALERT] Low stock: Orange ? -45
+[THREAD] Stock check ended at 02/12/2025 4:44:49 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:44:54 pm
+LOW STOCK → Orange: 0
+[STATE] LastCheckTime updated to 02/12/2025 4:44:54 pm
+[ALERT] Low stock: Orange ? 0
+[THREAD] Stock check ended at 02/12/2025 4:44:54 pm
+[THREAD] Stock check started at 02/12/2025 4:44:58 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:44:58 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:44:58 pm
+[MANUAL] Manual stock check executed.
+[THREAD] Stock check started at 02/12/2025 4:44:59 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:44:59 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:44:59 pm
+[THREAD] Stock check started at 02/12/2025 4:45:00 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:45:01 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:45:01 pm
+[MANUAL] Manual stock check executed.
+[THREAD] Stock check started at 02/12/2025 4:45:02 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -7
+[STATE] LastCheckTime updated to 02/12/2025 4:45:02 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -7
+[THREAD] Stock check ended at 02/12/2025 4:45:02 pm
+[MANUAL] Manual stock check executed.
+[THREAD] Stock check started at 02/12/2025 4:45:02 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:45:02 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:45:02 pm
+[MANUAL] Manual stock check executed.
+[THREAD] Stock check started at 02/12/2025 4:45:03 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 4:45:03 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 4:45:03 pm
+[MANUAL] Manual stock check executed.
+[THREAD] Stock check started at 02/12/2025 4:45:04 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:45:04 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:45:04 pm
+[THREAD] Stock check started at 02/12/2025 4:45:09 pm
+LOW STOCK → Apple: -12
+LOW STOCK → Banana: -6
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:45:09 pm
+[ALERT] Low stock: Apple ? -12
+[ALERT] Low stock: Banana ? -6
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:45:09 pm
+[THREAD] Stock check started at 02/12/2025 4:45:14 pm
+LOW STOCK → Apple: -15
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:45:14 pm
+[ALERT] Low stock: Apple ? -15
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:45:14 pm
+[THREAD] Stock check started at 02/12/2025 4:45:20 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -20
+[STATE] LastCheckTime updated to 02/12/2025 4:45:20 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -20
+[THREAD] Stock check ended at 02/12/2025 4:45:20 pm
+[THREAD] Stock check started at 02/12/2025 4:45:25 pm
+LOW STOCK → Apple: -18
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 02/12/2025 4:45:25 pm
+[ALERT] Low stock: Apple ? -18
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 02/12/2025 4:45:25 pm
+[THREAD] Stock check started at 02/12/2025 4:45:30 pm
+LOW STOCK → Apple: -19
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -27
+[STATE] LastCheckTime updated to 02/12/2025 4:45:30 pm
+[ALERT] Low stock: Apple ? -19
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -27
+[THREAD] Stock check ended at 02/12/2025 4:45:30 pm
+[THREAD] Stock check started at 02/12/2025 4:45:35 pm
+LOW STOCK → Apple: -20
+LOW STOCK → Banana: -18
+LOW STOCK → Orange: -31
+[STATE] LastCheckTime updated to 02/12/2025 4:45:35 pm
+[ALERT] Low stock: Apple ? -20
+[ALERT] Low stock: Banana ? -18
+[ALERT] Low stock: Orange ? -31
+[THREAD] Stock check ended at 02/12/2025 4:45:35 pm
+[THREAD] Stock check started at 02/12/2025 4:45:40 pm
+LOW STOCK → Apple: -22
+LOW STOCK → Banana: -22
+LOW STOCK → Orange: -35
+[STATE] LastCheckTime updated to 02/12/2025 4:45:40 pm
+[ALERT] Low stock: Apple ? -22
+[ALERT] Low stock: Banana ? -22
+[ALERT] Low stock: Orange ? -35
+[THREAD] Stock check ended at 02/12/2025 4:45:40 pm
+[THREAD] Stock check started at 02/12/2025 4:45:45 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -25
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 02/12/2025 4:45:45 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -25
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 02/12/2025 4:45:45 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:45:48 pm
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 02/12/2025 4:45:48 pm
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 02/12/2025 4:45:48 pm
+[THREAD] Stock check started at 02/12/2025 4:45:53 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:45:53 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:45:53 pm
+[THREAD] Stock check started at 02/12/2025 4:45:58 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:45:58 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:45:58 pm
+[THREAD] Stock check started at 02/12/2025 4:46:03 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 4:46:04 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 4:46:04 pm
+[THREAD] Stock check started at 02/12/2025 4:46:09 pm
+LOW STOCK → Apple: -4
+LOW STOCK → Banana: -2
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:46:09 pm
+[ALERT] Low stock: Apple ? -4
+[ALERT] Low stock: Banana ? -2
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:46:09 pm
+[THREAD] Stock check started at 02/12/2025 4:46:13 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: -6
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 4:46:13 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? -6
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 4:46:13 pm
+[MANUAL] Manual stock check executed.
+[THREAD] Stock check started at 02/12/2025 4:46:14 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:46:14 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:46:14 pm
+[THREAD] Stock check started at 02/12/2025 4:46:19 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -25
+[STATE] LastCheckTime updated to 02/12/2025 4:46:19 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -25
+[THREAD] Stock check ended at 02/12/2025 4:46:19 pm
+[THREAD] Stock check started at 02/12/2025 4:46:24 pm
+LOW STOCK → Apple: -15
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -26
+[STATE] LastCheckTime updated to 02/12/2025 4:46:24 pm
+[ALERT] Low stock: Apple ? -15
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -26
+[THREAD] Stock check ended at 02/12/2025 4:46:24 pm
+[THREAD] Stock check started at 02/12/2025 4:46:29 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -19
+LOW STOCK → Orange: -28
+[STATE] LastCheckTime updated to 02/12/2025 4:46:29 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -19
+[ALERT] Low stock: Orange ? -28
+[THREAD] Stock check ended at 02/12/2025 4:46:29 pm
+[THREAD] Stock check started at 02/12/2025 4:46:34 pm
+LOW STOCK → Apple: -18
+LOW STOCK → Banana: -20
+LOW STOCK → Orange: -30
+[STATE] LastCheckTime updated to 02/12/2025 4:46:34 pm
+[ALERT] Low stock: Apple ? -18
+[ALERT] Low stock: Banana ? -20
+[ALERT] Low stock: Orange ? -30
+[THREAD] Stock check ended at 02/12/2025 4:46:34 pm
+[THREAD] Stock check started at 02/12/2025 4:46:39 pm
+LOW STOCK → Apple: -22
+LOW STOCK → Banana: -24
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 4:46:39 pm
+[ALERT] Low stock: Apple ? -22
+[ALERT] Low stock: Banana ? -24
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 4:46:39 pm
+[THREAD] Stock check started at 02/12/2025 4:46:44 pm
+LOW STOCK → Apple: -24
+LOW STOCK → Banana: -25
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 02/12/2025 4:46:44 pm
+[ALERT] Low stock: Apple ? -24
+[ALERT] Low stock: Banana ? -25
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 02/12/2025 4:46:44 pm
+[THREAD] Stock check started at 02/12/2025 4:46:49 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -37
+[STATE] LastCheckTime updated to 02/12/2025 4:46:49 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -37
+[THREAD] Stock check ended at 02/12/2025 4:46:49 pm
+[THREAD] Stock check started at 02/12/2025 4:46:54 pm
+LOW STOCK → Apple: -26
+LOW STOCK → Banana: -31
+LOW STOCK → Orange: -39
+[STATE] LastCheckTime updated to 02/12/2025 4:46:54 pm
+[ALERT] Low stock: Apple ? -26
+[ALERT] Low stock: Banana ? -31
+[ALERT] Low stock: Orange ? -39
+[THREAD] Stock check ended at 02/12/2025 4:46:54 pm
+[THREAD] Stock check started at 02/12/2025 4:46:59 pm
+LOW STOCK → Apple: -30
+LOW STOCK → Banana: -34
+LOW STOCK → Orange: -43
+[STATE] LastCheckTime updated to 02/12/2025 4:46:59 pm
+[ALERT] Low stock: Apple ? -30
+[ALERT] Low stock: Banana ? -34
+[ALERT] Low stock: Orange ? -43
+[THREAD] Stock check ended at 02/12/2025 4:46:59 pm
+[THREAD] Stock check started at 02/12/2025 4:47:04 pm
+LOW STOCK → Apple: -31
+LOW STOCK → Banana: -38
+LOW STOCK → Orange: -46
+[STATE] LastCheckTime updated to 02/12/2025 4:47:04 pm
+[ALERT] Low stock: Apple ? -31
+[ALERT] Low stock: Banana ? -38
+[ALERT] Low stock: Orange ? -46
+[THREAD] Stock check ended at 02/12/2025 4:47:04 pm
+[THREAD] Stock check started at 02/12/2025 4:47:09 pm
+LOW STOCK → Apple: -35
+LOW STOCK → Banana: -42
+LOW STOCK → Orange: -47
+[STATE] LastCheckTime updated to 02/12/2025 4:47:09 pm
+[ALERT] Low stock: Apple ? -35
+[ALERT] Low stock: Banana ? -42
+[ALERT] Low stock: Orange ? -47
+[THREAD] Stock check ended at 02/12/2025 4:47:09 pm
+[THREAD] Stock check started at 02/12/2025 4:47:14 pm
+LOW STOCK → Apple: -39
+LOW STOCK → Banana: -43
+LOW STOCK → Orange: -51
+[STATE] LastCheckTime updated to 02/12/2025 4:47:14 pm
+[ALERT] Low stock: Apple ? -39
+[ALERT] Low stock: Banana ? -43
+[ALERT] Low stock: Orange ? -51
+[THREAD] Stock check ended at 02/12/2025 4:47:14 pm
+[THREAD] Stock check started at 02/12/2025 4:47:19 pm
+LOW STOCK → Apple: -43
+LOW STOCK → Banana: -44
+LOW STOCK → Orange: -53
+[STATE] LastCheckTime updated to 02/12/2025 4:47:19 pm
+[ALERT] Low stock: Apple ? -43
+[ALERT] Low stock: Banana ? -44
+[ALERT] Low stock: Orange ? -53
+[THREAD] Stock check ended at 02/12/2025 4:47:19 pm
+[THREAD] Stock check started at 02/12/2025 4:47:24 pm
+LOW STOCK → Apple: -45
+LOW STOCK → Banana: -47
+LOW STOCK → Orange: -56
+[STATE] LastCheckTime updated to 02/12/2025 4:47:24 pm
+[ALERT] Low stock: Apple ? -45
+[ALERT] Low stock: Banana ? -47
+[ALERT] Low stock: Orange ? -56
+[THREAD] Stock check ended at 02/12/2025 4:47:24 pm
+[THREAD] Stock check started at 02/12/2025 4:47:29 pm
+LOW STOCK → Apple: -47
+LOW STOCK → Banana: -51
+LOW STOCK → Orange: -59
+[STATE] LastCheckTime updated to 02/12/2025 4:47:29 pm
+[ALERT] Low stock: Apple ? -47
+[ALERT] Low stock: Banana ? -51
+[ALERT] Low stock: Orange ? -59
+[THREAD] Stock check ended at 02/12/2025 4:47:29 pm
+[THREAD] Stock check started at 02/12/2025 4:47:34 pm
+LOW STOCK → Apple: -50
+LOW STOCK → Banana: -53
+LOW STOCK → Orange: -61
+[STATE] LastCheckTime updated to 02/12/2025 4:47:34 pm
+[ALERT] Low stock: Apple ? -50
+[ALERT] Low stock: Banana ? -53
+[ALERT] Low stock: Orange ? -61
+[THREAD] Stock check ended at 02/12/2025 4:47:34 pm
+[THREAD] Stock check started at 02/12/2025 4:47:39 pm
+LOW STOCK → Apple: -52
+LOW STOCK → Banana: -54
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 4:47:39 pm
+[ALERT] Low stock: Apple ? -52
+[ALERT] Low stock: Banana ? -54
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 4:47:39 pm
+[THREAD] Stock check started at 02/12/2025 4:47:44 pm
+LOW STOCK → Apple: -54
+LOW STOCK → Banana: -58
+LOW STOCK → Orange: -67
+[STATE] LastCheckTime updated to 02/12/2025 4:47:44 pm
+[ALERT] Low stock: Apple ? -54
+[ALERT] Low stock: Banana ? -58
+[ALERT] Low stock: Orange ? -67
+[THREAD] Stock check ended at 02/12/2025 4:47:44 pm
+[THREAD] Stock check started at 02/12/2025 4:47:49 pm
+LOW STOCK → Apple: -56
+LOW STOCK → Banana: -61
+LOW STOCK → Orange: -69
+[STATE] LastCheckTime updated to 02/12/2025 4:47:49 pm
+[ALERT] Low stock: Apple ? -56
+[ALERT] Low stock: Banana ? -61
+[ALERT] Low stock: Orange ? -69
+[THREAD] Stock check ended at 02/12/2025 4:47:49 pm
+[THREAD] Stock check started at 02/12/2025 4:47:54 pm
+LOW STOCK → Apple: -59
+LOW STOCK → Banana: -62
+LOW STOCK → Orange: -71
+[STATE] LastCheckTime updated to 02/12/2025 4:47:54 pm
+[ALERT] Low stock: Apple ? -59
+[ALERT] Low stock: Banana ? -62
+[ALERT] Low stock: Orange ? -71
+[THREAD] Stock check ended at 02/12/2025 4:47:54 pm
+[THREAD] Stock check started at 02/12/2025 4:47:59 pm
+LOW STOCK → Apple: -60
+LOW STOCK → Banana: -66
+LOW STOCK → Orange: -72
+[STATE] LastCheckTime updated to 02/12/2025 4:47:59 pm
+[ALERT] Low stock: Apple ? -60
+[ALERT] Low stock: Banana ? -66
+[ALERT] Low stock: Orange ? -72
+[THREAD] Stock check ended at 02/12/2025 4:47:59 pm
+[THREAD] Stock check started at 02/12/2025 4:48:04 pm
+LOW STOCK → Apple: -64
+LOW STOCK → Banana: -68
+LOW STOCK → Orange: -73
+[STATE] LastCheckTime updated to 02/12/2025 4:48:04 pm
+[ALERT] Low stock: Apple ? -64
+[ALERT] Low stock: Banana ? -68
+[ALERT] Low stock: Orange ? -73
+[THREAD] Stock check ended at 02/12/2025 4:48:04 pm
+[THREAD] Stock check started at 02/12/2025 4:48:09 pm
+LOW STOCK → Apple: -65
+LOW STOCK → Banana: -72
+LOW STOCK → Orange: -76
+[STATE] LastCheckTime updated to 02/12/2025 4:48:09 pm
+[ALERT] Low stock: Apple ? -65
+[ALERT] Low stock: Banana ? -72
+[ALERT] Low stock: Orange ? -76
+[THREAD] Stock check ended at 02/12/2025 4:48:09 pm
+[THREAD] Stock check started at 02/12/2025 4:48:14 pm
+LOW STOCK → Apple: -69
+LOW STOCK → Banana: -73
+LOW STOCK → Orange: -77
+[STATE] LastCheckTime updated to 02/12/2025 4:48:14 pm
+[ALERT] Low stock: Apple ? -69
+[ALERT] Low stock: Banana ? -73
+[ALERT] Low stock: Orange ? -77
+[THREAD] Stock check ended at 02/12/2025 4:48:14 pm
+[THREAD] Stock check started at 02/12/2025 4:48:19 pm
+LOW STOCK → Apple: -71
+LOW STOCK → Banana: -74
+LOW STOCK → Orange: -78
+[STATE] LastCheckTime updated to 02/12/2025 4:48:19 pm
+[ALERT] Low stock: Apple ? -71
+[ALERT] Low stock: Banana ? -74
+[ALERT] Low stock: Orange ? -78
+[THREAD] Stock check ended at 02/12/2025 4:48:19 pm
+[THREAD] Stock check started at 02/12/2025 4:48:24 pm
+LOW STOCK → Apple: -72
+LOW STOCK → Banana: -77
+LOW STOCK → Orange: -79
+[STATE] LastCheckTime updated to 02/12/2025 4:48:24 pm
+[ALERT] Low stock: Apple ? -72
+[ALERT] Low stock: Banana ? -77
+[ALERT] Low stock: Orange ? -79
+[THREAD] Stock check ended at 02/12/2025 4:48:24 pm
+[THREAD] Stock check started at 02/12/2025 4:48:29 pm
+LOW STOCK → Apple: -75
+LOW STOCK → Banana: -79
+LOW STOCK → Orange: -80
+[STATE] LastCheckTime updated to 02/12/2025 4:48:29 pm
+[ALERT] Low stock: Apple ? -75
+[ALERT] Low stock: Banana ? -79
+[ALERT] Low stock: Orange ? -80
+[THREAD] Stock check ended at 02/12/2025 4:48:29 pm
+[THREAD] Stock check started at 02/12/2025 4:48:34 pm
+LOW STOCK → Apple: -78
+LOW STOCK → Banana: -83
+LOW STOCK → Orange: -83
+[STATE] LastCheckTime updated to 02/12/2025 4:48:34 pm
+[ALERT] Low stock: Apple ? -78
+[ALERT] Low stock: Banana ? -83
+[ALERT] Low stock: Orange ? -83
+[THREAD] Stock check ended at 02/12/2025 4:48:34 pm
+[THREAD] Stock check started at 02/12/2025 4:48:39 pm
+LOW STOCK → Apple: -82
+LOW STOCK → Banana: -86
+LOW STOCK → Orange: -85
+[STATE] LastCheckTime updated to 02/12/2025 4:48:39 pm
+[ALERT] Low stock: Apple ? -82
+[ALERT] Low stock: Banana ? -86
+[ALERT] Low stock: Orange ? -85
+[THREAD] Stock check ended at 02/12/2025 4:48:39 pm
+[THREAD] Stock check started at 02/12/2025 4:48:44 pm
+LOW STOCK → Apple: -83
+LOW STOCK → Banana: -88
+LOW STOCK → Orange: -89
+[STATE] LastCheckTime updated to 02/12/2025 4:48:44 pm
+[ALERT] Low stock: Apple ? -83
+[ALERT] Low stock: Banana ? -88
+[ALERT] Low stock: Orange ? -89
+[THREAD] Stock check ended at 02/12/2025 4:48:44 pm
+[THREAD] Stock check started at 02/12/2025 4:48:49 pm
+LOW STOCK → Apple: -86
+LOW STOCK → Banana: -90
+LOW STOCK → Orange: -92
+[STATE] LastCheckTime updated to 02/12/2025 4:48:49 pm
+[ALERT] Low stock: Apple ? -86
+[ALERT] Low stock: Banana ? -90
+[ALERT] Low stock: Orange ? -92
+[THREAD] Stock check ended at 02/12/2025 4:48:49 pm
+[THREAD] Stock check started at 02/12/2025 4:48:54 pm
+LOW STOCK → Apple: -88
+LOW STOCK → Banana: -92
+LOW STOCK → Orange: -94
+[STATE] LastCheckTime updated to 02/12/2025 4:48:54 pm
+[ALERT] Low stock: Apple ? -88
+[ALERT] Low stock: Banana ? -92
+[ALERT] Low stock: Orange ? -94
+[THREAD] Stock check ended at 02/12/2025 4:48:54 pm
+[THREAD] Stock check started at 02/12/2025 4:48:59 pm
+LOW STOCK → Apple: -90
+LOW STOCK → Banana: -94
+LOW STOCK → Orange: -97
+[STATE] LastCheckTime updated to 02/12/2025 4:48:59 pm
+[ALERT] Low stock: Apple ? -90
+[ALERT] Low stock: Banana ? -94
+[ALERT] Low stock: Orange ? -97
+[THREAD] Stock check ended at 02/12/2025 4:48:59 pm
+[THREAD] Stock check started at 02/12/2025 4:49:04 pm
+LOW STOCK → Apple: -91
+LOW STOCK → Banana: -96
+LOW STOCK → Orange: -101
+[STATE] LastCheckTime updated to 02/12/2025 4:49:04 pm
+[ALERT] Low stock: Apple ? -91
+[ALERT] Low stock: Banana ? -96
+[ALERT] Low stock: Orange ? -101
+[THREAD] Stock check ended at 02/12/2025 4:49:04 pm
+[THREAD] Stock check started at 02/12/2025 4:49:09 pm
+LOW STOCK → Apple: -95
+LOW STOCK → Banana: -99
+LOW STOCK → Orange: -104
+[STATE] LastCheckTime updated to 02/12/2025 4:49:09 pm
+[ALERT] Low stock: Apple ? -95
+[ALERT] Low stock: Banana ? -99
+[ALERT] Low stock: Orange ? -104
+[THREAD] Stock check ended at 02/12/2025 4:49:09 pm
+[THREAD] Stock check started at 02/12/2025 4:49:14 pm
+LOW STOCK → Apple: -98
+LOW STOCK → Banana: -103
+LOW STOCK → Orange: -108
+[STATE] LastCheckTime updated to 02/12/2025 4:49:14 pm
+[ALERT] Low stock: Apple ? -98
+[ALERT] Low stock: Banana ? -103
+[ALERT] Low stock: Orange ? -108
+[THREAD] Stock check ended at 02/12/2025 4:49:14 pm
+[THREAD] Stock check started at 02/12/2025 4:49:19 pm
+LOW STOCK → Apple: -102
+LOW STOCK → Banana: -106
+LOW STOCK → Orange: -110
+[STATE] LastCheckTime updated to 02/12/2025 4:49:19 pm
+[ALERT] Low stock: Apple ? -102
+[ALERT] Low stock: Banana ? -106
+[ALERT] Low stock: Orange ? -110
+[THREAD] Stock check ended at 02/12/2025 4:49:19 pm
+[THREAD] Stock check started at 02/12/2025 4:49:24 pm
+LOW STOCK → Apple: -103
+LOW STOCK → Banana: -109
+LOW STOCK → Orange: -113
+[STATE] LastCheckTime updated to 02/12/2025 4:49:24 pm
+[ALERT] Low stock: Apple ? -103
+[ALERT] Low stock: Banana ? -109
+[ALERT] Low stock: Orange ? -113
+[THREAD] Stock check ended at 02/12/2025 4:49:24 pm
+[THREAD] Stock check started at 02/12/2025 4:49:29 pm
+LOW STOCK → Apple: -107
+LOW STOCK → Banana: -112
+LOW STOCK → Orange: -117
+[STATE] LastCheckTime updated to 02/12/2025 4:49:29 pm
+[ALERT] Low stock: Apple ? -107
+[ALERT] Low stock: Banana ? -112
+[ALERT] Low stock: Orange ? -117
+[THREAD] Stock check ended at 02/12/2025 4:49:29 pm
+[THREAD] Stock check started at 02/12/2025 4:49:35 pm
+LOW STOCK → Apple: -109
+LOW STOCK → Banana: -115
+LOW STOCK → Orange: -120
+[STATE] LastCheckTime updated to 02/12/2025 4:49:35 pm
+[ALERT] Low stock: Apple ? -109
+[ALERT] Low stock: Banana ? -115
+[ALERT] Low stock: Orange ? -120
+[THREAD] Stock check ended at 02/12/2025 4:49:35 pm
+[THREAD] Stock check started at 02/12/2025 4:49:40 pm
+LOW STOCK → Apple: -110
+LOW STOCK → Banana: -119
+LOW STOCK → Orange: -121
+[STATE] LastCheckTime updated to 02/12/2025 4:49:40 pm
+[ALERT] Low stock: Apple ? -110
+[ALERT] Low stock: Banana ? -119
+[ALERT] Low stock: Orange ? -121
+[THREAD] Stock check ended at 02/12/2025 4:49:40 pm
+[THREAD] Stock check started at 02/12/2025 4:49:45 pm
+LOW STOCK → Apple: -114
+LOW STOCK → Banana: -121
+LOW STOCK → Orange: -124
+[STATE] LastCheckTime updated to 02/12/2025 4:49:45 pm
+[ALERT] Low stock: Apple ? -114
+[ALERT] Low stock: Banana ? -121
+[ALERT] Low stock: Orange ? -124
+[THREAD] Stock check ended at 02/12/2025 4:49:45 pm
+[THREAD] Stock check started at 02/12/2025 4:49:50 pm
+LOW STOCK → Apple: -118
+LOW STOCK → Banana: -125
+LOW STOCK → Orange: -125
+[STATE] LastCheckTime updated to 02/12/2025 4:49:50 pm
+[ALERT] Low stock: Apple ? -118
+[ALERT] Low stock: Banana ? -125
+[ALERT] Low stock: Orange ? -125
+[THREAD] Stock check ended at 02/12/2025 4:49:50 pm
+[THREAD] Stock check started at 02/12/2025 4:49:55 pm
+LOW STOCK → Apple: -120
+LOW STOCK → Banana: -129
+LOW STOCK → Orange: -126
+[STATE] LastCheckTime updated to 02/12/2025 4:49:55 pm
+[ALERT] Low stock: Apple ? -120
+[ALERT] Low stock: Banana ? -129
+[ALERT] Low stock: Orange ? -126
+[THREAD] Stock check ended at 02/12/2025 4:49:55 pm
+[THREAD] Stock check started at 02/12/2025 4:50:00 pm
+LOW STOCK → Apple: -123
+LOW STOCK → Banana: -131
+LOW STOCK → Orange: -128
+[STATE] LastCheckTime updated to 02/12/2025 4:50:00 pm
+[ALERT] Low stock: Apple ? -123
+[ALERT] Low stock: Banana ? -131
+[ALERT] Low stock: Orange ? -128
+[THREAD] Stock check ended at 02/12/2025 4:50:00 pm
+[THREAD] Stock check started at 02/12/2025 4:50:05 pm
+LOW STOCK → Apple: -126
+LOW STOCK → Banana: -135
+LOW STOCK → Orange: -131
+[STATE] LastCheckTime updated to 02/12/2025 4:50:05 pm
+[ALERT] Low stock: Apple ? -126
+[ALERT] Low stock: Banana ? -135
+[ALERT] Low stock: Orange ? -131
+[THREAD] Stock check ended at 02/12/2025 4:50:05 pm
+[THREAD] Stock check started at 02/12/2025 4:50:10 pm
+LOW STOCK → Apple: -130
+LOW STOCK → Banana: -138
+LOW STOCK → Orange: -135
+[STATE] LastCheckTime updated to 02/12/2025 4:50:10 pm
+[ALERT] Low stock: Apple ? -130
+[ALERT] Low stock: Banana ? -138
+[ALERT] Low stock: Orange ? -135
+[THREAD] Stock check ended at 02/12/2025 4:50:10 pm
+[THREAD] Stock check started at 02/12/2025 4:50:15 pm
+LOW STOCK → Apple: -134
+LOW STOCK → Banana: -140
+LOW STOCK → Orange: -139
+[STATE] LastCheckTime updated to 02/12/2025 4:50:15 pm
+[ALERT] Low stock: Apple ? -134
+[ALERT] Low stock: Banana ? -140
+[ALERT] Low stock: Orange ? -139
+[THREAD] Stock check ended at 02/12/2025 4:50:15 pm
+[THREAD] Stock check started at 02/12/2025 4:50:20 pm
+LOW STOCK → Apple: -138
+LOW STOCK → Banana: -143
+LOW STOCK → Orange: -143
+[STATE] LastCheckTime updated to 02/12/2025 4:50:20 pm
+[ALERT] Low stock: Apple ? -138
+[ALERT] Low stock: Banana ? -143
+[ALERT] Low stock: Orange ? -143
+[THREAD] Stock check ended at 02/12/2025 4:50:20 pm
+[THREAD] Stock check started at 02/12/2025 4:50:25 pm
+LOW STOCK → Apple: -141
+LOW STOCK → Banana: -145
+LOW STOCK → Orange: -144
+[STATE] LastCheckTime updated to 02/12/2025 4:50:25 pm
+[ALERT] Low stock: Apple ? -141
+[ALERT] Low stock: Banana ? -145
+[ALERT] Low stock: Orange ? -144
+[THREAD] Stock check ended at 02/12/2025 4:50:25 pm
+[THREAD] Stock check started at 02/12/2025 4:50:30 pm
+LOW STOCK → Apple: -143
+LOW STOCK → Banana: -147
+LOW STOCK → Orange: -147
+[STATE] LastCheckTime updated to 02/12/2025 4:50:30 pm
+[ALERT] Low stock: Apple ? -143
+[ALERT] Low stock: Banana ? -147
+[ALERT] Low stock: Orange ? -147
+[THREAD] Stock check ended at 02/12/2025 4:50:30 pm
+[THREAD] Stock check started at 02/12/2025 4:50:35 pm
+LOW STOCK → Apple: -145
+LOW STOCK → Banana: -148
+LOW STOCK → Orange: -150
+[STATE] LastCheckTime updated to 02/12/2025 4:50:35 pm
+[ALERT] Low stock: Apple ? -145
+[ALERT] Low stock: Banana ? -148
+[ALERT] Low stock: Orange ? -150
+[THREAD] Stock check ended at 02/12/2025 4:50:35 pm
+[THREAD] Stock check started at 02/12/2025 4:50:40 pm
+LOW STOCK → Apple: -149
+LOW STOCK → Banana: -151
+LOW STOCK → Orange: -151
+[STATE] LastCheckTime updated to 02/12/2025 4:50:40 pm
+[ALERT] Low stock: Apple ? -149
+[ALERT] Low stock: Banana ? -151
+[ALERT] Low stock: Orange ? -151
+[THREAD] Stock check ended at 02/12/2025 4:50:40 pm
+[THREAD] Stock check started at 02/12/2025 4:50:45 pm
+LOW STOCK → Apple: -153
+LOW STOCK → Banana: -152
+LOW STOCK → Orange: -152
+[STATE] LastCheckTime updated to 02/12/2025 4:50:45 pm
+[ALERT] Low stock: Apple ? -153
+[ALERT] Low stock: Banana ? -152
+[ALERT] Low stock: Orange ? -152
+[THREAD] Stock check ended at 02/12/2025 4:50:45 pm
+[THREAD] Stock check started at 02/12/2025 4:50:50 pm
+LOW STOCK → Apple: -154
+LOW STOCK → Banana: -153
+LOW STOCK → Orange: -154
+[STATE] LastCheckTime updated to 02/12/2025 4:50:50 pm
+[ALERT] Low stock: Apple ? -154
+[ALERT] Low stock: Banana ? -153
+[ALERT] Low stock: Orange ? -154
+[THREAD] Stock check ended at 02/12/2025 4:50:50 pm
+[THREAD] Stock check started at 02/12/2025 4:50:55 pm
+LOW STOCK → Apple: -155
+LOW STOCK → Banana: -157
+LOW STOCK → Orange: -157
+[STATE] LastCheckTime updated to 02/12/2025 4:50:55 pm
+[ALERT] Low stock: Apple ? -155
+[ALERT] Low stock: Banana ? -157
+[ALERT] Low stock: Orange ? -157
+[THREAD] Stock check ended at 02/12/2025 4:50:55 pm
+[THREAD] Stock check started at 02/12/2025 4:51:00 pm
+LOW STOCK → Apple: -157
+LOW STOCK → Banana: -161
+LOW STOCK → Orange: -159
+[STATE] LastCheckTime updated to 02/12/2025 4:51:00 pm
+[ALERT] Low stock: Apple ? -157
+[ALERT] Low stock: Banana ? -161
+[ALERT] Low stock: Orange ? -159
+[THREAD] Stock check ended at 02/12/2025 4:51:00 pm
+[THREAD] Stock check started at 02/12/2025 4:51:05 pm
+LOW STOCK → Apple: -161
+LOW STOCK → Banana: -165
+LOW STOCK → Orange: -162
+[STATE] LastCheckTime updated to 02/12/2025 4:51:05 pm
+[ALERT] Low stock: Apple ? -161
+[ALERT] Low stock: Banana ? -165
+[ALERT] Low stock: Orange ? -162
+[THREAD] Stock check ended at 02/12/2025 4:51:05 pm
+[THREAD] Stock check started at 02/12/2025 4:51:10 pm
+LOW STOCK → Apple: -165
+LOW STOCK → Banana: -166
+LOW STOCK → Orange: -164
+[STATE] LastCheckTime updated to 02/12/2025 4:51:10 pm
+[ALERT] Low stock: Apple ? -165
+[ALERT] Low stock: Banana ? -166
+[ALERT] Low stock: Orange ? -164
+[THREAD] Stock check ended at 02/12/2025 4:51:10 pm
+[THREAD] Stock check started at 02/12/2025 4:51:15 pm
+LOW STOCK → Apple: -168
+LOW STOCK → Banana: -170
+LOW STOCK → Orange: -168
+[STATE] LastCheckTime updated to 02/12/2025 4:51:15 pm
+[ALERT] Low stock: Apple ? -168
+[ALERT] Low stock: Banana ? -170
+[ALERT] Low stock: Orange ? -168
+[THREAD] Stock check ended at 02/12/2025 4:51:15 pm
+[THREAD] Stock check started at 02/12/2025 4:51:20 pm
+LOW STOCK → Apple: -169
+LOW STOCK → Banana: -172
+LOW STOCK → Orange: -169
+[STATE] LastCheckTime updated to 02/12/2025 4:51:20 pm
+[ALERT] Low stock: Apple ? -169
+[ALERT] Low stock: Banana ? -172
+[ALERT] Low stock: Orange ? -169
+[THREAD] Stock check ended at 02/12/2025 4:51:20 pm
+[THREAD] Stock check started at 02/12/2025 4:51:25 pm
+LOW STOCK → Apple: -170
+LOW STOCK → Banana: -174
+LOW STOCK → Orange: -171
+[STATE] LastCheckTime updated to 02/12/2025 4:51:25 pm
+[ALERT] Low stock: Apple ? -170
+[ALERT] Low stock: Banana ? -174
+[ALERT] Low stock: Orange ? -171
+[THREAD] Stock check ended at 02/12/2025 4:51:25 pm
+[THREAD] Stock check started at 02/12/2025 4:51:30 pm
+LOW STOCK → Apple: -171
+LOW STOCK → Banana: -176
+LOW STOCK → Orange: -173
+[STATE] LastCheckTime updated to 02/12/2025 4:51:30 pm
+[ALERT] Low stock: Apple ? -171
+[ALERT] Low stock: Banana ? -176
+[ALERT] Low stock: Orange ? -173
+[THREAD] Stock check ended at 02/12/2025 4:51:30 pm
+[THREAD] Stock check started at 02/12/2025 4:51:35 pm
+LOW STOCK → Apple: -174
+LOW STOCK → Banana: -179
+LOW STOCK → Orange: -177
+[STATE] LastCheckTime updated to 02/12/2025 4:51:35 pm
+[ALERT] Low stock: Apple ? -174
+[ALERT] Low stock: Banana ? -179
+[ALERT] Low stock: Orange ? -177
+[THREAD] Stock check ended at 02/12/2025 4:51:35 pm
+[THREAD] Stock check started at 02/12/2025 4:51:40 pm
+LOW STOCK → Apple: -178
+LOW STOCK → Banana: -182
+LOW STOCK → Orange: -181
+[STATE] LastCheckTime updated to 02/12/2025 4:51:40 pm
+[ALERT] Low stock: Apple ? -178
+[ALERT] Low stock: Banana ? -182
+[ALERT] Low stock: Orange ? -181
+[THREAD] Stock check ended at 02/12/2025 4:51:40 pm
+[THREAD] Stock check started at 02/12/2025 4:51:45 pm
+LOW STOCK → Apple: -180
+LOW STOCK → Banana: -183
+LOW STOCK → Orange: -185
+[STATE] LastCheckTime updated to 02/12/2025 4:51:45 pm
+[ALERT] Low stock: Apple ? -180
+[ALERT] Low stock: Banana ? -183
+[ALERT] Low stock: Orange ? -185
+[THREAD] Stock check ended at 02/12/2025 4:51:45 pm
+[THREAD] Stock check started at 02/12/2025 4:51:50 pm
+LOW STOCK → Apple: -181
+LOW STOCK → Banana: -184
+LOW STOCK → Orange: -186
+[STATE] LastCheckTime updated to 02/12/2025 4:51:50 pm
+[ALERT] Low stock: Apple ? -181
+[ALERT] Low stock: Banana ? -184
+[ALERT] Low stock: Orange ? -186
+[THREAD] Stock check ended at 02/12/2025 4:51:50 pm
+[THREAD] Stock check started at 02/12/2025 4:51:55 pm
+LOW STOCK → Apple: -182
+LOW STOCK → Banana: -186
+LOW STOCK → Orange: -190
+[STATE] LastCheckTime updated to 02/12/2025 4:51:55 pm
+[ALERT] Low stock: Apple ? -182
+[ALERT] Low stock: Banana ? -186
+[ALERT] Low stock: Orange ? -190
+[THREAD] Stock check ended at 02/12/2025 4:51:55 pm
+[THREAD] Stock check started at 02/12/2025 4:52:00 pm
+LOW STOCK → Apple: -186
+LOW STOCK → Banana: -189
+LOW STOCK → Orange: -194
+[STATE] LastCheckTime updated to 02/12/2025 4:52:00 pm
+[ALERT] Low stock: Apple ? -186
+[ALERT] Low stock: Banana ? -189
+[ALERT] Low stock: Orange ? -194
+[THREAD] Stock check ended at 02/12/2025 4:52:00 pm
+[THREAD] Stock check started at 02/12/2025 4:52:05 pm
+LOW STOCK → Apple: -188
+LOW STOCK → Banana: -190
+LOW STOCK → Orange: -197
+[STATE] LastCheckTime updated to 02/12/2025 4:52:05 pm
+[ALERT] Low stock: Apple ? -188
+[ALERT] Low stock: Banana ? -190
+[ALERT] Low stock: Orange ? -197
+[THREAD] Stock check ended at 02/12/2025 4:52:05 pm
+[THREAD] Stock check started at 02/12/2025 4:52:10 pm
+LOW STOCK → Apple: -191
+LOW STOCK → Banana: -193
+LOW STOCK → Orange: -199
+[STATE] LastCheckTime updated to 02/12/2025 4:52:10 pm
+[ALERT] Low stock: Apple ? -191
+[ALERT] Low stock: Banana ? -193
+[ALERT] Low stock: Orange ? -199
+[THREAD] Stock check ended at 02/12/2025 4:52:10 pm
+[THREAD] Stock check started at 02/12/2025 4:52:15 pm
+LOW STOCK → Apple: -194
+LOW STOCK → Banana: -197
+LOW STOCK → Orange: -203
+[STATE] LastCheckTime updated to 02/12/2025 4:52:15 pm
+[ALERT] Low stock: Apple ? -194
+[ALERT] Low stock: Banana ? -197
+[ALERT] Low stock: Orange ? -203
+[THREAD] Stock check ended at 02/12/2025 4:52:15 pm
+[THREAD] Stock check started at 02/12/2025 4:52:20 pm
+LOW STOCK → Apple: -196
+LOW STOCK → Banana: -201
+LOW STOCK → Orange: -206
+[STATE] LastCheckTime updated to 02/12/2025 4:52:20 pm
+[ALERT] Low stock: Apple ? -196
+[ALERT] Low stock: Banana ? -201
+[ALERT] Low stock: Orange ? -206
+[THREAD] Stock check ended at 02/12/2025 4:52:20 pm
+[THREAD] Stock check started at 02/12/2025 4:52:25 pm
+LOW STOCK → Apple: -197
+LOW STOCK → Banana: -202
+LOW STOCK → Orange: -209
+[STATE] LastCheckTime updated to 02/12/2025 4:52:25 pm
+[ALERT] Low stock: Apple ? -197
+[ALERT] Low stock: Banana ? -202
+[ALERT] Low stock: Orange ? -209
+[THREAD] Stock check ended at 02/12/2025 4:52:25 pm
+[THREAD] Stock check started at 02/12/2025 4:52:30 pm
+LOW STOCK → Apple: -200
+LOW STOCK → Banana: -205
+LOW STOCK → Orange: -210
+[STATE] LastCheckTime updated to 02/12/2025 4:52:30 pm
+[ALERT] Low stock: Apple ? -200
+[ALERT] Low stock: Banana ? -205
+[ALERT] Low stock: Orange ? -210
+[THREAD] Stock check ended at 02/12/2025 4:52:30 pm
+[THREAD] Stock check started at 02/12/2025 4:52:35 pm
+LOW STOCK → Apple: -204
+LOW STOCK → Banana: -206
+LOW STOCK → Orange: -214
+[STATE] LastCheckTime updated to 02/12/2025 4:52:35 pm
+[ALERT] Low stock: Apple ? -204
+[ALERT] Low stock: Banana ? -206
+[ALERT] Low stock: Orange ? -214
+[THREAD] Stock check ended at 02/12/2025 4:52:35 pm
+[THREAD] Stock check started at 02/12/2025 4:52:40 pm
+LOW STOCK → Apple: -207
+LOW STOCK → Banana: -210
+LOW STOCK → Orange: -218
+[STATE] LastCheckTime updated to 02/12/2025 4:52:40 pm
+[ALERT] Low stock: Apple ? -207
+[ALERT] Low stock: Banana ? -210
+[ALERT] Low stock: Orange ? -218
+[THREAD] Stock check ended at 02/12/2025 4:52:40 pm
+[THREAD] Stock check started at 02/12/2025 4:52:45 pm
+LOW STOCK → Apple: -211
+LOW STOCK → Banana: -211
+LOW STOCK → Orange: -221
+[STATE] LastCheckTime updated to 02/12/2025 4:52:45 pm
+[ALERT] Low stock: Apple ? -211
+[ALERT] Low stock: Banana ? -211
+[ALERT] Low stock: Orange ? -221
+[THREAD] Stock check ended at 02/12/2025 4:52:45 pm
+[THREAD] Stock check started at 02/12/2025 4:52:50 pm
+LOW STOCK → Apple: -213
+LOW STOCK → Banana: -214
+LOW STOCK → Orange: -224
+[STATE] LastCheckTime updated to 02/12/2025 4:52:50 pm
+[ALERT] Low stock: Apple ? -213
+[ALERT] Low stock: Banana ? -214
+[ALERT] Low stock: Orange ? -224
+[THREAD] Stock check ended at 02/12/2025 4:52:50 pm
+[THREAD] Stock check started at 02/12/2025 4:52:56 pm
+LOW STOCK → Apple: -216
+LOW STOCK → Banana: -217
+LOW STOCK → Orange: -226
+[STATE] LastCheckTime updated to 02/12/2025 4:52:56 pm
+[ALERT] Low stock: Apple ? -216
+[ALERT] Low stock: Banana ? -217
+[ALERT] Low stock: Orange ? -226
+[THREAD] Stock check ended at 02/12/2025 4:52:56 pm
+[THREAD] Stock check started at 02/12/2025 4:53:01 pm
+LOW STOCK → Apple: -218
+LOW STOCK → Banana: -219
+LOW STOCK → Orange: -227
+[STATE] LastCheckTime updated to 02/12/2025 4:53:01 pm
+[ALERT] Low stock: Apple ? -218
+[ALERT] Low stock: Banana ? -219
+[ALERT] Low stock: Orange ? -227
+[THREAD] Stock check ended at 02/12/2025 4:53:01 pm
+[THREAD] Stock check started at 02/12/2025 4:53:06 pm
+LOW STOCK → Apple: -221
+LOW STOCK → Banana: -223
+LOW STOCK → Orange: -228
+[STATE] LastCheckTime updated to 02/12/2025 4:53:06 pm
+[ALERT] Low stock: Apple ? -221
+[ALERT] Low stock: Banana ? -223
+[ALERT] Low stock: Orange ? -228
+[THREAD] Stock check ended at 02/12/2025 4:53:06 pm
+[THREAD] Stock check started at 02/12/2025 4:53:11 pm
+LOW STOCK → Apple: -222
+LOW STOCK → Banana: -224
+LOW STOCK → Orange: -229
+[STATE] LastCheckTime updated to 02/12/2025 4:53:11 pm
+[ALERT] Low stock: Apple ? -222
+[ALERT] Low stock: Banana ? -224
+[ALERT] Low stock: Orange ? -229
+[THREAD] Stock check ended at 02/12/2025 4:53:11 pm
+[THREAD] Stock check started at 02/12/2025 4:53:16 pm
+LOW STOCK → Apple: -226
+LOW STOCK → Banana: -225
+LOW STOCK → Orange: -232
+[STATE] LastCheckTime updated to 02/12/2025 4:53:16 pm
+[ALERT] Low stock: Apple ? -226
+[ALERT] Low stock: Banana ? -225
+[ALERT] Low stock: Orange ? -232
+[THREAD] Stock check ended at 02/12/2025 4:53:16 pm
+[THREAD] Stock check started at 02/12/2025 4:53:21 pm
+LOW STOCK → Apple: -228
+LOW STOCK → Banana: -226
+LOW STOCK → Orange: -234
+[STATE] LastCheckTime updated to 02/12/2025 4:53:21 pm
+[ALERT] Low stock: Apple ? -228
+[ALERT] Low stock: Banana ? -226
+[ALERT] Low stock: Orange ? -234
+[THREAD] Stock check ended at 02/12/2025 4:53:21 pm
+[THREAD] Stock check started at 02/12/2025 4:53:26 pm
+LOW STOCK → Apple: -230
+LOW STOCK → Banana: -229
+LOW STOCK → Orange: -237
+[STATE] LastCheckTime updated to 02/12/2025 4:53:26 pm
+[ALERT] Low stock: Apple ? -230
+[ALERT] Low stock: Banana ? -229
+[ALERT] Low stock: Orange ? -237
+[THREAD] Stock check ended at 02/12/2025 4:53:26 pm
+[THREAD] Stock check started at 02/12/2025 4:53:31 pm
+LOW STOCK → Apple: -234
+LOW STOCK → Banana: -233
+LOW STOCK → Orange: -241
+[STATE] LastCheckTime updated to 02/12/2025 4:53:31 pm
+[ALERT] Low stock: Apple ? -234
+[ALERT] Low stock: Banana ? -233
+[ALERT] Low stock: Orange ? -241
+[THREAD] Stock check ended at 02/12/2025 4:53:31 pm
+[THREAD] Stock check started at 02/12/2025 4:53:36 pm
+LOW STOCK → Apple: -236
+LOW STOCK → Banana: -234
+LOW STOCK → Orange: -245
+[STATE] LastCheckTime updated to 02/12/2025 4:53:36 pm
+[ALERT] Low stock: Apple ? -236
+[ALERT] Low stock: Banana ? -234
+[ALERT] Low stock: Orange ? -245
+[THREAD] Stock check ended at 02/12/2025 4:53:36 pm
+[THREAD] Stock check started at 02/12/2025 4:53:41 pm
+LOW STOCK → Apple: -237
+LOW STOCK → Banana: -236
+LOW STOCK → Orange: -248
+[STATE] LastCheckTime updated to 02/12/2025 4:53:41 pm
+[ALERT] Low stock: Apple ? -237
+[ALERT] Low stock: Banana ? -236
+[ALERT] Low stock: Orange ? -248
+[THREAD] Stock check ended at 02/12/2025 4:53:41 pm
+[THREAD] Stock check started at 02/12/2025 4:53:46 pm
+LOW STOCK → Apple: -241
+LOW STOCK → Banana: -240
+LOW STOCK → Orange: -249
+[STATE] LastCheckTime updated to 02/12/2025 4:53:46 pm
+[ALERT] Low stock: Apple ? -241
+[ALERT] Low stock: Banana ? -240
+[ALERT] Low stock: Orange ? -249
+[THREAD] Stock check ended at 02/12/2025 4:53:46 pm
+[THREAD] Stock check started at 02/12/2025 4:53:51 pm
+LOW STOCK → Apple: -242
+LOW STOCK → Banana: -243
+LOW STOCK → Orange: -253
+[STATE] LastCheckTime updated to 02/12/2025 4:53:51 pm
+[ALERT] Low stock: Apple ? -242
+[ALERT] Low stock: Banana ? -243
+[ALERT] Low stock: Orange ? -253
+[THREAD] Stock check ended at 02/12/2025 4:53:51 pm
+[THREAD] Stock check started at 02/12/2025 4:53:56 pm
+LOW STOCK → Apple: -246
+LOW STOCK → Banana: -246
+LOW STOCK → Orange: -256
+[STATE] LastCheckTime updated to 02/12/2025 4:53:56 pm
+[ALERT] Low stock: Apple ? -246
+[ALERT] Low stock: Banana ? -246
+[ALERT] Low stock: Orange ? -256
+[THREAD] Stock check ended at 02/12/2025 4:53:56 pm
+[THREAD] Stock check started at 02/12/2025 4:54:01 pm
+LOW STOCK → Apple: -248
+LOW STOCK → Banana: -249
+LOW STOCK → Orange: -260
+[STATE] LastCheckTime updated to 02/12/2025 4:54:01 pm
+[ALERT] Low stock: Apple ? -248
+[ALERT] Low stock: Banana ? -249
+[ALERT] Low stock: Orange ? -260
+[THREAD] Stock check ended at 02/12/2025 4:54:01 pm
+[THREAD] Stock check started at 02/12/2025 4:54:06 pm
+LOW STOCK → Apple: -252
+LOW STOCK → Banana: -253
+LOW STOCK → Orange: -263
+[STATE] LastCheckTime updated to 02/12/2025 4:54:06 pm
+[ALERT] Low stock: Apple ? -252
+[ALERT] Low stock: Banana ? -253
+[ALERT] Low stock: Orange ? -263
+[THREAD] Stock check ended at 02/12/2025 4:54:06 pm
+[THREAD] Stock check started at 02/12/2025 4:54:11 pm
+LOW STOCK → Apple: -255
+LOW STOCK → Banana: -256
+LOW STOCK → Orange: -267
+[STATE] LastCheckTime updated to 02/12/2025 4:54:11 pm
+[ALERT] Low stock: Apple ? -255
+[ALERT] Low stock: Banana ? -256
+[ALERT] Low stock: Orange ? -267
+[THREAD] Stock check ended at 02/12/2025 4:54:11 pm
+[THREAD] Stock check started at 02/12/2025 4:54:16 pm
+LOW STOCK → Apple: -257
+LOW STOCK → Banana: -258
+LOW STOCK → Orange: -270
+[STATE] LastCheckTime updated to 02/12/2025 4:54:16 pm
+[ALERT] Low stock: Apple ? -257
+[ALERT] Low stock: Banana ? -258
+[ALERT] Low stock: Orange ? -270
+[THREAD] Stock check ended at 02/12/2025 4:54:16 pm
+[THREAD] Stock check started at 02/12/2025 4:54:21 pm
+LOW STOCK → Apple: -258
+LOW STOCK → Banana: -260
+LOW STOCK → Orange: -271
+[STATE] LastCheckTime updated to 02/12/2025 4:54:21 pm
+[ALERT] Low stock: Apple ? -258
+[ALERT] Low stock: Banana ? -260
+[ALERT] Low stock: Orange ? -271
+[THREAD] Stock check ended at 02/12/2025 4:54:21 pm
+[THREAD] Stock check started at 02/12/2025 4:54:26 pm
+LOW STOCK → Apple: -259
+LOW STOCK → Banana: -262
+LOW STOCK → Orange: -272
+[STATE] LastCheckTime updated to 02/12/2025 4:54:26 pm
+[ALERT] Low stock: Apple ? -259
+[ALERT] Low stock: Banana ? -262
+[ALERT] Low stock: Orange ? -272
+[THREAD] Stock check ended at 02/12/2025 4:54:26 pm
+[THREAD] Stock check started at 02/12/2025 4:54:31 pm
+LOW STOCK → Apple: -263
+LOW STOCK → Banana: -264
+LOW STOCK → Orange: -276
+[STATE] LastCheckTime updated to 02/12/2025 4:54:31 pm
+[ALERT] Low stock: Apple ? -263
+[ALERT] Low stock: Banana ? -264
+[ALERT] Low stock: Orange ? -276
+[THREAD] Stock check ended at 02/12/2025 4:54:31 pm
+[THREAD] Stock check started at 02/12/2025 4:54:36 pm
+LOW STOCK → Apple: -265
+LOW STOCK → Banana: -265
+LOW STOCK → Orange: -279
+[STATE] LastCheckTime updated to 02/12/2025 4:54:36 pm
+[ALERT] Low stock: Apple ? -265
+[ALERT] Low stock: Banana ? -265
+[ALERT] Low stock: Orange ? -279
+[THREAD] Stock check ended at 02/12/2025 4:54:36 pm
+[THREAD] Stock check started at 02/12/2025 4:54:41 pm
+LOW STOCK → Apple: -268
+LOW STOCK → Banana: -267
+LOW STOCK → Orange: -283
+[STATE] LastCheckTime updated to 02/12/2025 4:54:41 pm
+[ALERT] Low stock: Apple ? -268
+[ALERT] Low stock: Banana ? -267
+[ALERT] Low stock: Orange ? -283
+[THREAD] Stock check ended at 02/12/2025 4:54:41 pm
+[THREAD] Stock check started at 02/12/2025 4:54:46 pm
+LOW STOCK → Apple: -271
+LOW STOCK → Banana: -268
+LOW STOCK → Orange: -287
+[STATE] LastCheckTime updated to 02/12/2025 4:54:46 pm
+[ALERT] Low stock: Apple ? -271
+[ALERT] Low stock: Banana ? -268
+[ALERT] Low stock: Orange ? -287
+[THREAD] Stock check ended at 02/12/2025 4:54:46 pm
+[THREAD] Stock check started at 02/12/2025 4:54:51 pm
+LOW STOCK → Apple: -274
+LOW STOCK → Banana: -272
+LOW STOCK → Orange: -290
+[STATE] LastCheckTime updated to 02/12/2025 4:54:51 pm
+[ALERT] Low stock: Apple ? -274
+[ALERT] Low stock: Banana ? -272
+[ALERT] Low stock: Orange ? -290
+[THREAD] Stock check ended at 02/12/2025 4:54:51 pm
+[THREAD] Stock check started at 02/12/2025 4:54:56 pm
+LOW STOCK → Apple: -278
+LOW STOCK → Banana: -274
+LOW STOCK → Orange: -292
+[STATE] LastCheckTime updated to 02/12/2025 4:54:56 pm
+[ALERT] Low stock: Apple ? -278
+[ALERT] Low stock: Banana ? -274
+[ALERT] Low stock: Orange ? -292
+[THREAD] Stock check ended at 02/12/2025 4:54:56 pm
+[THREAD] Stock check started at 02/12/2025 4:55:01 pm
+LOW STOCK → Apple: -282
+LOW STOCK → Banana: -275
+LOW STOCK → Orange: -294
+[STATE] LastCheckTime updated to 02/12/2025 4:55:01 pm
+[ALERT] Low stock: Apple ? -282
+[ALERT] Low stock: Banana ? -275
+[ALERT] Low stock: Orange ? -294
+[THREAD] Stock check ended at 02/12/2025 4:55:01 pm
+[THREAD] Stock check started at 02/12/2025 4:55:06 pm
+LOW STOCK → Apple: -286
+LOW STOCK → Banana: -276
+LOW STOCK → Orange: -298
+[STATE] LastCheckTime updated to 02/12/2025 4:55:06 pm
+[ALERT] Low stock: Apple ? -286
+[ALERT] Low stock: Banana ? -276
+[ALERT] Low stock: Orange ? -298
+[THREAD] Stock check ended at 02/12/2025 4:55:06 pm
+[THREAD] Stock check started at 02/12/2025 4:55:11 pm
+LOW STOCK → Apple: -288
+LOW STOCK → Banana: -278
+LOW STOCK → Orange: -299
+[STATE] LastCheckTime updated to 02/12/2025 4:55:11 pm
+[ALERT] Low stock: Apple ? -288
+[ALERT] Low stock: Banana ? -278
+[ALERT] Low stock: Orange ? -299
+[THREAD] Stock check ended at 02/12/2025 4:55:11 pm
+[THREAD] Stock check started at 02/12/2025 4:55:16 pm
+LOW STOCK → Apple: -290
+LOW STOCK → Banana: -282
+LOW STOCK → Orange: -300
+[STATE] LastCheckTime updated to 02/12/2025 4:55:16 pm
+[ALERT] Low stock: Apple ? -290
+[ALERT] Low stock: Banana ? -282
+[ALERT] Low stock: Orange ? -300
+[THREAD] Stock check ended at 02/12/2025 4:55:16 pm
+[THREAD] Stock check started at 02/12/2025 4:55:21 pm
+LOW STOCK → Apple: -291
+LOW STOCK → Banana: -285
+LOW STOCK → Orange: -303
+[STATE] LastCheckTime updated to 02/12/2025 4:55:21 pm
+[ALERT] Low stock: Apple ? -291
+[ALERT] Low stock: Banana ? -285
+[ALERT] Low stock: Orange ? -303
+[THREAD] Stock check ended at 02/12/2025 4:55:21 pm
+[THREAD] Stock check started at 02/12/2025 4:55:26 pm
+LOW STOCK → Apple: -295
+LOW STOCK → Banana: -289
+LOW STOCK → Orange: -306
+[STATE] LastCheckTime updated to 02/12/2025 4:55:26 pm
+[ALERT] Low stock: Apple ? -295
+[ALERT] Low stock: Banana ? -289
+[ALERT] Low stock: Orange ? -306
+[THREAD] Stock check ended at 02/12/2025 4:55:26 pm
+[THREAD] Stock check started at 02/12/2025 4:55:31 pm
+LOW STOCK → Apple: -296
+LOW STOCK → Banana: -292
+LOW STOCK → Orange: -310
+[STATE] LastCheckTime updated to 02/12/2025 4:55:31 pm
+[ALERT] Low stock: Apple ? -296
+[ALERT] Low stock: Banana ? -292
+[ALERT] Low stock: Orange ? -310
+[THREAD] Stock check ended at 02/12/2025 4:55:31 pm
+[THREAD] Stock check started at 02/12/2025 4:55:36 pm
+LOW STOCK → Apple: -300
+LOW STOCK → Banana: -295
+LOW STOCK → Orange: -313
+[STATE] LastCheckTime updated to 02/12/2025 4:55:36 pm
+[ALERT] Low stock: Apple ? -300
+[ALERT] Low stock: Banana ? -295
+[ALERT] Low stock: Orange ? -313
+[THREAD] Stock check ended at 02/12/2025 4:55:36 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:55:48 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:55:48 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:55:48 pm
+[THREAD] Stock check started at 02/12/2025 4:55:53 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:55:53 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:55:53 pm
+[THREAD] Stock check started at 02/12/2025 4:55:58 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:55:58 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:55:58 pm
+[THREAD] Stock check started at 02/12/2025 4:56:03 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 4:56:03 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 4:56:03 pm
+[THREAD] Stock check started at 02/12/2025 4:56:08 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 4:56:08 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 4:56:08 pm
+[THREAD] Stock check started at 02/12/2025 4:56:13 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:56:13 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:56:13 pm
+[THREAD] Stock check started at 02/12/2025 4:56:18 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 4:56:18 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 4:56:18 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:56:24 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:56:25 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:56:25 pm
+[THREAD] Stock check started at 02/12/2025 4:56:30 pm
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 4:56:30 pm
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 4:56:30 pm
+[THREAD] Stock check started at 02/12/2025 4:56:35 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 4:56:35 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 4:56:35 pm
+[THREAD] Stock check started at 02/12/2025 4:56:40 pm
+LOW STOCK → Apple: -2
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:56:40 pm
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:56:40 pm
+[THREAD] Stock check started at 02/12/2025 4:56:45 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 4
+LOW STOCK → Orange: -8
+[STATE] LastCheckTime updated to 02/12/2025 4:56:45 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 4
+[ALERT] Low stock: Orange ? -8
+[THREAD] Stock check ended at 02/12/2025 4:56:45 pm
+[THREAD] Stock check started at 02/12/2025 4:56:50 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -11
+[STATE] LastCheckTime updated to 02/12/2025 4:56:50 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -11
+[THREAD] Stock check ended at 02/12/2025 4:56:50 pm
+[THREAD] Stock check started at 02/12/2025 4:56:55 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -3
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 4:56:55 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -3
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 4:56:55 pm
+[THREAD] Stock check started at 02/12/2025 4:57:00 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 4:57:00 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 4:57:00 pm
+[THREAD] Stock check started at 02/12/2025 4:57:05 pm
+LOW STOCK → Apple: -15
+LOW STOCK → Banana: -8
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:57:05 pm
+[ALERT] Low stock: Apple ? -15
+[ALERT] Low stock: Banana ? -8
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:57:05 pm
+[THREAD] Stock check started at 02/12/2025 4:57:10 pm
+LOW STOCK → Apple: -18
+LOW STOCK → Banana: -12
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 02/12/2025 4:57:10 pm
+[ALERT] Low stock: Apple ? -18
+[ALERT] Low stock: Banana ? -12
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 02/12/2025 4:57:10 pm
+[THREAD] Stock check started at 02/12/2025 4:57:15 pm
+LOW STOCK → Apple: -21
+LOW STOCK → Banana: -14
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 02/12/2025 4:57:15 pm
+[ALERT] Low stock: Apple ? -21
+[ALERT] Low stock: Banana ? -14
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 02/12/2025 4:57:15 pm
+[THREAD] Stock check started at 02/12/2025 4:57:20 pm
+LOW STOCK → Apple: -23
+LOW STOCK → Banana: -15
+LOW STOCK → Orange: -26
+[STATE] LastCheckTime updated to 02/12/2025 4:57:20 pm
+[ALERT] Low stock: Apple ? -23
+[ALERT] Low stock: Banana ? -15
+[ALERT] Low stock: Orange ? -26
+[THREAD] Stock check ended at 02/12/2025 4:57:20 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 4:57:26 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 4:57:26 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 4:57:26 pm
+[THREAD] Stock check started at 02/12/2025 4:57:31 pm
+LOW STOCK → Orange: -2
+[STATE] LastCheckTime updated to 02/12/2025 4:57:31 pm
+[ALERT] Low stock: Orange ? -2
+[THREAD] Stock check ended at 02/12/2025 4:57:31 pm
+[THREAD] Stock check started at 02/12/2025 4:57:36 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 02/12/2025 4:57:36 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 02/12/2025 4:57:36 pm
+[THREAD] Stock check started at 02/12/2025 4:57:41 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -8
+[STATE] LastCheckTime updated to 02/12/2025 4:57:41 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -8
+[THREAD] Stock check ended at 02/12/2025 4:57:41 pm
+[THREAD] Stock check started at 02/12/2025 4:57:46 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 4:57:46 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 4:57:46 pm
+[THREAD] Stock check started at 02/12/2025 4:57:51 pm
+LOW STOCK → Apple: -4
+LOW STOCK → Banana: -2
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 4:57:51 pm
+[ALERT] Low stock: Apple ? -4
+[ALERT] Low stock: Banana ? -2
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 4:57:51 pm
+[THREAD] Stock check started at 02/12/2025 4:57:56 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: -6
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 4:57:56 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? -6
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 4:57:56 pm
+[THREAD] Stock check started at 02/12/2025 4:58:01 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 4:58:01 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 4:58:01 pm
+[THREAD] Stock check started at 02/12/2025 4:58:06 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -11
+LOW STOCK → Orange: -21
+[STATE] LastCheckTime updated to 02/12/2025 4:58:06 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -11
+[ALERT] Low stock: Orange ? -21
+[THREAD] Stock check ended at 02/12/2025 4:58:06 pm
+[THREAD] Stock check started at 02/12/2025 4:58:11 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -14
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 02/12/2025 4:58:11 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -14
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 02/12/2025 4:58:11 pm
+[THREAD] Stock check started at 02/12/2025 4:58:16 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -17
+LOW STOCK → Orange: -26
+[STATE] LastCheckTime updated to 02/12/2025 4:58:16 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -17
+[ALERT] Low stock: Orange ? -26
+[THREAD] Stock check ended at 02/12/2025 4:58:16 pm
+[THREAD] Stock check started at 02/12/2025 4:58:21 pm
+LOW STOCK → Apple: -21
+LOW STOCK → Banana: -18
+LOW STOCK → Orange: -27
+[STATE] LastCheckTime updated to 02/12/2025 4:58:21 pm
+[ALERT] Low stock: Apple ? -21
+[ALERT] Low stock: Banana ? -18
+[ALERT] Low stock: Orange ? -27
+[THREAD] Stock check ended at 02/12/2025 4:58:21 pm
+[THREAD] Stock check started at 02/12/2025 4:58:26 pm
+LOW STOCK → Apple: -23
+LOW STOCK → Banana: -20
+LOW STOCK → Orange: -29
+[STATE] LastCheckTime updated to 02/12/2025 4:58:26 pm
+[ALERT] Low stock: Apple ? -23
+[ALERT] Low stock: Banana ? -20
+[ALERT] Low stock: Orange ? -29
+[THREAD] Stock check ended at 02/12/2025 4:58:26 pm
+[THREAD] Stock check started at 02/12/2025 4:58:31 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -22
+LOW STOCK → Orange: -32
+[STATE] LastCheckTime updated to 02/12/2025 4:58:31 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -22
+[ALERT] Low stock: Orange ? -32
+[THREAD] Stock check ended at 02/12/2025 4:58:31 pm
+[THREAD] Stock check started at 02/12/2025 4:58:36 pm
+LOW STOCK → Apple: -28
+LOW STOCK → Banana: -24
+LOW STOCK → Orange: -35
+[STATE] LastCheckTime updated to 02/12/2025 4:58:36 pm
+[ALERT] Low stock: Apple ? -28
+[ALERT] Low stock: Banana ? -24
+[ALERT] Low stock: Orange ? -35
+[THREAD] Stock check ended at 02/12/2025 4:58:36 pm
+[THREAD] Stock check started at 02/12/2025 4:58:41 pm
+LOW STOCK → Apple: -31
+LOW STOCK → Banana: -27
+LOW STOCK → Orange: -38
+[STATE] LastCheckTime updated to 02/12/2025 4:58:41 pm
+[ALERT] Low stock: Apple ? -31
+[ALERT] Low stock: Banana ? -27
+[ALERT] Low stock: Orange ? -38
+[THREAD] Stock check ended at 02/12/2025 4:58:41 pm
+[THREAD] Stock check started at 02/12/2025 4:58:46 pm
+LOW STOCK → Apple: -34
+LOW STOCK → Banana: -29
+LOW STOCK → Orange: -42
+[STATE] LastCheckTime updated to 02/12/2025 4:58:46 pm
+[ALERT] Low stock: Apple ? -34
+[ALERT] Low stock: Banana ? -29
+[ALERT] Low stock: Orange ? -42
+[THREAD] Stock check ended at 02/12/2025 4:58:46 pm
+[THREAD] Stock check started at 02/12/2025 4:58:51 pm
+LOW STOCK → Apple: -38
+LOW STOCK → Banana: -33
+LOW STOCK → Orange: -44
+[STATE] LastCheckTime updated to 02/12/2025 4:58:51 pm
+[ALERT] Low stock: Apple ? -38
+[ALERT] Low stock: Banana ? -33
+[ALERT] Low stock: Orange ? -44
+[THREAD] Stock check ended at 02/12/2025 4:58:51 pm
+[THREAD] Stock check started at 02/12/2025 4:58:56 pm
+LOW STOCK → Apple: -41
+LOW STOCK → Banana: -37
+LOW STOCK → Orange: -48
+[STATE] LastCheckTime updated to 02/12/2025 4:58:56 pm
+[ALERT] Low stock: Apple ? -41
+[ALERT] Low stock: Banana ? -37
+[ALERT] Low stock: Orange ? -48
+[THREAD] Stock check ended at 02/12/2025 4:58:56 pm
+[THREAD] Stock check started at 02/12/2025 4:59:01 pm
+LOW STOCK → Apple: -45
+LOW STOCK → Banana: -41
+LOW STOCK → Orange: -50
+[STATE] LastCheckTime updated to 02/12/2025 4:59:01 pm
+[ALERT] Low stock: Apple ? -45
+[ALERT] Low stock: Banana ? -41
+[ALERT] Low stock: Orange ? -50
+[THREAD] Stock check ended at 02/12/2025 4:59:02 pm
+[THREAD] Stock check started at 02/12/2025 4:59:07 pm
+LOW STOCK → Apple: -46
+LOW STOCK → Banana: -45
+LOW STOCK → Orange: -51
+[STATE] LastCheckTime updated to 02/12/2025 4:59:07 pm
+[ALERT] Low stock: Apple ? -46
+[ALERT] Low stock: Banana ? -45
+[ALERT] Low stock: Orange ? -51
+[THREAD] Stock check ended at 02/12/2025 4:59:07 pm
+[THREAD] Stock check started at 02/12/2025 4:59:12 pm
+LOW STOCK → Apple: -49
+LOW STOCK → Banana: -49
+LOW STOCK → Orange: -52
+[STATE] LastCheckTime updated to 02/12/2025 4:59:12 pm
+[ALERT] Low stock: Apple ? -49
+[ALERT] Low stock: Banana ? -49
+[ALERT] Low stock: Orange ? -52
+[THREAD] Stock check ended at 02/12/2025 4:59:12 pm
+[THREAD] Stock check started at 02/12/2025 4:59:17 pm
+LOW STOCK → Apple: -50
+LOW STOCK → Banana: -53
+LOW STOCK → Orange: -56
+[STATE] LastCheckTime updated to 02/12/2025 4:59:17 pm
+[ALERT] Low stock: Apple ? -50
+[ALERT] Low stock: Banana ? -53
+[ALERT] Low stock: Orange ? -56
+[THREAD] Stock check ended at 02/12/2025 4:59:17 pm
+[THREAD] Stock check started at 02/12/2025 4:59:22 pm
+LOW STOCK → Apple: -51
+LOW STOCK → Banana: -54
+LOW STOCK → Orange: -60
+[STATE] LastCheckTime updated to 02/12/2025 4:59:22 pm
+[ALERT] Low stock: Apple ? -51
+[ALERT] Low stock: Banana ? -54
+[ALERT] Low stock: Orange ? -60
+[THREAD] Stock check ended at 02/12/2025 4:59:22 pm
+[THREAD] Stock check started at 02/12/2025 4:59:27 pm
+LOW STOCK → Apple: -53
+LOW STOCK → Banana: -58
+LOW STOCK → Orange: -61
+[STATE] LastCheckTime updated to 02/12/2025 4:59:27 pm
+[ALERT] Low stock: Apple ? -53
+[ALERT] Low stock: Banana ? -58
+[ALERT] Low stock: Orange ? -61
+[THREAD] Stock check ended at 02/12/2025 4:59:27 pm
+[THREAD] Stock check started at 02/12/2025 4:59:32 pm
+LOW STOCK → Apple: -56
+LOW STOCK → Banana: -60
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 4:59:32 pm
+[ALERT] Low stock: Apple ? -56
+[ALERT] Low stock: Banana ? -60
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 4:59:32 pm
+[THREAD] Stock check started at 02/12/2025 4:59:37 pm
+LOW STOCK → Apple: -59
+LOW STOCK → Banana: -64
+LOW STOCK → Orange: -65
+[STATE] LastCheckTime updated to 02/12/2025 4:59:37 pm
+[ALERT] Low stock: Apple ? -59
+[ALERT] Low stock: Banana ? -64
+[ALERT] Low stock: Orange ? -65
+[THREAD] Stock check ended at 02/12/2025 4:59:37 pm
+[THREAD] Stock check started at 02/12/2025 4:59:42 pm
+LOW STOCK → Apple: -63
+LOW STOCK → Banana: -68
+LOW STOCK → Orange: -67
+[STATE] LastCheckTime updated to 02/12/2025 4:59:42 pm
+[ALERT] Low stock: Apple ? -63
+[ALERT] Low stock: Banana ? -68
+[ALERT] Low stock: Orange ? -67
+[THREAD] Stock check ended at 02/12/2025 4:59:42 pm
+[THREAD] Stock check started at 02/12/2025 4:59:47 pm
+LOW STOCK → Apple: -64
+LOW STOCK → Banana: -71
+LOW STOCK → Orange: -68
+[STATE] LastCheckTime updated to 02/12/2025 4:59:47 pm
+[ALERT] Low stock: Apple ? -64
+[ALERT] Low stock: Banana ? -71
+[ALERT] Low stock: Orange ? -68
+[THREAD] Stock check ended at 02/12/2025 4:59:47 pm
+[THREAD] Stock check started at 02/12/2025 4:59:52 pm
+LOW STOCK → Apple: -65
+LOW STOCK → Banana: -75
+LOW STOCK → Orange: -71
+[STATE] LastCheckTime updated to 02/12/2025 4:59:52 pm
+[ALERT] Low stock: Apple ? -65
+[ALERT] Low stock: Banana ? -75
+[ALERT] Low stock: Orange ? -71
+[THREAD] Stock check ended at 02/12/2025 4:59:52 pm
+[THREAD] Stock check started at 02/12/2025 4:59:57 pm
+LOW STOCK → Apple: -69
+LOW STOCK → Banana: -77
+LOW STOCK → Orange: -72
+[STATE] LastCheckTime updated to 02/12/2025 4:59:57 pm
+[ALERT] Low stock: Apple ? -69
+[ALERT] Low stock: Banana ? -77
+[ALERT] Low stock: Orange ? -72
+[THREAD] Stock check ended at 02/12/2025 4:59:57 pm
+[THREAD] Stock check started at 02/12/2025 5:00:02 pm
+LOW STOCK → Apple: -72
+LOW STOCK → Banana: -79
+LOW STOCK → Orange: -76
+[STATE] LastCheckTime updated to 02/12/2025 5:00:02 pm
+[ALERT] Low stock: Apple ? -72
+[ALERT] Low stock: Banana ? -79
+[ALERT] Low stock: Orange ? -76
+[THREAD] Stock check ended at 02/12/2025 5:00:02 pm
+[THREAD] Stock check started at 02/12/2025 5:00:07 pm
+LOW STOCK → Apple: -74
+LOW STOCK → Banana: -81
+LOW STOCK → Orange: -80
+[STATE] LastCheckTime updated to 02/12/2025 5:00:07 pm
+[ALERT] Low stock: Apple ? -74
+[ALERT] Low stock: Banana ? -81
+[ALERT] Low stock: Orange ? -80
+[THREAD] Stock check ended at 02/12/2025 5:00:07 pm
+[THREAD] Stock check started at 02/12/2025 5:00:12 pm
+LOW STOCK → Apple: -78
+LOW STOCK → Banana: -84
+LOW STOCK → Orange: -83
+[STATE] LastCheckTime updated to 02/12/2025 5:00:12 pm
+[ALERT] Low stock: Apple ? -78
+[ALERT] Low stock: Banana ? -84
+[ALERT] Low stock: Orange ? -83
+[THREAD] Stock check ended at 02/12/2025 5:00:12 pm
+[THREAD] Stock check started at 02/12/2025 5:00:17 pm
+LOW STOCK → Apple: -79
+LOW STOCK → Banana: -88
+LOW STOCK → Orange: -85
+[STATE] LastCheckTime updated to 02/12/2025 5:00:17 pm
+[ALERT] Low stock: Apple ? -79
+[ALERT] Low stock: Banana ? -88
+[ALERT] Low stock: Orange ? -85
+[THREAD] Stock check ended at 02/12/2025 5:00:17 pm
+[THREAD] Stock check started at 02/12/2025 5:00:22 pm
+LOW STOCK → Apple: -82
+LOW STOCK → Banana: -90
+LOW STOCK → Orange: -87
+[STATE] LastCheckTime updated to 02/12/2025 5:00:22 pm
+[ALERT] Low stock: Apple ? -82
+[ALERT] Low stock: Banana ? -90
+[ALERT] Low stock: Orange ? -87
+[THREAD] Stock check ended at 02/12/2025 5:00:22 pm
+[THREAD] Stock check started at 02/12/2025 5:00:27 pm
+LOW STOCK → Apple: -84
+LOW STOCK → Banana: -92
+LOW STOCK → Orange: -88
+[STATE] LastCheckTime updated to 02/12/2025 5:00:27 pm
+[ALERT] Low stock: Apple ? -84
+[ALERT] Low stock: Banana ? -92
+[ALERT] Low stock: Orange ? -88
+[THREAD] Stock check ended at 02/12/2025 5:00:27 pm
+[THREAD] Stock check started at 02/12/2025 5:00:32 pm
+LOW STOCK → Apple: -88
+LOW STOCK → Banana: -96
+LOW STOCK → Orange: -91
+[STATE] LastCheckTime updated to 02/12/2025 5:00:32 pm
+[ALERT] Low stock: Apple ? -88
+[ALERT] Low stock: Banana ? -96
+[ALERT] Low stock: Orange ? -91
+[THREAD] Stock check ended at 02/12/2025 5:00:32 pm
+[THREAD] Stock check started at 02/12/2025 5:00:37 pm
+LOW STOCK → Apple: -92
+LOW STOCK → Banana: -97
+LOW STOCK → Orange: -95
+[STATE] LastCheckTime updated to 02/12/2025 5:00:37 pm
+[ALERT] Low stock: Apple ? -92
+[ALERT] Low stock: Banana ? -97
+[ALERT] Low stock: Orange ? -95
+[THREAD] Stock check ended at 02/12/2025 5:00:37 pm
+[THREAD] Stock check started at 02/12/2025 5:00:42 pm
+LOW STOCK → Apple: -94
+LOW STOCK → Banana: -101
+LOW STOCK → Orange: -97
+[STATE] LastCheckTime updated to 02/12/2025 5:00:42 pm
+[ALERT] Low stock: Apple ? -94
+[ALERT] Low stock: Banana ? -101
+[ALERT] Low stock: Orange ? -97
+[THREAD] Stock check ended at 02/12/2025 5:00:42 pm
+[THREAD] Stock check started at 02/12/2025 5:00:47 pm
+LOW STOCK → Apple: -95
+LOW STOCK → Banana: -105
+LOW STOCK → Orange: -100
+[STATE] LastCheckTime updated to 02/12/2025 5:00:47 pm
+[ALERT] Low stock: Apple ? -95
+[ALERT] Low stock: Banana ? -105
+[ALERT] Low stock: Orange ? -100
+[THREAD] Stock check ended at 02/12/2025 5:00:47 pm
+[THREAD] Stock check started at 02/12/2025 5:00:52 pm
+LOW STOCK → Apple: -98
+LOW STOCK → Banana: -108
+LOW STOCK → Orange: -104
+[STATE] LastCheckTime updated to 02/12/2025 5:00:52 pm
+[ALERT] Low stock: Apple ? -98
+[ALERT] Low stock: Banana ? -108
+[ALERT] Low stock: Orange ? -104
+[THREAD] Stock check ended at 02/12/2025 5:00:52 pm
+[THREAD] Stock check started at 02/12/2025 5:00:57 pm
+LOW STOCK → Apple: -100
+LOW STOCK → Banana: -110
+LOW STOCK → Orange: -107
+[STATE] LastCheckTime updated to 02/12/2025 5:00:57 pm
+[ALERT] Low stock: Apple ? -100
+[ALERT] Low stock: Banana ? -110
+[ALERT] Low stock: Orange ? -107
+[THREAD] Stock check ended at 02/12/2025 5:00:57 pm
+[THREAD] Stock check started at 02/12/2025 5:01:02 pm
+LOW STOCK → Apple: -101
+LOW STOCK → Banana: -113
+LOW STOCK → Orange: -110
+[STATE] LastCheckTime updated to 02/12/2025 5:01:02 pm
+[ALERT] Low stock: Apple ? -101
+[ALERT] Low stock: Banana ? -113
+[ALERT] Low stock: Orange ? -110
+[THREAD] Stock check ended at 02/12/2025 5:01:02 pm
+[THREAD] Stock check started at 02/12/2025 5:01:07 pm
+LOW STOCK → Apple: -102
+LOW STOCK → Banana: -116
+LOW STOCK → Orange: -113
+[STATE] LastCheckTime updated to 02/12/2025 5:01:07 pm
+[ALERT] Low stock: Apple ? -102
+[ALERT] Low stock: Banana ? -116
+[ALERT] Low stock: Orange ? -113
+[THREAD] Stock check ended at 02/12/2025 5:01:07 pm
+[THREAD] Stock check started at 02/12/2025 5:01:12 pm
+LOW STOCK → Apple: -103
+LOW STOCK → Banana: -117
+LOW STOCK → Orange: -116
+[STATE] LastCheckTime updated to 02/12/2025 5:01:12 pm
+[ALERT] Low stock: Apple ? -103
+[ALERT] Low stock: Banana ? -117
+[ALERT] Low stock: Orange ? -116
+[THREAD] Stock check ended at 02/12/2025 5:01:12 pm
+[THREAD] Stock check started at 02/12/2025 5:01:17 pm
+LOW STOCK → Apple: -104
+LOW STOCK → Banana: -121
+LOW STOCK → Orange: -117
+[STATE] LastCheckTime updated to 02/12/2025 5:01:17 pm
+[ALERT] Low stock: Apple ? -104
+[ALERT] Low stock: Banana ? -121
+[ALERT] Low stock: Orange ? -117
+[THREAD] Stock check ended at 02/12/2025 5:01:17 pm
+[THREAD] Stock check started at 02/12/2025 5:01:22 pm
+LOW STOCK → Apple: -105
+LOW STOCK → Banana: -123
+LOW STOCK → Orange: -118
+[STATE] LastCheckTime updated to 02/12/2025 5:01:22 pm
+[ALERT] Low stock: Apple ? -105
+[ALERT] Low stock: Banana ? -123
+[ALERT] Low stock: Orange ? -118
+[THREAD] Stock check ended at 02/12/2025 5:01:22 pm
+[THREAD] Stock check started at 02/12/2025 5:01:27 pm
+LOW STOCK → Apple: -106
+LOW STOCK → Banana: -127
+LOW STOCK → Orange: -121
+[STATE] LastCheckTime updated to 02/12/2025 5:01:27 pm
+[ALERT] Low stock: Apple ? -106
+[ALERT] Low stock: Banana ? -127
+[ALERT] Low stock: Orange ? -121
+[THREAD] Stock check ended at 02/12/2025 5:01:27 pm
+[THREAD] Stock check started at 02/12/2025 5:01:32 pm
+LOW STOCK → Apple: -109
+LOW STOCK → Banana: -129
+LOW STOCK → Orange: -125
+[STATE] LastCheckTime updated to 02/12/2025 5:01:32 pm
+[ALERT] Low stock: Apple ? -109
+[ALERT] Low stock: Banana ? -129
+[ALERT] Low stock: Orange ? -125
+[THREAD] Stock check ended at 02/12/2025 5:01:32 pm
+[THREAD] Stock check started at 02/12/2025 5:01:37 pm
+LOW STOCK → Apple: -112
+LOW STOCK → Banana: -133
+LOW STOCK → Orange: -128
+[STATE] LastCheckTime updated to 02/12/2025 5:01:37 pm
+[ALERT] Low stock: Apple ? -112
+[ALERT] Low stock: Banana ? -133
+[ALERT] Low stock: Orange ? -128
+[THREAD] Stock check ended at 02/12/2025 5:01:37 pm
+[THREAD] Stock check started at 02/12/2025 5:01:42 pm
+LOW STOCK → Apple: -116
+LOW STOCK → Banana: -134
+LOW STOCK → Orange: -132
+[STATE] LastCheckTime updated to 02/12/2025 5:01:42 pm
+[ALERT] Low stock: Apple ? -116
+[ALERT] Low stock: Banana ? -134
+[ALERT] Low stock: Orange ? -132
+[THREAD] Stock check ended at 02/12/2025 5:01:42 pm
+[THREAD] Stock check started at 02/12/2025 5:01:47 pm
+LOW STOCK → Apple: -120
+LOW STOCK → Banana: -135
+LOW STOCK → Orange: -135
+[STATE] LastCheckTime updated to 02/12/2025 5:01:47 pm
+[ALERT] Low stock: Apple ? -120
+[ALERT] Low stock: Banana ? -135
+[ALERT] Low stock: Orange ? -135
+[THREAD] Stock check ended at 02/12/2025 5:01:47 pm
+[THREAD] Stock check started at 02/12/2025 5:01:52 pm
+LOW STOCK → Apple: -121
+LOW STOCK → Banana: -137
+LOW STOCK → Orange: -136
+[STATE] LastCheckTime updated to 02/12/2025 5:01:52 pm
+[ALERT] Low stock: Apple ? -121
+[ALERT] Low stock: Banana ? -137
+[ALERT] Low stock: Orange ? -136
+[THREAD] Stock check ended at 02/12/2025 5:01:52 pm
+[THREAD] Stock check started at 02/12/2025 5:01:57 pm
+LOW STOCK → Apple: -122
+LOW STOCK → Banana: -141
+LOW STOCK → Orange: -138
+[STATE] LastCheckTime updated to 02/12/2025 5:01:57 pm
+[ALERT] Low stock: Apple ? -122
+[ALERT] Low stock: Banana ? -141
+[ALERT] Low stock: Orange ? -138
+[THREAD] Stock check ended at 02/12/2025 5:01:57 pm
+[THREAD] Stock check started at 02/12/2025 5:02:02 pm
+LOW STOCK → Apple: -126
+LOW STOCK → Banana: -144
+LOW STOCK → Orange: -142
+[STATE] LastCheckTime updated to 02/12/2025 5:02:02 pm
+[ALERT] Low stock: Apple ? -126
+[ALERT] Low stock: Banana ? -144
+[ALERT] Low stock: Orange ? -142
+[THREAD] Stock check ended at 02/12/2025 5:02:02 pm
+[THREAD] Stock check started at 02/12/2025 5:02:07 pm
+LOW STOCK → Apple: -130
+LOW STOCK → Banana: -145
+LOW STOCK → Orange: -144
+[STATE] LastCheckTime updated to 02/12/2025 5:02:07 pm
+[ALERT] Low stock: Apple ? -130
+[ALERT] Low stock: Banana ? -145
+[ALERT] Low stock: Orange ? -144
+[THREAD] Stock check ended at 02/12/2025 5:02:07 pm
+[THREAD] Stock check started at 02/12/2025 5:02:12 pm
+LOW STOCK → Apple: -132
+LOW STOCK → Banana: -147
+LOW STOCK → Orange: -148
+[STATE] LastCheckTime updated to 02/12/2025 5:02:12 pm
+[ALERT] Low stock: Apple ? -132
+[ALERT] Low stock: Banana ? -147
+[ALERT] Low stock: Orange ? -148
+[THREAD] Stock check ended at 02/12/2025 5:02:12 pm
+[THREAD] Stock check started at 02/12/2025 5:02:17 pm
+LOW STOCK → Apple: -135
+LOW STOCK → Banana: -150
+LOW STOCK → Orange: -150
+[STATE] LastCheckTime updated to 02/12/2025 5:02:17 pm
+[ALERT] Low stock: Apple ? -135
+[ALERT] Low stock: Banana ? -150
+[ALERT] Low stock: Orange ? -150
+[THREAD] Stock check ended at 02/12/2025 5:02:17 pm
+[THREAD] Stock check started at 02/12/2025 5:02:22 pm
+LOW STOCK → Apple: -136
+LOW STOCK → Banana: -152
+LOW STOCK → Orange: -154
+[STATE] LastCheckTime updated to 02/12/2025 5:02:22 pm
+[ALERT] Low stock: Apple ? -136
+[ALERT] Low stock: Banana ? -152
+[ALERT] Low stock: Orange ? -154
+[THREAD] Stock check ended at 02/12/2025 5:02:22 pm
+[THREAD] Stock check started at 02/12/2025 5:02:27 pm
+LOW STOCK → Apple: -139
+LOW STOCK → Banana: -154
+LOW STOCK → Orange: -156
+[STATE] LastCheckTime updated to 02/12/2025 5:02:27 pm
+[ALERT] Low stock: Apple ? -139
+[ALERT] Low stock: Banana ? -154
+[ALERT] Low stock: Orange ? -156
+[THREAD] Stock check ended at 02/12/2025 5:02:27 pm
+[THREAD] Stock check started at 02/12/2025 5:02:32 pm
+LOW STOCK → Apple: -143
+LOW STOCK → Banana: -156
+LOW STOCK → Orange: -158
+[STATE] LastCheckTime updated to 02/12/2025 5:02:32 pm
+[ALERT] Low stock: Apple ? -143
+[ALERT] Low stock: Banana ? -156
+[ALERT] Low stock: Orange ? -158
+[THREAD] Stock check ended at 02/12/2025 5:02:32 pm
+[THREAD] Stock check started at 02/12/2025 5:02:37 pm
+LOW STOCK → Apple: -144
+LOW STOCK → Banana: -157
+LOW STOCK → Orange: -161
+[STATE] LastCheckTime updated to 02/12/2025 5:02:37 pm
+[ALERT] Low stock: Apple ? -144
+[ALERT] Low stock: Banana ? -157
+[ALERT] Low stock: Orange ? -161
+[THREAD] Stock check ended at 02/12/2025 5:02:37 pm
+[THREAD] Stock check started at 02/12/2025 5:02:42 pm
+LOW STOCK → Apple: -148
+LOW STOCK → Banana: -158
+LOW STOCK → Orange: -164
+[STATE] LastCheckTime updated to 02/12/2025 5:02:42 pm
+[ALERT] Low stock: Apple ? -148
+[ALERT] Low stock: Banana ? -158
+[ALERT] Low stock: Orange ? -164
+[THREAD] Stock check ended at 02/12/2025 5:02:42 pm
+[THREAD] Stock check started at 02/12/2025 5:02:47 pm
+LOW STOCK → Apple: -151
+LOW STOCK → Banana: -161
+LOW STOCK → Orange: -165
+[STATE] LastCheckTime updated to 02/12/2025 5:02:47 pm
+[ALERT] Low stock: Apple ? -151
+[ALERT] Low stock: Banana ? -161
+[ALERT] Low stock: Orange ? -165
+[THREAD] Stock check ended at 02/12/2025 5:02:47 pm
+[THREAD] Stock check started at 02/12/2025 5:02:52 pm
+LOW STOCK → Apple: -155
+LOW STOCK → Banana: -163
+LOW STOCK → Orange: -168
+[STATE] LastCheckTime updated to 02/12/2025 5:02:52 pm
+[ALERT] Low stock: Apple ? -155
+[ALERT] Low stock: Banana ? -163
+[ALERT] Low stock: Orange ? -168
+[THREAD] Stock check ended at 02/12/2025 5:02:52 pm
+[THREAD] Stock check started at 02/12/2025 5:02:57 pm
+LOW STOCK → Apple: -156
+LOW STOCK → Banana: -165
+LOW STOCK → Orange: -171
+[STATE] LastCheckTime updated to 02/12/2025 5:02:57 pm
+[ALERT] Low stock: Apple ? -156
+[ALERT] Low stock: Banana ? -165
+[ALERT] Low stock: Orange ? -171
+[THREAD] Stock check ended at 02/12/2025 5:02:57 pm
+[THREAD] Stock check started at 02/12/2025 5:03:02 pm
+LOW STOCK → Apple: -158
+LOW STOCK → Banana: -166
+LOW STOCK → Orange: -175
+[STATE] LastCheckTime updated to 02/12/2025 5:03:02 pm
+[ALERT] Low stock: Apple ? -158
+[ALERT] Low stock: Banana ? -166
+[ALERT] Low stock: Orange ? -175
+[THREAD] Stock check ended at 02/12/2025 5:03:02 pm
+[THREAD] Stock check started at 02/12/2025 5:03:07 pm
+LOW STOCK → Apple: -162
+LOW STOCK → Banana: -168
+LOW STOCK → Orange: -178
+[STATE] LastCheckTime updated to 02/12/2025 5:03:07 pm
+[ALERT] Low stock: Apple ? -162
+[ALERT] Low stock: Banana ? -168
+[ALERT] Low stock: Orange ? -178
+[THREAD] Stock check ended at 02/12/2025 5:03:07 pm
+[THREAD] Stock check started at 02/12/2025 5:03:12 pm
+LOW STOCK → Apple: -166
+LOW STOCK → Banana: -171
+LOW STOCK → Orange: -180
+[STATE] LastCheckTime updated to 02/12/2025 5:03:12 pm
+[ALERT] Low stock: Apple ? -166
+[ALERT] Low stock: Banana ? -171
+[ALERT] Low stock: Orange ? -180
+[THREAD] Stock check ended at 02/12/2025 5:03:12 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 5:03:16 pm
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 02/12/2025 5:03:16 pm
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 02/12/2025 5:03:16 pm
+[THREAD] Background stock checker started.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BlazorWasmHotReloadMiddleware: Debug: Middleware loaded
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16529 B).
+[THREAD] Stock check started at 02/12/2025 5:03:31 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+LOW STOCK → Orange: 0
+[STATE] LastCheckTime updated to 02/12/2025 5:03:31 pm
+[ALERT] Low stock: Orange ? 0
+[THREAD] Stock check ended at 02/12/2025 5:03:31 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:7178
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5053
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: E:\CS4\Advance_Programming\BackgroundStockChecker\BackgroundStockChecker
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:03:36 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 5:03:37 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 5:03:37 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:03:42 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 5:03:42 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 5:03:42 pm
+[THREAD] Stock check started at 02/12/2025 5:03:47 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Orange: -5
+[STATE] LastCheckTime updated to 02/12/2025 5:03:47 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Orange ? -5
+[THREAD] Stock check ended at 02/12/2025 5:03:47 pm
+[THREAD] Stock check started at 02/12/2025 5:03:52 pm
+LOW STOCK → Apple: -3
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 5:03:52 pm
+[ALERT] Low stock: Apple ? -3
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 5:03:52 pm
+[THREAD] Stock check started at 02/12/2025 5:03:57 pm
+LOW STOCK → Apple: -7
+LOW STOCK → Banana: 1
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 5:03:58 pm
+[ALERT] Low stock: Apple ? -7
+[ALERT] Low stock: Banana ? 1
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 5:03:58 pm
+[THREAD] Stock check started at 02/12/2025 5:04:03 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: 0
+LOW STOCK → Orange: -15
+[STATE] LastCheckTime updated to 02/12/2025 5:04:03 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? 0
+[ALERT] Low stock: Orange ? -15
+[THREAD] Stock check ended at 02/12/2025 5:04:03 pm
+[THREAD] Stock check started at 02/12/2025 5:04:08 pm
+LOW STOCK → Apple: -11
+LOW STOCK → Banana: -3
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 5:04:08 pm
+[ALERT] Low stock: Apple ? -11
+[ALERT] Low stock: Banana ? -3
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 5:04:08 pm
+[THREAD] Stock check started at 02/12/2025 5:04:13 pm
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -17
+[STATE] LastCheckTime updated to 02/12/2025 5:04:13 pm
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -17
+[THREAD] Stock check ended at 02/12/2025 5:04:13 pm
+[THREAD] Stock check started at 02/12/2025 5:04:18 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 5:04:19 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 5:04:19 pm
+[THREAD] Stock check started at 02/12/2025 5:04:24 pm
+LOW STOCK → Apple: -18
+LOW STOCK → Banana: -11
+LOW STOCK → Orange: -20
+[STATE] LastCheckTime updated to 02/12/2025 5:04:24 pm
+[ALERT] Low stock: Apple ? -18
+[ALERT] Low stock: Banana ? -11
+[ALERT] Low stock: Orange ? -20
+[THREAD] Stock check ended at 02/12/2025 5:04:24 pm
+[THREAD] Stock check started at 02/12/2025 5:04:29 pm
+LOW STOCK → Apple: -20
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -21
+[STATE] LastCheckTime updated to 02/12/2025 5:04:29 pm
+[ALERT] Low stock: Apple ? -20
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -21
+[THREAD] Stock check ended at 02/12/2025 5:04:29 pm
+[THREAD] Stock check started at 02/12/2025 5:04:34 pm
+LOW STOCK → Apple: -22
+LOW STOCK → Banana: -16
+LOW STOCK → Orange: -25
+[STATE] LastCheckTime updated to 02/12/2025 5:04:34 pm
+[ALERT] Low stock: Apple ? -22
+[ALERT] Low stock: Banana ? -16
+[ALERT] Low stock: Orange ? -25
+[THREAD] Stock check ended at 02/12/2025 5:04:34 pm
+[THREAD] Stock check started at 02/12/2025 5:04:39 pm
+LOW STOCK → Apple: -26
+LOW STOCK → Banana: -20
+LOW STOCK → Orange: -29
+[STATE] LastCheckTime updated to 02/12/2025 5:04:39 pm
+[ALERT] Low stock: Apple ? -26
+[ALERT] Low stock: Banana ? -20
+[ALERT] Low stock: Orange ? -29
+[THREAD] Stock check ended at 02/12/2025 5:04:39 pm
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 02/12/2025 5:05:00 pm
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 5:05:00 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 5:05:00 pm
+[THREAD] Stock check started at 02/12/2025 5:05:05 pm
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 5:05:05 pm
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 5:05:05 pm
+[THREAD] Stock check started at 02/12/2025 5:05:10 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -8
+[STATE] LastCheckTime updated to 02/12/2025 5:05:10 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -8
+[THREAD] Stock check ended at 02/12/2025 5:05:10 pm
+[THREAD] Stock check started at 02/12/2025 5:05:15 pm
+LOW STOCK → Apple: 1
+LOW STOCK → Orange: -9
+[STATE] LastCheckTime updated to 02/12/2025 5:05:15 pm
+[ALERT] Low stock: Apple ? 1
+[ALERT] Low stock: Orange ? -9
+[THREAD] Stock check ended at 02/12/2025 5:05:15 pm
+[THREAD] Stock check started at 02/12/2025 5:05:20 pm
+LOW STOCK → Apple: -1
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 02/12/2025 5:05:20 pm
+[ALERT] Low stock: Apple ? -1
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 02/12/2025 5:05:20 pm
+[THREAD] Stock check started at 02/12/2025 5:05:25 pm
+LOW STOCK → Apple: -5
+LOW STOCK → Banana: 1
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 02/12/2025 5:05:25 pm
+[ALERT] Low stock: Apple ? -5
+[ALERT] Low stock: Banana ? 1
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 02/12/2025 5:05:25 pm
+[THREAD] Stock check started at 02/12/2025 5:05:30 pm
+LOW STOCK → Apple: -6
+LOW STOCK → Banana: -2
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 5:05:30 pm
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Banana ? -2
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 5:05:30 pm
+[THREAD] Stock check started at 02/12/2025 5:05:35 pm
+LOW STOCK → Apple: -10
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 02/12/2025 5:05:35 pm
+[ALERT] Low stock: Apple ? -10
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 02/12/2025 5:05:35 pm
+[THREAD] Stock check started at 02/12/2025 5:05:40 pm
+LOW STOCK → Apple: -13
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -25
+[STATE] LastCheckTime updated to 02/12/2025 5:05:40 pm
+[ALERT] Low stock: Apple ? -13
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -25
+[THREAD] Stock check ended at 02/12/2025 5:05:40 pm
+[THREAD] Stock check started at 02/12/2025 5:05:45 pm
+LOW STOCK → Apple: -17
+LOW STOCK → Banana: -6
+LOW STOCK → Orange: -29
+[STATE] LastCheckTime updated to 02/12/2025 5:05:45 pm
+[ALERT] Low stock: Apple ? -17
+[ALERT] Low stock: Banana ? -6
+[ALERT] Low stock: Orange ? -29
+[THREAD] Stock check ended at 02/12/2025 5:05:45 pm
+[THREAD] Stock check started at 02/12/2025 5:05:50 pm
+LOW STOCK → Apple: -20
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -33
+[STATE] LastCheckTime updated to 02/12/2025 5:05:50 pm
+[ALERT] Low stock: Apple ? -20
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -33
+[THREAD] Stock check ended at 02/12/2025 5:05:50 pm
+[THREAD] Stock check started at 02/12/2025 5:05:55 pm
+LOW STOCK → Apple: -23
+LOW STOCK → Banana: -8
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 02/12/2025 5:05:55 pm
+[ALERT] Low stock: Apple ? -23
+[ALERT] Low stock: Banana ? -8
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 02/12/2025 5:05:55 pm
+[THREAD] Stock check started at 02/12/2025 5:06:00 pm
+LOW STOCK → Apple: -25
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -37
+[STATE] LastCheckTime updated to 02/12/2025 5:06:00 pm
+[ALERT] Low stock: Apple ? -25
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -37
+[THREAD] Stock check ended at 02/12/2025 5:06:00 pm
+[THREAD] Stock check started at 02/12/2025 5:06:05 pm
+LOW STOCK → Apple: -28
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -41
+[STATE] LastCheckTime updated to 02/12/2025 5:06:05 pm
+[ALERT] Low stock: Apple ? -28
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -41
+[THREAD] Stock check ended at 02/12/2025 5:06:05 pm
+[THREAD] Stock check started at 02/12/2025 5:06:10 pm
+LOW STOCK → Apple: -30
+LOW STOCK → Banana: -14
+LOW STOCK → Orange: -44
+[STATE] LastCheckTime updated to 02/12/2025 5:06:10 pm
+[ALERT] Low stock: Apple ? -30
+[ALERT] Low stock: Banana ? -14
+[ALERT] Low stock: Orange ? -44
+[THREAD] Stock check ended at 02/12/2025 5:06:10 pm
+[THREAD] Stock check started at 02/12/2025 5:06:15 pm
+LOW STOCK → Apple: -33
+LOW STOCK → Banana: -18
+LOW STOCK → Orange: -45
+[STATE] LastCheckTime updated to 02/12/2025 5:06:15 pm
+[ALERT] Low stock: Apple ? -33
+[ALERT] Low stock: Banana ? -18
+[ALERT] Low stock: Orange ? -45
+[THREAD] Stock check ended at 02/12/2025 5:06:15 pm
+[THREAD] Stock check started at 02/12/2025 5:06:20 pm
+LOW STOCK → Apple: -37
+LOW STOCK → Banana: -19
+LOW STOCK → Orange: -46
+[STATE] LastCheckTime updated to 02/12/2025 5:06:20 pm
+[ALERT] Low stock: Apple ? -37
+[ALERT] Low stock: Banana ? -19
+[ALERT] Low stock: Orange ? -46
+[THREAD] Stock check ended at 02/12/2025 5:06:20 pm
+[THREAD] Stock check started at 02/12/2025 5:06:25 pm
+LOW STOCK → Apple: -41
+LOW STOCK → Banana: -20
+LOW STOCK → Orange: -50
+[STATE] LastCheckTime updated to 02/12/2025 5:06:25 pm
+[ALERT] Low stock: Apple ? -41
+[ALERT] Low stock: Banana ? -20
+[ALERT] Low stock: Orange ? -50
+[THREAD] Stock check ended at 02/12/2025 5:06:25 pm
+[THREAD] Stock check started at 02/12/2025 5:06:30 pm
+LOW STOCK → Apple: -45
+LOW STOCK → Banana: -23
+LOW STOCK → Orange: -53
+[STATE] LastCheckTime updated to 02/12/2025 5:06:30 pm
+[ALERT] Low stock: Apple ? -45
+[ALERT] Low stock: Banana ? -23
+[ALERT] Low stock: Orange ? -53
+[THREAD] Stock check ended at 02/12/2025 5:06:30 pm
+[THREAD] Stock check started at 02/12/2025 5:06:36 pm
+LOW STOCK → Apple: -47
+LOW STOCK → Banana: -26
+LOW STOCK → Orange: -56
+[STATE] LastCheckTime updated to 02/12/2025 5:06:36 pm
+[ALERT] Low stock: Apple ? -47
+[ALERT] Low stock: Banana ? -26
+[ALERT] Low stock: Orange ? -56
+[THREAD] Stock check ended at 02/12/2025 5:06:36 pm
+[THREAD] Stock check started at 02/12/2025 5:06:41 pm
+LOW STOCK → Apple: -48
+LOW STOCK → Banana: -29
+LOW STOCK → Orange: -59
+[STATE] LastCheckTime updated to 02/12/2025 5:06:41 pm
+[ALERT] Low stock: Apple ? -48
+[ALERT] Low stock: Banana ? -29
+[ALERT] Low stock: Orange ? -59
+[THREAD] Stock check ended at 02/12/2025 5:06:41 pm
+[THREAD] Stock check started at 02/12/2025 5:06:46 pm
+LOW STOCK → Apple: -52
+LOW STOCK → Banana: -30
+LOW STOCK → Orange: -63
+[STATE] LastCheckTime updated to 02/12/2025 5:06:46 pm
+[ALERT] Low stock: Apple ? -52
+[ALERT] Low stock: Banana ? -30
+[ALERT] Low stock: Orange ? -63
+[THREAD] Stock check ended at 02/12/2025 5:06:46 pm
+[THREAD] Stock check started at 02/12/2025 5:06:51 pm
+LOW STOCK → Apple: -56
+LOW STOCK → Banana: -34
+LOW STOCK → Orange: -64
+[STATE] LastCheckTime updated to 02/12/2025 5:06:51 pm
+[ALERT] Low stock: Apple ? -56
+[ALERT] Low stock: Banana ? -34
+[ALERT] Low stock: Orange ? -64
+[THREAD] Stock check ended at 02/12/2025 5:06:51 pm
+[THREAD] Stock check started at 02/12/2025 5:06:56 pm
+LOW STOCK → Apple: -58
+LOW STOCK → Banana: -35
+LOW STOCK → Orange: -67
+[STATE] LastCheckTime updated to 02/12/2025 5:06:56 pm
+[ALERT] Low stock: Apple ? -58
+[ALERT] Low stock: Banana ? -35
+[ALERT] Low stock: Orange ? -67
+[THREAD] Stock check ended at 02/12/2025 5:06:56 pm
+[THREAD] Stock check started at 02/12/2025 5:07:01 pm
+LOW STOCK → Apple: -61
+LOW STOCK → Banana: -38
+LOW STOCK → Orange: -69
+[STATE] LastCheckTime updated to 02/12/2025 5:07:01 pm
+[ALERT] Low stock: Apple ? -61
+[ALERT] Low stock: Banana ? -38
+[ALERT] Low stock: Orange ? -69
+[THREAD] Stock check ended at 02/12/2025 5:07:01 pm
+[THREAD] Stock check started at 02/12/2025 5:07:06 pm
+LOW STOCK → Apple: -65
+LOW STOCK → Banana: -42
+LOW STOCK → Orange: -71
+[STATE] LastCheckTime updated to 02/12/2025 5:07:06 pm
+[ALERT] Low stock: Apple ? -65
+[ALERT] Low stock: Banana ? -42
+[ALERT] Low stock: Orange ? -71
+[THREAD] Stock check ended at 02/12/2025 5:07:06 pm
+[THREAD] Stock check started at 02/12/2025 5:07:11 pm
+LOW STOCK → Apple: -66
+LOW STOCK → Banana: -43
+LOW STOCK → Orange: -75
+[STATE] LastCheckTime updated to 02/12/2025 5:07:11 pm
+[ALERT] Low stock: Apple ? -66
+[ALERT] Low stock: Banana ? -43
+[ALERT] Low stock: Orange ? -75
+[THREAD] Stock check ended at 02/12/2025 5:07:11 pm
+[THREAD] Stock check started at 02/12/2025 5:07:16 pm
+LOW STOCK → Apple: -69
+LOW STOCK → Banana: -46
+LOW STOCK → Orange: -77
+[STATE] LastCheckTime updated to 02/12/2025 5:07:16 pm
+[ALERT] Low stock: Apple ? -69
+[ALERT] Low stock: Banana ? -46
+[ALERT] Low stock: Orange ? -77
+[THREAD] Stock check ended at 02/12/2025 5:07:16 pm
+[THREAD] Background stock checker started.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BlazorWasmHotReloadMiddleware: Debug: Middleware loaded
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16529 B).
+[THREAD] Stock check started at 02/12/2025 5:07:23 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
+LOW STOCK → Orange: -1
+[STATE] LastCheckTime updated to 02/12/2025 5:07:23 pm
+[ALERT] Low stock: Orange ? -1
+[THREAD] Stock check ended at 02/12/2025 5:07:23 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:7178
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5053
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: E:\CS4\Advance_Programming\BackgroundStockChecker\BackgroundStockChecker
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:07:28 pm
+LOW STOCK → Apple: 4
+LOW STOCK → Orange: -4
+[STATE] LastCheckTime updated to 02/12/2025 5:07:28 pm
+[ALERT] Low stock: Apple ? 4
+[ALERT] Low stock: Orange ? -4
+[THREAD] Stock check ended at 02/12/2025 5:07:28 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:07:33 pm
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -7
+[STATE] LastCheckTime updated to 02/12/2025 5:07:33 pm
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -7
+[THREAD] Stock check ended at 02/12/2025 5:07:33 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:07:38 pm
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 02/12/2025 5:07:38 pm
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 02/12/2025 5:07:38 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:07:40 pm
+LOW STOCK → Apple: 0
+LOW STOCK → Banana: 2
+LOW STOCK → Orange: -12
+[STATE] LastCheckTime updated to 02/12/2025 5:07:40 pm
+[ALERT] Low stock: Apple ? 0
+[ALERT] Low stock: Banana ? 2
+[ALERT] Low stock: Orange ? -12
+[THREAD] Stock check ended at 02/12/2025 5:07:40 pm
+[MANUAL] Manual stock check executed.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+[THREAD] Stock check started at 02/12/2025 5:07:43 pm
+LOW STOCK → Apple: -4
+LOW STOCK → Banana: -1
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+LOW STOCK → Orange: -14
+[STATE] LastCheckTime updated to 02/12/2025 5:07:43 pm
+[ALERT] Low stock: Apple ? -4
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -14
+[THREAD] Stock check ended at 02/12/2025 5:07:44 pm
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+[THREAD] Stock check started at 02/12/2025 5:07:49 pm
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: -5
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 02/12/2025 5:07:49 pm
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? -5
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 02/12/2025 5:07:49 pm
+[THREAD] Stock check started at 02/12/2025 5:07:54 pm
+LOW STOCK → Apple: -9
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -19
+[STATE] LastCheckTime updated to 02/12/2025 5:07:54 pm
+[ALERT] Low stock: Apple ? -9
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -19
+[THREAD] Stock check ended at 02/12/2025 5:07:54 pm
+[THREAD] Stock check started at 02/12/2025 5:07:59 pm
+LOW STOCK → Apple: -12
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -21
+[STATE] LastCheckTime updated to 02/12/2025 5:07:59 pm
+[ALERT] Low stock: Apple ? -12
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -21
+[THREAD] Stock check ended at 02/12/2025 5:07:59 pm
+[THREAD] Stock check started at 02/12/2025 5:08:04 pm
+LOW STOCK → Apple: -13
+LOW STOCK → Banana: -10
+LOW STOCK → Orange: -25
+[STATE] LastCheckTime updated to 02/12/2025 5:08:04 pm
+[ALERT] Low stock: Apple ? -13
+[ALERT] Low stock: Banana ? -10
+[ALERT] Low stock: Orange ? -25
+[THREAD] Stock check ended at 02/12/2025 5:08:04 pm
+Microsoft.Hosting.Lifetime: Information: Application is shutting down...
+[THREAD] Background stock checker stopped.

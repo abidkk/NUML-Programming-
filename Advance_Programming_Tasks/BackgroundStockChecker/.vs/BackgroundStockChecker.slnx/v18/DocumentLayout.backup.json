@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\views\\logs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\views\\logs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\services\\stockalertdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\services\\stockalertdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\services\\stockcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\services\\stockcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\logging\\filetracelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\logging\\filetracelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\services\\istockcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\services\\istockcheckerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|e:\\cs4\\advance_programming\\backgroundstockchecker\\backgroundstockchecker\\backgroundstockchecker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC8C438D-46DF-7747-5363-E819AC7B51B5}|BackgroundStockChecker\\BackgroundStockChecker.csproj|solutionrelative:backgroundstockchecker\\backgroundstockchecker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 183,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Logs\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Views\\Logs\\Index.cshtml",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Logs\\Index.cshtml",
+              "RelativeToolTip": "BackgroundStockChecker\\Views\\Logs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:54:28.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "BackgroundStockChecker\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:41:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Controllers\\LogsController.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:36:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Controllers\\StockController.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Controllers\\StockController.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:35:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BackgroundStockChecker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:26:19.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileTraceListener.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Logging\\FileTraceListener.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Logging\\FileTraceListener.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Logging\\FileTraceListener.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Logging\\FileTraceListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:58:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\appsettings.json",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\appsettings.json",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\appsettings.json",
+              "RelativeToolTip": "BackgroundStockChecker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T13:39:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockAlertDelegate.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Services\\StockAlertDelegate.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Services\\StockAlertDelegate.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Services\\StockAlertDelegate.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Services\\StockAlertDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:13:54.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "BackgroundStockChecker\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T06:23:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:22:24.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Program.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Program.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Program.cs*",
+              "RelativeToolTip": "BackgroundStockChecker\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:21:21.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockCheckerService.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Services\\StockCheckerService.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Services\\StockCheckerService.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Services\\StockCheckerService.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Services\\StockCheckerService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:20:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStockCheckerService.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Services\\IStockCheckerService.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Services\\IStockCheckerService.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Services\\IStockCheckerService.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Services\\IStockCheckerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:17:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackgroundStockChecker.csproj",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\BackgroundStockChecker.csproj",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\BackgroundStockChecker.csproj",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\BackgroundStockChecker.csproj",
+              "RelativeToolTip": "BackgroundStockChecker\\BackgroundStockChecker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T06:16:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BackgroundStockChecker\\Models\\Product.cs",
+              "ToolTip": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\Models\\Product.cs",
+              "RelativeToolTip": "BackgroundStockChecker\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T06:14:49.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

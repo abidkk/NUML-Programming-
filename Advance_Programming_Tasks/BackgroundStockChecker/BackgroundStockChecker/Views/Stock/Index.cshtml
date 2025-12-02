@@ -1,0 +1,40 @@
+﻿@model List<BackgroundStockChecker.Models.Product>
+
+@{
+    ViewData["Title"] = "Stock Page";
+}
+
+<h2>Stock List</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+@if (Model == null)
+{
+    <p class="alert alert-danger">Error: Product list is missing.</p>
+    return;
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr class="@(p.Stock < 5 ? "table-danger" : "")">
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td>@p.Stock</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Stock/ManualCheck" class="btn btn-warning">Run Manual Check</a>
