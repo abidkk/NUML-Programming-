@@ -32,9 +32,9 @@ namespace BackgroundStockChecker.Services
         public StockCheckerService()
         {
             // Seed data
-            _products.Add(new Product { Id = 1, Name = "Apple", Stock = 10 });
-            _products.Add(new Product { Id = 2, Name = "Banana", Stock = 15 });
-            _products.Add(new Product { Id = 3, Name = "Orange", Stock = 1 });
+            _products.Add(new Product { Id = 1, Name = "Graphic Cards", Stock = 10 });
+            _products.Add(new Product { Id = 2, Name = "Laptops", Stock = 15 });
+            _products.Add(new Product { Id = 3, Name = "SSDs", Stock = 1 });
         }
 
         // Returns safe copy

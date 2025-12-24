@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\BackgroundStockChecker.csproj",
+      "projectUniqueName": "E:\\CS4\\NUML-Programming-\\Advance_Programming_Tasks\\BackgroundStockChecker\\BackgroundStockChecker\\BackgroundStockChecker.csproj",
       "projectName": "BackgroundStockChecker",
-      "projectPath": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\BackgroundStockChecker.csproj",
+      "projectPath": "E:\\CS4\\NUML-Programming-\\Advance_Programming_Tasks\\BackgroundStockChecker\\BackgroundStockChecker\\BackgroundStockChecker.csproj",
       "packagesPath": "C:\\Users\\aabidkhokhar\\.nuget\\packages\\",
-      "outputPath": "E:\\CS4\\Advance_Programming\\BackgroundStockChecker\\BackgroundStockChecker\\obj\\",
+      "outputPath": "E:\\CS4\\NUML-Programming-\\Advance_Programming_Tasks\\BackgroundStockChecker\\BackgroundStockChecker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual_Programming\\shared\\NuGetPackages"

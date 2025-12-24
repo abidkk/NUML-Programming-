@@ -4916,3 +4916,122 @@ LOW STOCK → Orange: -25
 [THREAD] Stock check ended at 02/12/2025 5:08:04 pm
 Microsoft.Hosting.Lifetime: Information: Application is shutting down...
 [THREAD] Background stock checker stopped.
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 24/12/2025 9:48:00 am
+LOW STOCK → Orange: -3
+[STATE] LastCheckTime updated to 24/12/2025 9:48:00 am
+[ALERT] Low stock: Orange ? -3
+[THREAD] Stock check ended at 24/12/2025 9:48:01 am
+[THREAD] Stock check started at 24/12/2025 9:48:06 am
+LOW STOCK → Apple: 3
+LOW STOCK → Orange: -6
+[STATE] LastCheckTime updated to 24/12/2025 9:48:06 am
+[ALERT] Low stock: Apple ? 3
+[ALERT] Low stock: Orange ? -6
+[THREAD] Stock check ended at 24/12/2025 9:48:06 am
+[THREAD] Stock check started at 24/12/2025 9:48:11 am
+LOW STOCK → Apple: 2
+LOW STOCK → Orange: -10
+[STATE] LastCheckTime updated to 24/12/2025 9:48:11 am
+[ALERT] Low stock: Apple ? 2
+[ALERT] Low stock: Orange ? -10
+[THREAD] Stock check ended at 24/12/2025 9:48:11 am
+[THREAD] Stock check started at 24/12/2025 9:48:16 am
+LOW STOCK → Apple: -2
+LOW STOCK → Orange: -13
+[STATE] LastCheckTime updated to 24/12/2025 9:48:16 am
+[ALERT] Low stock: Apple ? -2
+[ALERT] Low stock: Orange ? -13
+[THREAD] Stock check ended at 24/12/2025 9:48:16 am
+[THREAD] Stock check started at 24/12/2025 9:48:21 am
+LOW STOCK → Apple: -6
+LOW STOCK → Orange: -16
+[STATE] LastCheckTime updated to 24/12/2025 9:48:21 am
+[ALERT] Low stock: Apple ? -6
+[ALERT] Low stock: Orange ? -16
+[THREAD] Stock check ended at 24/12/2025 9:48:21 am
+[THREAD] Stock check started at 24/12/2025 9:48:26 am
+LOW STOCK → Apple: -7
+LOW STOCK → Banana: 3
+LOW STOCK → Orange: -18
+[STATE] LastCheckTime updated to 24/12/2025 9:48:26 am
+[ALERT] Low stock: Apple ? -7
+[ALERT] Low stock: Banana ? 3
+[ALERT] Low stock: Orange ? -18
+[THREAD] Stock check ended at 24/12/2025 9:48:26 am
+[THREAD] Stock check started at 24/12/2025 9:48:31 am
+LOW STOCK → Apple: -8
+LOW STOCK → Banana: -1
+LOW STOCK → Orange: -22
+[STATE] LastCheckTime updated to 24/12/2025 9:48:31 am
+[ALERT] Low stock: Apple ? -8
+[ALERT] Low stock: Banana ? -1
+[ALERT] Low stock: Orange ? -22
+[THREAD] Stock check ended at 24/12/2025 9:48:31 am
+[THREAD] Stock check started at 24/12/2025 9:48:36 am
+LOW STOCK → Apple: -12
+LOW STOCK → Banana: -3
+LOW STOCK → Orange: -23
+[STATE] LastCheckTime updated to 24/12/2025 9:48:36 am
+[ALERT] Low stock: Apple ? -12
+[ALERT] Low stock: Banana ? -3
+[ALERT] Low stock: Orange ? -23
+[THREAD] Stock check ended at 24/12/2025 9:48:36 am
+[THREAD] Stock check started at 24/12/2025 9:48:41 am
+LOW STOCK → Apple: -14
+LOW STOCK → Banana: -4
+LOW STOCK → Orange: -24
+[STATE] LastCheckTime updated to 24/12/2025 9:48:41 am
+[ALERT] Low stock: Apple ? -14
+[ALERT] Low stock: Banana ? -4
+[ALERT] Low stock: Orange ? -24
+[THREAD] Stock check ended at 24/12/2025 9:48:41 am
+[THREAD] Stock check started at 24/12/2025 9:48:46 am
+LOW STOCK → Apple: -18
+LOW STOCK → Banana: -7
+LOW STOCK → Orange: -28
+[STATE] LastCheckTime updated to 24/12/2025 9:48:46 am
+[ALERT] Low stock: Apple ? -18
+[ALERT] Low stock: Banana ? -7
+[ALERT] Low stock: Orange ? -28
+[THREAD] Stock check ended at 24/12/2025 9:48:46 am
+[THREAD] Stock check started at 24/12/2025 9:48:51 am
+LOW STOCK → Apple: -20
+LOW STOCK → Banana: -9
+LOW STOCK → Orange: -32
+[STATE] LastCheckTime updated to 24/12/2025 9:48:51 am
+[ALERT] Low stock: Apple ? -20
+[ALERT] Low stock: Banana ? -9
+[ALERT] Low stock: Orange ? -32
+[THREAD] Stock check ended at 24/12/2025 9:48:51 am
+[THREAD] Stock check started at 24/12/2025 9:48:56 am
+LOW STOCK → Apple: -23
+LOW STOCK → Banana: -13
+LOW STOCK → Orange: -36
+[STATE] LastCheckTime updated to 24/12/2025 9:48:56 am
+[ALERT] Low stock: Apple ? -23
+[ALERT] Low stock: Banana ? -13
+[ALERT] Low stock: Orange ? -36
+[THREAD] Stock check ended at 24/12/2025 9:48:56 am
+[THREAD] Background stock checker stopped.
+[THREAD] Background stock checker started.
+[THREAD] Stock check started at 24/12/2025 9:49:12 am
+LOW STOCK → SSDs: -3
+[STATE] LastCheckTime updated to 24/12/2025 9:49:12 am
+[ALERT] Low stock: SSDs ? -3
+[THREAD] Stock check ended at 24/12/2025 9:49:12 am
+[THREAD] Stock check started at 24/12/2025 9:49:17 am
+LOW STOCK → Graphic Cards: 2
+LOW STOCK → SSDs: -6
+[STATE] LastCheckTime updated to 24/12/2025 9:49:17 am
+[ALERT] Low stock: Graphic Cards ? 2
+[ALERT] Low stock: SSDs ? -6
+[THREAD] Stock check ended at 24/12/2025 9:49:17 am
+[THREAD] Stock check started at 24/12/2025 9:49:22 am
+LOW STOCK → Graphic Cards: 1
+LOW STOCK → SSDs: -9
+[STATE] LastCheckTime updated to 24/12/2025 9:49:22 am
+[ALERT] Low stock: Graphic Cards ? 1
+[ALERT] Low stock: SSDs ? -9
+[THREAD] Stock check ended at 24/12/2025 9:49:22 am
+[THREAD] Background stock checker stopped.
